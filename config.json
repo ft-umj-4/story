@@ -1,0 +1,44 @@
+{
+  "locals": {
+    "url": "https://ft-umj-4.github.io/story",
+    "logoUrl": "https://ft-umj-4.github.io/ft-umj-iv.jpg",
+    "name": "FT UMJ IV Stories",
+    "owner": "GROUP FT UMJ IV",
+    "description": "Many stories from FT UMJ IV",
+    "sitemap": "sitemap.xml"
+  },
+  "plugins": [
+    "./plugins/paginator.coffee",
+    "wintersmith-sassify",    
+    "wintersmith-contents",
+    "wintersmith-robots",
+    "wintersmith-tag"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "paginator": {
+    "perPage": 5
+  },
+  "sassify": {
+    "outputStyle": "compressed",
+    "sourceComments": "false",
+    "sourceMap": false
+  },
+  "tag": {
+      "perPage": 2
+  },
+  "jsbundler": {
+    "sourceMap": false,
+    "minify": true
+  }
+}
