@@ -1,0 +1,42 @@
+
+extends layout
+
+block content
+  include author
+  
+  each article in articles
+    article.article.intro
+      header.article__header
+        div.article__title
+          a(href=locals.url+article.url)= article.title  
+
+      div.author
+        | #{ 'Ditulis oleh ' }
+        mixin author(article.metadata.author)
+
+      div.date-publish.m-bottom-5
+        | #{ 'Dipublikasikan ' }
+        = moment.utc(article.date).format('DD MMM YYYY')
+
+      section.article__content
+        if article.intro.length > 0
+          != typogr(article.intro).typogrify()
+        if article.hasMore
+          p.more
+            a(href=locals.url+article.url) read more
+          
+      div.article__tags   
+        span Tags :    
+        - var tags = env.helpers.getTagsFromArticle(article)
+          each tag in tags
+            if env.helpers.getTagHome(tag) !== undefined
+              a(href=locals.url+env.helpers.getTagHome(tag).url)= tag
+
+block prepend footer
+  div.nav
+    if prevPage
+      a(href=locals.url+prevPage.url) &laquo; See newer
+    else
+      a(href=locals.url+'/archive.html') &laquo; See Archives
+    if nextPage
+      a(href=locals.url+nextPage.url) See older &raquo;
