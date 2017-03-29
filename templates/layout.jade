@@ -64,4 +64,8 @@ html(lang='en')
             a(href='https://ft-umj-4.github.io/stories/', target='_blank')
               i.fa.fa-rss
 
+
+  script(src="https://code.jquery.com/jquery-2.2.4.min.js")
+  script.
+    var ROOT_URL = "#{locals.url}";  
   script(src=locals.url+contents.js['all-script.js'].url)
