@@ -85,7 +85,9 @@ hr {
     border-top: 1px dashed #d2d2d2;
 }
 
-
+small{
+    color: #8e908c;
+}
 /* page header */
 .author, .date-publish {
     font-variant: small-caps;
@@ -182,8 +184,10 @@ footer .social a {
 
 .article__content img {    
     display: block;
-    width: 80%;
+    width: 100%;
     margin: 1em 0;
+    box-shadow: 8px 8px 10px #aaa;
+    border: 15px solid #3e2b14;
 }
 .article__tags span{
     font-size: 14px;
