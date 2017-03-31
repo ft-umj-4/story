@@ -2,9 +2,9 @@
   "locals": {
     "url": "https://ft-umj-4.github.io/story",
     "logoUrl": "https://ft-umj-4.github.io/ft-umj-iv.jpg",
-    "name": "FT UMJ IV Stories",
+    "name": "FT UMJ IV",
     "owner": "GROUP FT UMJ IV",
-    "description": "Many stories from FT UMJ IV",
+    "description": "Secuil cerita dan dokumentasi kegiatan dari group FT UMJ IV",
     "sitemap": "sitemap.xml"
   },
   "plugins": [
