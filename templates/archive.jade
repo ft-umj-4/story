@@ -13,7 +13,10 @@ block content
   - var month_names = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember']
 
   section.archive
-    h2 Semua Artikel
+    h2 
+      i.fa.fa-star
+      | #{ '  Semua Artikel  ' }
+      i.fa.fa-star
 
     - var yearsK = _.chain(archives).keys().reverse().value();
     each yearK in yearsK
@@ -30,13 +33,17 @@ block content
 
           div.archive__month
             div.archive__month-label
-              | #{ 'Bulan ' }
+              i.fa.fa-chevron-right
+              | #{ ' Bulan ' }
               = month_names[monthK]
 
             ul
               each item in months[monthK]
 
                 li.archive__article
+                  i.fa.fa-angle-double-right
+                  | #{ ' ' }
                   a(href=locals.url+item.url)= item.title
+                  | #{ ' dipublikasikan ' }
                   span
                     =moment.utc(item.date).format('DD MMM YYYY')
