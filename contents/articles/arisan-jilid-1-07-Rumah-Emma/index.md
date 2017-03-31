@@ -6,7 +6,7 @@ template: article.jade
 tags: arisan
 ---
 
-Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-7 yang kita adakan
+Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-7 yang kita adakan di Rumah Bu Bendahara Terbaik Emma, berikut adalah beberapa dokumentasinya :
 
 
 ![Arisan Jilid 07 - 1](Arisan-Jilid-07-1.jpg)

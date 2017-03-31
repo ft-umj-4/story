@@ -6,10 +6,13 @@ template: article.jade
 tags: arisan
 ---
 
-Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-3 yang kita adakan
+Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-3 yang kita adakan di Rumah Om Anto
+
+![Arisan Jilid 03 - 0](Arisan-Jilid-03-0.jpg)
+<small>_Keterangan foto : Perjalanan menuju TKP_</small>
 
 ![Arisan Jilid 03 - 1](Arisan-Jilid-03-1.jpg)
-<small>_Keterangan foto :_</small>
+<small>_Keterangan foto : Edy sama Snoy yang dapat_</small>
 
 <span class="more"></span>
 

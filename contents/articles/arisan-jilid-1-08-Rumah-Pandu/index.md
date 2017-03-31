@@ -6,7 +6,7 @@ template: article.jade
 tags: arisan
 ---
 
-Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-8 yang kita adakan
+Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-8 yang kita adakan di kediaaman Om Pandu dan Yanti, berikut beberapa dokumentasi yang kita kupulkan :
 
 ![Arisan Jilid 08 - 1](Arisan-Jilid-08-1.jpg)
 <small>_Keterangan foto :_</small>
