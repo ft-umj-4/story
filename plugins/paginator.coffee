@@ -12,6 +12,7 @@ module.exports = (env, callback) ->
 
   # modify by wintersmith-tag
   tagDefaults = 
+    filename: 'page/%d/index.html'
 
   # assign defaults any option not set in the config file
   options = env.config.paginator or {}
