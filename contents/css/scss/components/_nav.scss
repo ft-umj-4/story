@@ -9,15 +9,26 @@
 	}
 
 	&__logo{        
-		background-color: #fff;
-    	border-radius: .5em;
-    	height: 60px;
-    	padding: .4em;
-    	margin-left: 1.5em;
+        background-color: #fff;
+        border-radius: .5em;
+        height: 60px;
+        padding: .4em;
+        margin: .5em 0 .5em 1.5em;
+
 
     	img{
     		height: 50px;
     	}
 	}
+
+    &__brand{
+        color: #fff;
+        font-size: 2rem;
+
+        &:hover{
+            color: #fff;
+            text-decoration: none;
+        }
+    }
 
 }
