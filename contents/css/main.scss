@@ -2,8 +2,6 @@
 
 body {
     font-family: -apple-system, BlinkMacSystemFont, 'Roboto', "Helvetica Neue", sans-serif;
-    font-size: 21px;
-    line-height: 1.52;
     background-color: #fff;
     text-rendering: optimizeLegibility;
 }
@@ -11,10 +9,6 @@ body {
 .content-wrap {
     width: 34em;
     margin: 0 auto;
-}
-
-body {
-
 }
 
 body a {
@@ -41,36 +35,6 @@ pre {
     background: #fff;
 }
 
-h1 {
-    font-size: 2em;
-    margin-bottom: 1em;
-}
-
-h2 {
-    font-size: 1.2em;
-    font-weight: 400;
-    line-height: 1.43;
-    margin-bottom: 1.35em;
-}
-
-h3 {
-    font-size: 1.4em;
-    font-weight: 400;
-    font-style: italic;
-    margin-top: 1.8em;
-    margin-bottom: .8em;
-    text-align: center;
-}
-
-ol,
-ul {
-    margin: 0 1.4em 1.4em 4em;
-}
-
-li {
-    margin-bottom: .5em;
-}
-
 blockquote {
     font-style: italic;
     margin: 1.2em 3em;
@@ -87,6 +51,7 @@ hr {
 small{
     color: #8e908c;
 }
+
 /* page header */
 .author, .date-publish {
     font-variant: small-caps;
@@ -229,10 +194,14 @@ footer .social a {
     padding: 0;
     list-style: none;
 }
+.archive__year{
+    padding-bottom: 2em;
+    margin-bottom: 4em;
+    border-bottom: 1px dashed #d2d2d2;
+}
 
 
 /* code styling */
-
 code {
     font-family: monospace, serif;
     font-size: .85em;
@@ -360,19 +329,6 @@ pre .javascript .function {
 
 
 /* media queries */
-
-@media (min-width: 1600px) {
-    body {
-        font-size: 26px;
-    }
-}
-
-@media (max-width: 900px) {
-    body {
-        font-size: 18px;
-    }
-}
-
 @media (max-width: 690px) {
     .content-wrap {
         width: auto;
