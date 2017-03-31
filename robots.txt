@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://ft-umj-4.github.io/story/sitemap.xml
