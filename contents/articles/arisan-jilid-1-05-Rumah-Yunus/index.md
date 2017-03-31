@@ -6,7 +6,7 @@ template: article.jade
 tags: arisan
 ---
 
-Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-5 yang kita adakan
+Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-5 yang kita adakan di Rumah Yunus dan berhubung diadakan bersamaan di Bulan Ramadhan jadilah sekalian acara Buka Bersama-sama, berikut beberapa dokumentasinya :
 
 ![Arisan Jilid 05 - 1](Arisan-Jilid-05-1.jpg)
 <small>_Keterangan foto :_</small>

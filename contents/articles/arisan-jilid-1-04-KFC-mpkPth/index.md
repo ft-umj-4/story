@@ -6,7 +6,7 @@ template: article.jade
 tags: arisan
 ---
 
-Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-4 yang kita adakan
+Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-4 yang kita adakan di KFC Cempaka Putih, berikut dokemntasinya :
 
 ![Arisan Jilid 04 - 1](Arisan-Jilid-04-1.jpg)
 <small>_Keterangan foto :_</small>

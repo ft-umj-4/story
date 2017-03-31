@@ -1,12 +1,12 @@
 ---
-title: Arisan Jilid 1 - 11 - Rumah Rahmat
+title: Arisan Jilid 1 - 11 - Rumah Deden
 author: ft-umj-iv
 date: 2016-01-23
 template: article.jade
 tags: arisan
 ---
 
-Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-11 yang kita adakan
+Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-11 yang kita adakan di Rumah Bang Deden, dan berikut dokumentasinya :
 
 ![Arisan Jilid 11 - 1](Arisan-Jilid-11-1.jpg)
 <small>_Keterangan foto :_</small>

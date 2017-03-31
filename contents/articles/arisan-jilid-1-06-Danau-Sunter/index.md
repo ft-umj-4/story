@@ -6,7 +6,7 @@ template: article.jade
 tags: arisan
 ---
 
-Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-6 yang kita adakan
+Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-6 yang kita adakan di pinggiran Danau Sunter, berikut beberapa dokumentasinya :
 
 ![Arisan Jilid 06 - 1](Arisan-Jilid-06-1.jpg)
 <small>_Keterangan foto :_</small>

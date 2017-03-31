@@ -6,7 +6,7 @@ template: article.jade
 tags: arisan
 ---
 
-Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-12 yang kita adakan
+Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-12 sekaligus kocokan penutupan dari Arisan Jilid 1 ini yang kita adakan di KFC Cempaka Putih, berikut beberapa dokumentasinya :
 
 
 ![Arisan Jilid 12 - 1](Arisan-Jilid-12-1.jpg)

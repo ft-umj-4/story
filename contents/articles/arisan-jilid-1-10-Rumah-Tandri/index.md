@@ -6,7 +6,7 @@ template: article.jade
 tags: arisan
 ---
 
-Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-10 yang kita adakan
+Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-10 yang kita adakan di Rumah om Tandri, dan berikut dokumentasinya :
 
 ![Arisan Jilid 10 - 1](Arisan-Jilid-10-1.jpg)
 <small>_Keterangan foto :_</small>

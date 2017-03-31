@@ -6,7 +6,7 @@ template: article.jade
 tags: arisan
 ---
 
-Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-9 yang kita adakan
+Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-9 yang kita adakan di Rumah Om Rahmat Kmy yang berlokasi di Serdang, berikut beberapa dokumentasinya :
 
 
 ![Arisan Jilid 09 - 1](Arisan-Jilid-09-1.jpg)
