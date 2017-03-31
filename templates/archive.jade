@@ -13,24 +13,25 @@ block content
   - var month_names = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
 
   section.archive
-    h2 Archive
+    h2 Semua Artikel
     ul
       - var yearsK = _.chain(archives).keys().reverse().value();
       each yearK in yearsK
 
         - var months = archives[yearK];
-        - var yearHeight = lineHeight * _.reduce(months, function(memo,month) { return memo + month.length; }, 0);
 
-        li
-          span.year-label(style='line-height:' + yearHeight + 'em')= yearK
+        li.archive__year
+          span= yearK
           
-          ul(style='margin-left:4em')
+          ul
             - var monthsK = _.chain(months).keys().reverse().value();
             each monthK in monthsK
-              - var monthHeight = lineHeight * months[monthK].length;
-              li
-                span.month-label(style='line-height:' + monthHeight + 'em')= month_names[monthK]
-                ul(style='margin-left:7em')
+
+              li.archive__month
+                span= month_names[monthK]
+
+                ul
                   each item in months[monthK]
-                    li(style='height:'+ lineHeight + 'em;line-height:' + lineHeight + 'em')
+                    
+                    li.archive__article
                       a(href=locals.url+item.url)= item.title
