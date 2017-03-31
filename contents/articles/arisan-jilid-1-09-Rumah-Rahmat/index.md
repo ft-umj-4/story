@@ -8,10 +8,11 @@ tags: arisan
 
 Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-9 yang kita adakan
 
-<span class="more"></span>
 
 ![Arisan Jilid 09 - 1](Arisan-Jilid-09-1.jpg)
 <small>_Keterangan foto :_</small>
+
+<span class="more"></span>
 
 ![Arisan Jilid 09 - 2](Arisan-Jilid-09-2.jpg)
 <small>_Keterangan foto :_</small>

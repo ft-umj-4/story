@@ -8,10 +8,10 @@ tags: arisan
 
 Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-2 yang kita adakan
 
-<span class="more"></span>
-
 ![Arisan Jilid 02 - 1](Arisan-Jilid-02-1.jpg)
 <small>_Keterangan foto :_</small>
+
+<span class="more"></span>
 
 ![Arisan Jilid 02 - 2](Arisan-Jilid-02-2.jpg)
 <small>_Keterangan foto :_</small>

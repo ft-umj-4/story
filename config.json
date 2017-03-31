@@ -35,7 +35,7 @@
     "sourceMap": false
   },
   "tag": {
-      "perPage": 2
+      "perPage": 5
   },
   "jsbundler": {
     "sourceMap": false,

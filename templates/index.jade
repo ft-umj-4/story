@@ -23,7 +23,7 @@ block content
           != typogr(article.intro).typogrify()
         if article.hasMore
           p.more
-            a(href=locals.url+article.url) read more
+            a(href=locals.url+article.url) baca lebih banyak...
           
       div.article__tags   
         span Tags :    
@@ -35,8 +35,8 @@ block content
 block prepend footer
   div.nav
     if prevPage
-      a(href=locals.url+prevPage.url) &laquo; See newer
+      a(href=locals.url+prevPage.url) &laquo; Halaman Sebelumnya
     else
-      a(href=locals.url+'/archive.html') &laquo; See Archives
+      a(href=locals.url+'/archive.html') &laquo; Lihat semua article
     if nextPage
-      a(href=locals.url+nextPage.url) See older &raquo;
+      a(href=locals.url+nextPage.url) Halaman Berikutnya &raquo;

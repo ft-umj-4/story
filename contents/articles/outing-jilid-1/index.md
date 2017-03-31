@@ -9,7 +9,7 @@ tags: outing
 Kami beberapa kali mengadakan outing bersama-sama, berikut adalah kegiatan outing pertama kali adakan :
 
 
-<span class="more"></span>
-
 ![Villa Erika](villa-erika.jpg)
 <small>_Keterangan foto : penampakan villa erika yang jadi tempat menginap_</small>
+
+<span class="more"></span>
