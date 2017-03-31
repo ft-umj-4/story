@@ -8,10 +8,10 @@ tags: arisan
 
 Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-4 yang kita adakan
 
-<span class="more"></span>
-
 ![Arisan Jilid 04 - 1](Arisan-Jilid-04-1.jpg)
 <small>_Keterangan foto :_</small>
+
+<span class="more"></span>
 
 ![Arisan Jilid 04 - 2](Arisan-Jilid-04-2.jpg)
 <small>_Keterangan foto :_</small>
