@@ -1,9 +1,8 @@
 @import "scss/all-style";
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Roboto', "Helvetica Neue", sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     background-color: #fff;
-    text-rendering: optimizeLegibility;
 }
 
 .content-wrap {
@@ -179,8 +178,8 @@ footer .social a {
 .archive h2 {
     font-size: 2em;
     margin: 0;
-    margin-bottom: .5em;
-    margin-left: 6.1em;
+    text-align: center;
+    margin-bottom: 2em;
 }
 
 .archive ul {
@@ -196,8 +195,19 @@ footer .social a {
 }
 .archive__year{
     padding-bottom: 2em;
-    margin-bottom: 4em;
+    margin-bottom: 2em;
     border-bottom: 1px dashed #d2d2d2;
+}
+.archive__year-label{
+    font-size: 2rem;
+    font-weight: bold;
+    padding: .5em 0;
+}
+.archive__month{
+    padding: 1em;
+}
+.archive__article{
+    padding: .5em;
 }
 
 
