@@ -93,13 +93,12 @@ footer .nav a {
 }
 
 footer .about {
-    font-size: 1.1rem;
     padding: 2.2em 3em;
     border-top: 1px dashed #d2d2d2;
 }
 
 footer .copy {
-    font-size: .8rem;
+    font-size: 1.3rem;
     margin-top: 1em;
     text-align: center;
 }
@@ -115,7 +114,8 @@ footer .social{
 
 footer .social a {
     color: #8e8e8e;
-    padding: 10px;
+    padding: 10px;    
+    font-size: 2rem;
 }
 
 
@@ -187,12 +187,6 @@ footer .social a {
     padding: 0;
     list-style: none;
 }
-
-.archive ul li {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-}
 .archive__year{
     padding-bottom: 2em;
     margin-bottom: 2em;
@@ -205,6 +199,11 @@ footer .social a {
 }
 .archive__month{
     padding: 1em;
+}
+.archive__month-label{
+    font-size: 1.6rem;
+    font-weight: bold;
+    padding-bottom: 2em;
 }
 .archive__article{
     padding: .5em;
@@ -347,13 +346,6 @@ pre .javascript .function {
     .header {
         margin: 1em 0;
     }
-    .header h1 {
-        font-size: 1.4rem;
-        margin-bottom: .6em;
-    }
-    .header .description {
-        font-size: 1rem;
-    }
     .article {
         margin: 1em 0 2.5em;
     }
@@ -361,26 +353,13 @@ pre .javascript .function {
         width: 80%;
         margin: 0 auto;
     }
-    .archive * {
-        line-height: 1.6 !important;
-        float: none !important;
-        width: auto !important;
-        height: auto !important;
-        margin: 0 !important;
-        text-align: left !important;
-        border: 0 !important;
-    }
     footer .nav {
         margin: 1em 0;
     }
     footer .about {
-        font-size: .9rem;
+        font-size: 1.3rem;
         padding: 0;
         padding-top: 1.6em;
-        -webkit-column-count: 1;
-        -moz-column-count: 1;
-        -ms-column-count: 1;
-        column-count: 1;
     }
     footer .about p {
         margin-bottom: 1em;
