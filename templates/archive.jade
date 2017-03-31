@@ -10,26 +10,33 @@ block content
   - for (var archive in archives) {
   -   archives[archive] = _.groupBy(archives[archive], function(item) { return item.date.getMonth(); });
   - }
-  - var month_names = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+  - var month_names = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember']
 
   section.archive
     h2 Semua Artikel
-      - var yearsK = _.chain(archives).keys().reverse().value();
-      each yearK in yearsK
 
-        - var months = archives[yearK];
+    - var yearsK = _.chain(archives).keys().reverse().value();
+    each yearK in yearsK
 
-        div.archive__year
-          div.archive__year-label= yearK
-          
-            - var monthsK = _.chain(months).keys().reverse().value();
-            each monthK in monthsK
+      - var months = archives[yearK];
 
-              div.archive__month
-                div.archive__month-label= month_names[monthK]
+      div.archive__year
+        div.archive__year-label
+          | #{ 'Tahun ' }
+          = yearK
+        
+        - var monthsK = _.chain(months).keys().reverse().value();
+        each monthK in monthsK
 
-                ul
-                  each item in months[monthK]
+          div.archive__month
+            div.archive__month-label
+              | #{ 'Bulan ' }
+              = month_names[monthK]
 
-                    li.archive__article
-                      a(href=locals.url+item.url)= item.title
+            ul
+              each item in months[monthK]
+
+                li.archive__article
+                  a(href=locals.url+item.url)= item.title
+                  span
+                    =moment.utc(item.date).format('DD MMM YYYY')
