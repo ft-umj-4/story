@@ -1,7 +1,7 @@
 @import "scss/all-style";
 
 body {
-    font-family: 'Quicksand', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Roboto', "Helvetica Neue", sans-serif;
     font-size: 21px;
     line-height: 1.52;
     background-color: #fff;
@@ -42,7 +42,6 @@ pre {
 }
 
 h1 {
-    font-family: 'Forum', cursive;
     font-size: 2em;
     margin-bottom: 1em;
 }
@@ -214,67 +213,28 @@ footer .social a {
 
 .archive h2 {
     font-size: 2em;
-    font-style: italic;
     margin: 0;
     margin-bottom: .5em;
     margin-left: 6.1em;
 }
 
-.archive a,
-.archive span {
-    display: block;
-    float: left;
-    margin-bottom: -1px;
-    text-decoration: none;
-}
-
-.archive li:not(:last-child) {
-    margin-bottom: -1px;
-    border-bottom: 1px solid #d2d2d2;
-}
-
-.archive a.last,
-.archive span.last {
-    margin-bottom: 0;
-    border: 0;
-}
-
-.archive a {
-    width: 21em;
-    white-space: nowrap;
-    text-indent: 1em;
-}
-
-.archive .year-label,
-.archive .month-label {
-    font-family: 'Merriweather', serif;
-    font-weight: 400;
-    font-variant: small-caps;
-    width: 4em;
-    text-align: center;
-    letter-spacing: 1px;
-    text-transform: lowercase;
-    text-rendering: auto;
-}
-
-.archive .month-label {
-    width: 7em;
-}
-
 .archive ul {
     margin: 0;
+    padding: 0;
     list-style: none;
 }
 
 .archive ul li {
     margin: 0;
+    padding: 0;
+    list-style: none;
 }
 
 
 /* code styling */
 
 code {
-    font-family: monospace;
+    font-family: monospace, serif;
     font-size: .85em;
     color: #000;
 }
