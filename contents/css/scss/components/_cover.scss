@@ -3,6 +3,9 @@
 }
 
 .cover__logo {
+    background: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxQTEhUSExMWFhUX…i//MT/AONcUNrV/wCX+7HcbAdFreZB/YH26/m+hwj+1ftW645jY1/ked/09/QmxsbGxo4n/9k=);
+    background-repeat: repeat;
+    padding: 1em;
     margin: 3em 0 5em;
     text-align: center;
 }
@@ -13,14 +16,17 @@
 }
 
 .cover__title {
-    font-size: 2.6em;
-    font-weight: 700;
+    font-size: 4em;
     text-align: center;
+    font-weight: bold;
+
+    text-shadow: 0vw 0vw 1vw #59fa16, 0vw 0vw 3vw #59fa16, 0vw 0vw 10vw #59fa16, 0vw 0vw 10vw #59fa16, 0vw 0vw 0.4vw #FED128, 0.5vw 0.5vw 0.1vw #806914;
 }
 
 .cover__desc {
-    font-size: 1.2em;
+    font-size: 1.8em;
     text-align: center;
+    font-weight: bold;
 }
 
 .cover a,
