@@ -15,6 +15,20 @@ block prepend description
   meta(property="twitter:description", content=page.title +' - '+ locals.name)
 
 block header
+  div.breadcrumb
+    a(href=locals.url)
+      i.fa.fa-home
+    | #{ '  ' }
+    i.fa.fa-angle-double-right
+    | #{ '  ' }    
+    - var tagsBreadcrumb = env.helpers.getTagsFromArticle(page)
+      each tag in tagsBreadcrumb
+        if env.helpers.getTagHome(tag) !== undefined
+          a(href=locals.url+env.helpers.getTagHome(tag).url)= tag
+    | #{ '  ' }
+    i.fa.fa-angle-double-right
+    | #{ '  ' }
+    a(href='#')=page.title
   include author
   h1= page.title
   p.author
