@@ -11,11 +11,13 @@ block content
           a(href=locals.url+article.url)= article.title  
 
       div.author
-        | #{ 'Ditulis oleh ' }
+        i.fa.fa-user-o
+        | #{ ' Ditulis oleh ' }
         mixin author(article.metadata.author)
 
       div.date-publish.m-bottom-5
-        | #{ 'Dipublikasikan ' }
+        i.fa.fa-clock-o
+        | #{ ' Dipublikasikan ' }
         = moment.utc(article.date).format('DD MMM YYYY')
 
       section.article__content
@@ -26,7 +28,9 @@ block content
             a(href=locals.url+article.url) baca lebih banyak...
           
       div.article__tags   
-        span Tags :    
+        span
+          i.fa.fa-tags  
+        | #{ ' Tags : ' } 
         - var tags = env.helpers.getTagsFromArticle(article)
           each tag in tags
             if env.helpers.getTagHome(tag) !== undefined

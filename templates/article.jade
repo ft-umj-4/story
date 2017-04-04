@@ -11,10 +11,12 @@ block header
   include author
   h1= page.title
   p.author
-    | #{ 'Ditulis oleh ' }
+    i.fa.fa-user-o
+    | #{ ' Ditulis oleh ' }
     mixin author(page.metadata.author)
   p.date-publish
-    | #{ 'Dipublikasikan ' }
+    i.fa.fa-clock-o
+    | #{ ' Dipublikasikan ' }
     = moment.utc(page.date).format('DD MMM YYYY')
 
 block content
@@ -22,7 +24,9 @@ block content
     section.article__content!= typogr(page.html).typogrify()
     
   div.article__tags   
-    span Tags :    
+    span
+      i.fa.fa-tags  
+    | #{ ' Tags : ' } 
     - var tags = env.helpers.getTagsFromArticle(page)
       each tag in tags
         if env.helpers.getTagHome(tag) !== undefined
