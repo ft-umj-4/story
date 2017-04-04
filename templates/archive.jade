@@ -2,6 +2,16 @@
 extends layout
 //- this logic should be moved to a view at some point
 
+block prepend title
+  title= 'Semua Artikel - '+ locals.name
+  meta(property="og:title", content='Semua Artikel - '+ locals.name)
+  meta(property="twitter:title", content='Semua Artikel - '+ locals.name)
+
+block prepend description
+  meta(name="description", content='Semua Artikel - '+ locals.name) 
+  meta(property="og:description", content='Semua Artikel - '+ locals.name)
+  meta(property="twitter:description", content='Semua Artikel - '+ locals.name)
+
 block content
   - var lineHeight = 2.2;
   - var archives = _.chain(env.helpers.getArticles(contents)).groupBy(function(item) {

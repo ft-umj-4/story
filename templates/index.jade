@@ -1,6 +1,16 @@
 
 extends layout
 
+block prepend title
+  title= locals.name
+  meta(property="og:title", content=locals.name)
+  meta(property="twitter:title", content=locals.name)
+
+block prepend description
+  meta(name="description", content=locals.description) 
+  meta(property="og:description", content=locals.description)
+  meta(property="twitter:description", content=locals.description)
+    
 block content
   include author
   
