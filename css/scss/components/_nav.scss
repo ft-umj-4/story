@@ -1,5 +1,6 @@
 .nav{
 		
+<<<<<<< HEAD
     display: flex;  
     justify-content: space-between;
     align-items: center;
@@ -87,6 +88,12 @@
         }
     }
 
+=======
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+>>>>>>> 78695da (add new contents)
     &__item{
 		padding: .5em;
 	}
@@ -104,7 +111,11 @@
     	}
 	}
 
+<<<<<<< HEAD
     &__brand a, &__link a{
+=======
+    &__brand a{
+>>>>>>> 78695da (add new contents)
         color: #fff;
         font-size: 2rem;
 
@@ -114,8 +125,11 @@
         }
     }
 
+<<<<<<< HEAD
     &__link a{
         text-transform: capitalize;
     }
 
+=======
+>>>>>>> 78695da (add new contents)
 }
