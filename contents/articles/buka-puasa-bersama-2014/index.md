@@ -3,7 +3,7 @@ title: Buka Puasa Bersama 2014
 author: ft-umj-iv
 date: 2014-04-04
 template: article.jade
-tags: outing
+tags: bukber
 ---
 
 Kami memang senang berkumpul dan bersilaturahmi ketika sempat, bahkan ketika Bulan Ramadhan sekalipun.

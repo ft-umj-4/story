@@ -38,6 +38,7 @@ html(lang='id-ID')
   body.site
 
     header.header-fixed
+      
         nav.nav
           .nav__item.nav__logo
             a(href=locals.url)
@@ -59,19 +60,19 @@ html(lang='id-ID')
       div.content-wrap
         block content
 
-    footer
+    footer.footer
       div.content-wrap
         block footer
 
-          section.about
+          section.footer__about
             !=contents['about.md'].html
 
-          section.copy
+          section.footer__copy
             p Copyright &copy; #{ new Date().getFullYear() } #{ locals.owner } &mdash; powered by&nbsp;
               a(href='https://github.com/jnordberg/wintersmith') Wintersmith
               //- please leave the "powered by" if you use the design
 
-          section.social
+          section.footer__social
             a(href='https://github.com/ft-umj-4', target='_blank')
               i.fa.fa-github
             a(href='https://ft-umj-4.github.io', target='_blank')

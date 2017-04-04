@@ -33,7 +33,7 @@ block content
               a(href=locals.url+env.helpers.getTagHome(tag).url)= tag
 
 block prepend footer
-  div.nav
+  div.footer__nav
     if prevPage
       a(href=locals.url+prevPage.url) &laquo; Halaman Sebelumnya
     else
