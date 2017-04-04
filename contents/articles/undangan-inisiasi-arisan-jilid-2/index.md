@@ -21,7 +21,7 @@ Untuk detail tempat dan waktunya, seperti pada penjelasan berikut :
 
 |					| 	|											|
 |------------------	|---|-------------------------------------------|
-| Tanggal		 	| : | **08 April 2017** 						|
+| Hari, Tanggal		| : | **Sabtu, 08 April 2017** 					|
 | Jam				| : | **16:00 - Selesai** 						|
 | Tempat 			| : | **Rumah Rahmat Kmy** ([Lihat gmaps disini](https://goo.gl/maps/sLRL3Sh616r)) |
 | Kegiatan	 		| : | + Pembahasan dan inisiasi Arisan Jilid 2  |
