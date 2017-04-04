@@ -5,7 +5,14 @@ block append vars
   - bodyclass = 'article-detail'
 
 block prepend title
-  | #{ page.title + ' - '}
+  title= page.title
+  meta(property="og:title", content=page.title)
+  meta(property="twitter:title", content=page.title)
+
+block prepend description
+  meta(name="description", content=page.title +' - '+ locals.name) 
+  meta(property="og:description", content=page.title +' - '+ locals.name)
+  meta(property="twitter:description", content=page.title +' - '+ locals.name)
 
 block header
   include author
@@ -34,4 +41,4 @@ block content
 
 block prepend footer
   div.footer__nav
-    a(href=contents.index.url) &laquo; Kembali ke Halaman Utama
+    a(href=locals.url) &laquo; Kembali ke Halaman Utama
