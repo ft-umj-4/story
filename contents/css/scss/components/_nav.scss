@@ -4,6 +4,16 @@
     justify-content: space-between;
     align-items: center;
 
+    &__left, &__right{        
+        display: flex;  
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    &__right{        
+        margin-right: 1.5em;
+    }
+
     &__item{
 		padding: .5em;
 	}
@@ -21,7 +31,7 @@
     	}
 	}
 
-    &__brand a{
+    &__brand a, &__link a{
         color: #fff;
         font-size: 2rem;
 
@@ -29,6 +39,10 @@
             color: #fff;
             text-decoration: none;
         }
+    }
+
+    &__link a{
+        text-transform: capitalize;
     }
 
 }
