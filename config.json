@@ -27,7 +27,7 @@
     "smartypants": true
   },
   "paginator": {
-    "perPage": 5
+    "perPage": 10
   },
   "sassify": {
     "outputStyle": "compressed",
@@ -35,7 +35,7 @@
     "sourceMap": false
   },
   "tag": {
-      "perPage": 5
+      "perPage": 10
   },
   "jsbundler": {
     "sourceMap": false,
