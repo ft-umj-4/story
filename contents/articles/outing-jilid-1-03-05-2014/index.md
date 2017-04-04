@@ -15,26 +15,26 @@ Kami beberapa kali mengadakan outing bersama-sama, berikut adalah kegiatan outin
 <span class="more"></span>
 
 
-![Outing Jilid 1 - 1](outing-1-1.jpg)
+![Outing Jilid 1 - 1](outing-1-1.JPG)
 <small>_Keterangan foto :_</small>
 
-![Outing Jilid 1 - 2](outing-1-2.jpg)
+![Outing Jilid 1 - 2](outing-1-2.JPG)
 <small>_Keterangan foto :_</small>
 
-![Outing Jilid 1 - 3](outing-1-3.jpg)
+![Outing Jilid 1 - 3](outing-1-3.JPG)
 <small>_Keterangan foto :_</small>
 
-![Outing Jilid 1 - 4](outing-1-4.jpg)
+![Outing Jilid 1 - 4](outing-1-4.JPG)
 <small>_Keterangan foto :_</small>
 
-![Outing Jilid 1 - 5](outing-1-5.jpg)
+![Outing Jilid 1 - 5](outing-1-5.JPG)
 <small>_Keterangan foto :_</small>
 
-![Outing Jilid 1 - 6](outing-1-6.jpg)
+![Outing Jilid 1 - 6](outing-1-6.JPG)
 <small>_Keterangan foto :_</small>
 
-![Outing Jilid 1 - 7](outing-1-7.jpg)
+![Outing Jilid 1 - 7](outing-1-7.JPG)
 <small>_Keterangan foto :_</small>
 
-![Outing Jilid 1 - 8](outing-1-8.jpg)
+![Outing Jilid 1 - 8](outing-1-8.JPG)
 <small>_Keterangan foto :_</small>
