@@ -72,6 +72,12 @@ body.article-detail > header {
     margin-bottom: 1em;
 }
 
+/* breadcrumb */
+.breadcrumb a:not(.breadcrumb__home){
+    text-transform: capitalize;
+    padding: 0 .5em;
+}
+
 /* media queries */
 @media (max-width: 690px) {
     .content-wrap {
