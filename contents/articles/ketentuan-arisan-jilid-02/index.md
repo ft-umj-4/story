@@ -1,0 +1,51 @@
+---
+title: Ketentuan Arisan jilid 02
+author: ft-umj-iv
+date: 2009-12-12
+template: article.jade
+tags: ketentuan arisan
+---
+
+Berikut adalah beberapa ketentuan yang kita sepakati untuk arisan jilid 2 kali ini :
+
+<span class="more"></span>
+
+## Anggota Arisan
+Anggota arisan lebih lengkap bisa dilihat disini :
+[https://ft-umj-4.github.io/story/articles/daftar-anggota-arisan-jilid-02/](https://ft-umj-4.github.io/story/articles/daftar-anggota-arisan-jilid-02/)
+Atau bisa dilihat di bagian laporan dibawah.
+
+## Biaya Arisan
++ Jumlah uang arisan yang disetorkan tiap bulannya sebesar *Rp. 150.000,-*.
++ Dari jumlah uang tersebut dapat dirincikan sebagai berikut :
+	- Uang Arisan : *Rp. 100.000,-*
+	- Uang Konsumsi Arisan Selanjutnya : *Rp. 20.000,-*
+	- Uang Kas : *Rp. 30.000,-*
++ Tiap bulan akan dikocok 2 orang.	
++ Ekspektasi per-orang dapat : *Rp. 100.000,-* x *Jumlah total peserta*.
++ Ditambah uang konsumsi untuk arisan selanjutnya yang akan dipegang salah seorang dari 2 orang yang dapat, sebesar *Rp. 20.000,-* x *Jumlah total peserta*.
++ Jika pada arisan selanjutnya uang konsumsi kurang untuk membayar semua makanan yang dipesan, maka diharapkan 2 orang yang dapat arisan bisa patungan dan berbagi untuk membayar total kurang dari uang konsumsi yang telah diberikan.
++ 2 orang yang dapat arisan berhak menentukan tempat dan tanggal arisan selanjutnya.
++ Uang kas _biasanya (atau bisa jadi tidak)_  akan digunakan untuk Outing pada akhir periode arisan.
+
+## Tidak Hadir Arisan
++ Kocokan yang keluar hanya akan dinyatakan sah dan akan diberikan uangnya jika orang tersebut hadir pada arisan tersebut, jadi yang jarang datang harap bersabar karena kita mendahulukan anggota yang datang.
++ Anggota yang tidak hadir bisa memberitahukan akan ketidak-hadirannya, baik _Private Message_ maupun langsung di group whatsapp.
++ Anggota yang tidak hadir akan _lebih baik_ jika bisa men-transfer sejumlah uang arisan seperti yang tertera diatas sebelum arisan dimulai atau selambat-lambatnya adalah sebelum arisan selanjutnya dimulai.
++ Nama anggota pada kocokan pertama masih bisa bertambah dan berkurang, namun akan kita tutup pada kocokan ke-2, jadi ekspektasi kita bahwa bagi yang tidak men-transfer jumlah uang arisan kocokan pertama sampai pada kocokan ke-2 maka akan kita coret dari daftar anggota yang ikut arisan.
+
+## Transfer Uang Arisan
++ Untuk yang belum men-transfer uang arisan, mohon transfer sejumlah *Rp. 150.000,-* _(mohon tambahkan angka unik dibelakangnya, contoh : Rp. 150.003,-)_ dan segera men-konfirmasi baik di group ataupun private message ke pihak yang ditransfer.
+
++ Uang bisa di transfer ke :
+*Rekening BCA No 291-799-3684 a/n Suyatno*
+
+## Laporan arisan
+Laporan arisan bisa dilihat updatenya disini :
+[Lihat di dropbox](https://www.dropbox.com/s/lqrvit24hfh3fot/Arisan%20UMJ%20TechInfo4%20Jilid%2002.xlsx?dl=0)
+
+Laporan tersebut akan kita update setiap bulannya.
+
+## Keterangan tambahan
+Bila ada yang kurang paham, bisa ditanyakan ke anggota lain di group whatsapp.
+
