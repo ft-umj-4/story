@@ -1,7 +1,7 @@
 ---
 title: Ketentuan Arisan jilid 02
 author: ft-umj-iv
-date: 2009-12-12
+date: 2017-04-08
 template: article.jade
 tags: ketentuan arisan
 ---
