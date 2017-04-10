@@ -11,7 +11,8 @@ Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-5 yang kita adakan di R
 ![Arisan Jilid 05 - 1](Arisan-Jilid-05-1.jpg)
 <small>_Keterangan foto :_</small>
 
-<span class="more"></span>
+<br/>
+<div class="more"></div>
 
 ![Arisan Jilid 05 - 2](Arisan-Jilid-05-2.jpg)
 <small>_Keterangan foto :_</small>

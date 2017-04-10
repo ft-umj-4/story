@@ -11,7 +11,8 @@ Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-11 yang kita adakan di 
 ![Arisan Jilid 11 - 1](Arisan-Jilid-11-1.jpg)
 <small>_Keterangan foto :_</small>
 
-<span class="more"></span>
+<br/>
+<div class="more"></div>
 
 ![Arisan Jilid 11 - 2](Arisan-Jilid-11-2.jpg)
 <small>_Keterangan foto :_</small>

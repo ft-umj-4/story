@@ -8,7 +8,8 @@ tags: anggota arisan
 
 Berikut adalah daftar anggota FT UMJ IV yang konfirm untuk ikut arisa jilid 2, jumalh ini akan bertambah dan berkurang, namun akan kita tutup pada kocokan ke-2 :
 
-<span class="more"></span>
+<br/>
+<div class="more"></div>
 
 |Nama						| Alias 					|
 |--------------------------	|--------------------------	|

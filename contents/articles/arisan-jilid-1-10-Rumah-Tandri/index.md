@@ -11,7 +11,8 @@ Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-10 yang kita adakan di 
 ![Arisan Jilid 10 - 1](Arisan-Jilid-10-1.jpg)
 <small>_Keterangan foto :_</small>
 
-<span class="more"></span>
+<br/>
+<div class="more"></div>
 
 ![Arisan Jilid 10 - 2](Arisan-Jilid-10-2.jpg)
 <small>_Keterangan foto :_</small>

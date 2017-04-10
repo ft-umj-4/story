@@ -11,7 +11,8 @@ Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-6 yang kita adakan di p
 ![Arisan Jilid 06 - 1](Arisan-Jilid-06-1.jpg)
 <small>_Keterangan foto :_</small>
 
-<span class="more"></span>
+<br/>
+<div class="more"></div>
 
 ![Arisan Jilid 06 - 2](Arisan-Jilid-06-2.jpg)
 <small>_Keterangan foto :_</small>

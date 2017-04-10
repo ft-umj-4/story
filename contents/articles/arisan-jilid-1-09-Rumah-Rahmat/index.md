@@ -12,7 +12,8 @@ Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-9 yang kita adakan di R
 ![Arisan Jilid 09 - 1](Arisan-Jilid-09-1.jpg)
 <small>_Keterangan foto :_</small>
 
-<span class="more"></span>
+<br/>
+<div class="more"></div>
 
 ![Arisan Jilid 09 - 2](Arisan-Jilid-09-2.jpg)
 <small>_Keterangan foto :_</small>

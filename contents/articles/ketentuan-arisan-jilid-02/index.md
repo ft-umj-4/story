@@ -8,22 +8,22 @@ tags: ketentuan arisan
 
 Berikut adalah beberapa ketentuan yang kita sepakati untuk arisan jilid 2 kali ini :
 
-<span class="more"></span>
+<br/>
+<div class="more"></div>
 
 ## Anggota Arisan
 Anggota arisan lebih lengkap bisa dilihat disini :
-[https://ft-umj-4.github.io/story/articles/daftar-anggota-arisan-jilid-02/](https://ft-umj-4.github.io/story/articles/daftar-anggota-arisan-jilid-02/)
-Atau bisa dilihat di bagian laporan dibawah.
+[https://ft-umj-4.github.io/story/articles/daftar-anggota-arisan-jilid-02/](https://ft-umj-4.github.io/story/articles/daftar-anggota-arisan-jilid-02/) atau bisa dilihat di bagian laporan dibawah.
 
 ## Biaya Arisan
-+ Jumlah uang arisan yang disetorkan tiap bulannya sebesar *Rp. 150.000,-*.
++ Jumlah uang arisan yang disetorkan tiap bulannya sebesar <b>Rp. 150.000,-</b>.
 + Dari jumlah uang tersebut dapat dirincikan sebagai berikut :
-	- Uang Arisan : *Rp. 100.000,-*
-	- Uang Konsumsi Arisan Selanjutnya : *Rp. 20.000,-*
-	- Uang Kas : *Rp. 30.000,-*
+	- Uang Arisan : <b>Rp. 100.000,-</b>
+	- Uang Konsumsi Arisan Selanjutnya : <b>Rp. 20.000,-</b>
+	- Uang Kas : <b>Rp. 30.000,-</b>
 + Tiap bulan akan dikocok 2 orang.	
-+ Ekspektasi per-orang dapat : *Rp. 100.000,-* x *Jumlah total peserta*.
-+ Ditambah uang konsumsi untuk arisan selanjutnya yang akan dipegang salah seorang dari 2 orang yang dapat, sebesar *Rp. 20.000,-* x *Jumlah total peserta*.
++ Ekspektasi per-orang dapat : <b>Rp. 100.000,-</b> x <b>Jumlah total peserta</b>.
++ Ditambah uang konsumsi untuk arisan selanjutnya yang akan dipegang salah seorang dari 2 orang yang dapat, sebesar <b>Rp. 20.000,-</b> x <b>Jumlah total peserta</b>.
 + Jika pada arisan selanjutnya uang konsumsi kurang untuk membayar semua makanan yang dipesan, maka diharapkan 2 orang yang dapat arisan bisa patungan dan berbagi untuk membayar total kurang dari uang konsumsi yang telah diberikan.
 + 2 orang yang dapat arisan berhak menentukan tempat dan tanggal arisan selanjutnya.
 + Uang kas _biasanya (atau bisa jadi tidak)_  akan digunakan untuk Outing pada akhir periode arisan.
@@ -35,16 +35,15 @@ Atau bisa dilihat di bagian laporan dibawah.
 + Nama anggota pada kocokan pertama masih bisa bertambah dan berkurang, namun akan kita tutup pada kocokan ke-2, jadi ekspektasi kita bahwa bagi yang tidak men-transfer jumlah uang arisan kocokan pertama sampai pada kocokan ke-2 maka akan kita coret dari daftar anggota yang ikut arisan.
 
 ## Transfer Uang Arisan
-+ Untuk yang belum men-transfer uang arisan, mohon transfer sejumlah *Rp. 150.000,-* _(mohon tambahkan angka unik dibelakangnya, contoh : Rp. 150.003,-)_ dan segera men-konfirmasi baik di group ataupun private message ke pihak yang ditransfer.
++ Untuk yang belum men-transfer uang arisan, mohon transfer sejumlah <b>Rp. 150.000,-</b> _(mohon tambahkan angka unik dibelakangnya, contoh : Rp. 150.003,-)_ dan segera men-konfirmasi baik di group ataupun private message ke pihak yang ditransfer.
 
 + Uang bisa di transfer ke :
-*Rekening BCA No 291-799-3684 a/n Suyatno*
+	- Rekening <b>BCA</b> No <b>706-100-4622</b> a/n <b>Irfan Maulana</b> atau
+	- Rekening <b>BCA</b> No <b>291-700-3684</b> a/n <b>Suyatno</b>
 
 ## Laporan arisan
 Laporan arisan bisa dilihat updatenya disini :
-[Lihat di dropbox](https://www.dropbox.com/s/lqrvit24hfh3fot/Arisan%20UMJ%20TechInfo4%20Jilid%2002.xlsx?dl=0)
-
-Laporan tersebut akan kita update setiap bulannya.
+[Lihat di dropbox](https://www.dropbox.com/s/lqrvit24hfh3fot/Arisan%20UMJ%20TechInfo4%20Jilid%2002.xlsx?dl=0), laporan tersebut akan kita update setiap bulannya.
 
 ## Keterangan tambahan
 Bila ada yang kurang paham, bisa ditanyakan ke anggota lain di group whatsapp.
