@@ -3,15 +3,30 @@ title: Meyambut Anak Pertama Sodara Akhmad Syafrul Afandi
 author: ft-umj-iv
 date: 2017-04-08
 template: article.jade
-tags: event
+tags: story
 ---
 
 Setiap kelahiran seorang anak merupakan kebahagiaan bagi kedua orang tua-nya, pun begitu bagi kami dalam menyambut anggota keluarga baru kami FT-UMJ-IV. 
 Sodara kami <b>Akhmad Syafrul Afandi</b> tengah mendapatkan kebahagiaan tersebut dengan kelahiran anak pertamanya yang berjenis kelamin laki-laki pada tanggal <b>08-April-2017 jam 23:00 WIB</b>. 
 Untuk namanya sendiri belum ditentukan, namun akan kita perbarui ketika sudah ada nama yang pasti.
 
+![Anak Syafrul - 1](anak-syafrul-1.jpg)
+<small>_Keterangan foto :_</small>
+
 <br/>
 <div class="more"></div>
+
+![Anak Syafrul - 2](anak-syafrul-2.jpg)
+<small>_Keterangan foto :_</small>
+
+![Anak Syafrul - 3](anak-syafrul-3.jpg)
+<small>_Keterangan foto :_</small>
+
+![Anak Syafrul - 4](anak-syafrul-4.jpg)
+<small>_Keterangan foto :_</small>
+
+![Anak Syafrul - 5](anak-syafrul-5.jpg)
+<small>_Keterangan foto :_</small>
 
 Selamat sodara syafrul beserta istri dan seluruh keluarga besar atas kelahiran putra pertamanya.
 Semoga kelahiran putra pertama ini membawa berkah bagi kehidupan kalian kedepannya.
