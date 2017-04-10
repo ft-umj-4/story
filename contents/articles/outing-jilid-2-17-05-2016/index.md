@@ -11,7 +11,8 @@ Kami beberapa kali mengadakan outing bersama-sama, berikut adalah kegiatan outin
 ![Outing Jilid 2 - 0](outing-2-0.jpg)
 <small>_Keterangan foto : baru nyampe langsung ngumpul di teras yang mantap_</small>
 
-<span class="more"></span>
+<br/>
+<div class="more"></div>
 
 ![Outing Jilid 2 - 1](outing-2-1.jpg)
 <small>_Keterangan foto : makan2 di teras sambil liat pemandangan bagus_</small>

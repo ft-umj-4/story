@@ -12,7 +12,8 @@ Kami beberapa kali mengadakan outing bersama-sama, berikut adalah kegiatan outin
 ![Villa Erika](villa-erika.jpg)
 <small>_Keterangan foto : penampakan villa erika yang jadi tempat menginap_</small>
 
-<span class="more"></span>
+<br/>
+<div class="more"></div>
 
 
 ![Outing Jilid 1 - 1](outing-1-1.JPG)

@@ -17,7 +17,8 @@ Setelah beberapa lama arisan tidak kita jalankan lagi, sekarang kita ingin coba 
 Untuk detail tempat dan waktunya, seperti pada penjelasan berikut :
 <br/><br/>
 
-<span class="more"></span>
+<br/>
+<div class="more"></div>
 
 |					| 	|											|
 |------------------	|---|-------------------------------------------|
