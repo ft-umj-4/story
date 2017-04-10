@@ -9,7 +9,7 @@ tags: people
 Berikut adalah daftar dari anggota yang tergabung dalam keluarga FT UMJ IV, dalam daftar berikut ada beberapa orang yang memang telah hilang kontak dari group kami tapi kami senantiasa menganggap mereka sebagai keluarga kami, berikut adalah daftarnya :
 
 <br/>
-<div class="more"></div>
+<span class="more"></span>
 
 |Nama						| Alias 					|
 |--------------------------	|--------------------------	|

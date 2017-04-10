@@ -15,7 +15,7 @@ Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-3 yang kita adakan di R
 <small>_Keterangan foto : Edy sama Snoy yang dapat_</small>
 
 <br/>
-<div class="more"></div>
+<span class="more"></span>
 
 ![Arisan Jilid 03 - 2](Arisan-Jilid-03-2.jpg)
 <small>_Keterangan foto :_</small>

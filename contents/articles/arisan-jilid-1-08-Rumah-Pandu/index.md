@@ -12,7 +12,7 @@ Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-8 yang kita adakan di k
 <small>_Keterangan foto :_</small>
 
 <br/>
-<div class="more"></div>
+<span class="more"></span>
 
 ![Arisan Jilid 08 - 2](Arisan-Jilid-08-2.jpg)
 <small>_Keterangan foto :_</small>

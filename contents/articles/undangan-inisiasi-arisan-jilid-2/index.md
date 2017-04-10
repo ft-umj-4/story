@@ -18,7 +18,7 @@ Untuk detail tempat dan waktunya, seperti pada penjelasan berikut :
 <br/><br/>
 
 <br/>
-<div class="more"></div>
+<span class="more"></span>
 
 |					| 	|											|
 |------------------	|---|-------------------------------------------|

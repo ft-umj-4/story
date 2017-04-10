@@ -12,7 +12,7 @@ Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-6 yang kita adakan di p
 <small>_Keterangan foto :_</small>
 
 <br/>
-<div class="more"></div>
+<span class="more"></span>
 
 ![Arisan Jilid 06 - 2](Arisan-Jilid-06-2.jpg)
 <small>_Keterangan foto :_</small>

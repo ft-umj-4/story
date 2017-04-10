@@ -12,7 +12,7 @@ Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-10 yang kita adakan di 
 <small>_Keterangan foto :_</small>
 
 <br/>
-<div class="more"></div>
+<span class="more"></span>
 
 ![Arisan Jilid 10 - 2](Arisan-Jilid-10-2.jpg)
 <small>_Keterangan foto :_</small>
