@@ -13,7 +13,7 @@ Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-12 sekaligus kocokan pe
 <small>_Keterangan foto :_</small>
 
 <br/>
-<div class="more"></div>
+<span class="more"></span>
 
 ![Arisan Jilid 12 - 2](Arisan-Jilid-12-2.jpg)
 <small>_Keterangan foto :_</small>

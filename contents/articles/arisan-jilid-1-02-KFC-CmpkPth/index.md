@@ -12,7 +12,7 @@ Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-2 yang kita adakan di K
 <small>_Keterangan foto : Sembari menunggu ya_</small>
 
 <br/>
-<div class="more"></div>
+<span class="more"></span>
 
 ![Arisan Jilid 02 - 2](Arisan-Jilid-02-2.jpg)
 <small>_Keterangan foto : Om Anto sama Beni yang dapat_</small>

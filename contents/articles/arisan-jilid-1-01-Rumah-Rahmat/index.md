@@ -12,7 +12,7 @@ Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-1 yang kita adakan di R
 <small>_Keterangan foto : Om Lukimen sama Heri yang dapet_</small>
 
 <br/>
-<div class="more"></div>
+<span class="more"></span>
 
 ![Arisan Jilid 01 - 2](Arisan-Jilid-01-2.jpg)
 <small>_Keterangan foto : Berebut makan_</small>
