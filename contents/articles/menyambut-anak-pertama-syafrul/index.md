@@ -7,8 +7,7 @@ tags: story
 ---
 
 Setiap kelahiran seorang anak merupakan kebahagiaan bagi kedua orang tua-nya, pun begitu bagi kami dalam menyambut anggota keluarga baru kami FT-UMJ-IV. 
-Sodara kami <b>Akhmad Syafrul Afandi</b> tengah mendapatkan kebahagiaan tersebut dengan kelahiran anak pertamanya yang berjenis kelamin laki-laki pada tanggal <b>08-April-2017 jam 23:00 WIB</b>. 
-Untuk namanya sendiri belum ditentukan, namun akan kita perbarui ketika sudah ada nama yang pasti.
+Sodara kami <b>Akhmad Syafrul Afandi</b> tengah mendapatkan kebahagiaan tersebut dengan kelahiran anak pertamanya yang berjenis kelamin laki-laki pada tanggal <b>08-April-2017 jam 23:00 WIB</b>, yang Insya Allah akan di beri nama <b>Irham Sadri Afandi</b>.
 
 <br/><br/>
 
