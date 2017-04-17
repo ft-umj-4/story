@@ -40,7 +40,7 @@ block header
     | #{ ' Dipublikasikan ' }
     = moment.utc(page.date).format('DD MMM YYYY')
   p.comment__link
-    a(href="#disqus_thread")
+    a(href=locals.url+page.url+"#disqus_thread")
       i.fa.fa-comment-o
       | #{ ' Komentar ' }
 
