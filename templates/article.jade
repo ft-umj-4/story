@@ -39,6 +39,10 @@ block header
     i.fa.fa-clock-o
     | #{ ' Dipublikasikan ' }
     = moment.utc(page.date).format('DD MMM YYYY')
+  p.comment__link
+    a(href="#disqus_thread")
+      i.fa.fa-comment-o
+      | #{ ' Komentar ' }
 
 block content
   article.article
