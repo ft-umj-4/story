@@ -55,10 +55,10 @@ block content
 
 block prepend footer
   div.footer__nav
-    a(href=locals.url) &laquo; Kembali ke Halaman Utama
+    a(href=locals.url) &laquo; Kembali ke Halaman Utama    
+  #disqus_thread
 
 block prepend footer_script
-  #disqus_thread
   script.
       var disqus_config = function () {
         this.page.url = "#{locals.url}" + "#{page.url}";
