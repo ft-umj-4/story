@@ -25,10 +25,15 @@ block content
         | #{ ' Ditulis oleh ' }
         mixin author(article.metadata.author)
 
-      div.date-publish.m-bottom-5
+      div.date-publish
         i.fa.fa-clock-o
         | #{ ' Dipublikasikan ' }
         = moment.utc(article.date).format('DD MMM YYYY')
+
+      div.comment__link.m-bottom-5
+        a(href=locals.url+article.url+"#disqus_thread")
+          i.fa.fa-comment-o
+          | #{ ' Komentar ' }
 
       section.article__content
         if article.intro.length > 0
