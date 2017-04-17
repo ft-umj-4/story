@@ -2,15 +2,29 @@
 extends layout
 //- this logic should be moved to a view at some point
 
-block prepend title
-  title= 'Semua Artikel - '+ locals.name
-  meta(property="og:title", content='Semua Artikel - '+ locals.name)
-  meta(property="twitter:title", content='Semua Artikel - '+ locals.name)
+block prepend meta_title
 
-block prepend description
-  meta(name="description", content='Semua Artikel - '+ locals.name) 
-  meta(property="og:description", content='Semua Artikel - '+ locals.name)
-  meta(property="twitter:description", content='Semua Artikel - '+ locals.name)
+  title='Daftar Semua Artikel - ' + locals.name  
+  meta(name="description", content='Daftar Semua Artikel - '+ locals.name + ' - ' + locals.description) 
+
+  meta(property="og:title", content='Daftar Semua Artikel - ' + locals.name)
+  meta(property="og:description", content='Daftar Semua Artikel - '+ locals.name + ' - ' + locals.description)
+  meta(property="og:url", content=locals.url+'/archive.html')
+  meta(property="og:image", content=locals.logoUrl)
+  meta(property="og:image:secure_url", content=locals.logoUrl)
+  meta(property="og:site_name", content=locals.url)
+  meta(property="og:type", content="website")
+  meta(property="og:image:width", content="300")
+  meta(property="og:image:height", content="300")
+
+  meta(name="twitter:card", content="summary_large_image")
+  meta(name="twitter:title", content='Daftar Semua Artikel - ' + locals.name)
+  meta(name="twitter:description", content='Daftar Semua Artikel - '+ locals.name + ' - ' + locals.description)
+  meta(name="twitter:image:src", content=locals.logoUrl)
+  meta(name="twitter:image:src", content=locals.logoUrl)
+  meta(name="twitter:image:width", content="300")
+  meta(name="twitter:image:height", content="300")
+  meta(name="twitter:domain", content=locals.url+'/archive.html')
 
 block content
   - var lineHeight = 2.2;

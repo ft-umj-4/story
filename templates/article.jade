@@ -4,15 +4,29 @@ extends layout
 block append vars
   - bodyclass = 'article-detail'
 
-block prepend title
-  title= page.title
-  meta(property="og:title", content=page.title)
-  meta(property="twitter:title", content=page.title)
-
-block prepend description
+block prepend meta_title
+  title= page.title  
   meta(name="description", content=page.title +' - '+ locals.name) 
-  meta(property="og:description", content=page.title +' - '+ locals.name)
-  meta(property="twitter:description", content=page.title +' - '+ locals.name)
+
+  meta(property="og:title", content=page.title)
+  meta(property="og:description", content=page.title + ' - ' + locals.name)
+  meta(property="og:url", content=page.url)
+  meta(property="og:image", content=locals.logoUrl)
+  meta(property="og:image:secure_url", content=locals.logoUrl)
+  meta(property="og:site_name", content=locals.url)
+  meta(property="og:type", content="website")
+  meta(property="og:image:width", content="300")
+  meta(property="og:image:height", content="300")
+
+  meta(name="twitter:card", content="summary_large_image")
+  meta(name="twitter:title", content=page.title)
+  meta(name="twitter:description", content=page.title + ' - ' + locals.name)
+  meta(name="twitter:image:src", content=locals.logoUrl)
+  meta(name="twitter:image:src", content=locals.logoUrl)
+  meta(name="twitter:image:width", content="300")
+  meta(name="twitter:image:height", content="300")
+  meta(name="twitter:domain", content=page.url)
+
 
 block header
   div.breadcrumb
