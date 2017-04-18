@@ -48,6 +48,9 @@ html(lang='id-ID')
 
   body.site
 
+  - var showTags = ['arisan', 'outing', 'bukber']
+  - var allTags = env.helpers.getAllTags()
+
     header.header-fixed
       
         nav.nav
@@ -64,14 +67,38 @@ html(lang='id-ID')
             .nav__item.nav__link
               a(href=href=locals.url+'/archive.html') Semua Artikel
 
-            - var showTags = ['arisan', 'outing', 'bukber']
-            - var allTags = env.helpers.getAllTags()
-              each tag in allTags
-                if env.helpers.getTagHome(tag) !== undefined  
-                  each showTag in showTags
-                    if tag === showTag  
-                      .nav__item.nav__link
-                        a(href=locals.url+env.helpers.getTagHome(tag).url)= tag
+            each tag in allTags
+              if env.helpers.getTagHome(tag) !== undefined  
+                each showTag in showTags
+                  if tag === showTag  
+                    .nav__item.nav__link
+                      a(href=locals.url+env.helpers.getTagHome(tag).url)= tag
+
+          div.nav__mobile
+              div.nav__mobile-btn#menu-toggle
+                  span
+                  span
+                  span
+                  span  
+
+    aside.site__offcanvas.offcanvas.offcanvas--animated(role='aside')
+      div.offcanvas__overlay
+      ul
+
+        each tag in allTags
+          if env.helpers.getTagHome(tag) !== undefined  
+            each showTag in showTags
+              if tag === showTag  
+                li
+                  i.fa.fa-angle-double-right
+                  a(href=locals.url+env.helpers.getTagHome(tag).url)= tag
+
+        li
+          i.fa.fa-angle-double-right
+          a(href=href=locals.url+'/archive.html') Semua Artikel             
+        li
+          i.fa.fa-angle-double-right
+          a(href=href=locals.url) Home      
 
     div.cover
       section.content-wrap
