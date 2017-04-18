@@ -30,7 +30,7 @@ block prepend meta_title
 
 block header
   div.breadcrumb
-    a(href=locals.url)
+    a.breadcrumb__home(href=locals.url)
       i.fa.fa-home
     | #{ '  ' }
     i.fa.fa-angle-double-right
@@ -45,15 +45,15 @@ block header
     a(href='#')=page.title
   include author
   h1= page.title
-  p.author
+  div.author
     i.fa.fa-user-o
     | #{ ' Ditulis oleh ' }
     mixin author(page.metadata.author)
-  p.date-publish
+  div.date-publish
     i.fa.fa-clock-o
     | #{ ' Dipublikasikan ' }
     = moment.utc(page.date).format('DD MMM YYYY')
-  p.comment__link
+  div.comment__link
     a(href=locals.url+page.url+"#disqus_thread")
       i.fa.fa-comment-o
       | #{ ' Komentar ' }
