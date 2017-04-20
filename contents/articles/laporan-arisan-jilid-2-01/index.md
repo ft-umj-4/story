@@ -18,7 +18,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | ANDI MARDIANTO 			|- 			  		| -				| -				|-				|-				|
 | ANDRI ISKANDAR 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|4/17/2017		| IRFAN			|
 | ANTO 						|- 			  		| -				| -				|-				|-				|
-| BENI 						|- 			  		| -				| -				|-				|-				|
+| BENI 						|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|4/19/2017		| IRFAN			|
 | CHEN - ENDY 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|-				|-				|
 | DEDEN 					|- 			  		| -				| -				|-				|-				|
 | EDY 						|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|-				|-				|
@@ -41,7 +41,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | TANDRI 					|- 			  		| -				| -				|-				|-				|
 | UMAR 						|- 			  		| -				| -				|-				|-				|
 | YUNUS 					|- 			  		| -				| -				|-				|-				|
-| **TOTAL** 				|**Rp. 1.000.000,-** | **Rp. 300.000,-**	| **Rp. 200.000,-**	|-				|-				|
+| **TOTAL** 				|**Rp. 1.100.000,-** | **Rp. 330.000,-**	| **Rp. 220.000,-**	|-				|-				|
 
 
 
@@ -56,7 +56,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
  - Konsumsi 	: **Rp. 240.000,-**
  - Kas 			: **Rp. 160.000,-**
 + Uang yang ada di **IRFAN** :
- - Uang Arisan	: **Rp. 200.000,-** 
- - Konsumsi 	: **Rp.  40.000,-**
- - Kas 			: **Rp.  60.000,-**
- - **TOTAL**	: **Rp. 300.000,-**
+ - Uang Arisan	: **Rp. 300.000,-** 
+ - Konsumsi 	: **Rp.  60.000,-**
+ - Kas 			: **Rp.  90.000,-**
+ - **TOTAL**	: **Rp. 450.000,-**
