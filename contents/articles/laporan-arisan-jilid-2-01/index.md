@@ -15,7 +15,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 |Nama						| Arisan 		  	| Kas 			| Konsumsi 		| Tgl. Transfer	| Transfered To |
 |--------------------------	|-------------------|---------------|---------------|---------------|---------------|
 | ACONK NURYADI 			|- 			  		| -				| -				|-				|-				|
-| ANDI MARDIANTO 			|- 			  		| -				| -				|-				|-				|
+| ANDI MARDIANTO 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|4/26/2017		| SNOY			|
 | ANDRI ISKANDAR 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|4/17/2017		| IRFAN			|
 | ANTO  						  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|4/23/2017		| IRFAN			|
 | BENI 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|4/19/2017		| IRFAN			|
@@ -41,7 +41,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | TANDRI 					    |- 			  		| -				| -				|-				|-				|
 | UMAR 						    |- 			  		| -				| -				|-				|-				|
 | YUNUS 					    |- 			  		| -				| -				|-				|-				|
-| **TOTAL** 				  |**Rp. 1.200.000,-** | **Rp. 360.000,-**	| **Rp. 240.000,-**	|-				|-				|
+| **TOTAL** 				  |**Rp. 1.300.000,-** | **Rp. 390.000,-**	| **Rp. 260.000,-**	|-				|-				|
 
 
 
@@ -60,3 +60,8 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
  - Konsumsi 	   : **Rp.  80.000,-**
  - Kas 			     : **Rp.  120.000,-**
  - **TOTAL**	   : **Rp. 600.000,-**
++ Uang yang ada di **SNOY** :
+ - Uang Arisan	 : **Rp. 100.000,-**
+ - Konsumsi 	   : **Rp.  20.000,-**
+ - Kas 			     : **Rp.  30.000,-**
+ - **TOTAL**	   : **Rp. 150.000,-**
