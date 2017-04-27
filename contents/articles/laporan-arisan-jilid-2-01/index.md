@@ -27,7 +27,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | HERI AHMADI 				|- 			  		| - 			| -				|-				|-				|
 | IRFAN MAULANA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|-				|-				|
 | IWAN MAULANA 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|4/26/2017		| IRFAN			|
-| JOHAN 					    |- 			  		| -				| -				|-				|-				|
+| JOHAN 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|4/27/2017		| IRFAN			|
 | KHOLIS 					    |- 			  		| -				| -				|-				|-				|
 | KUSRIYADI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|-				|-				|
 | LUKIMEN 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|-				|-				|
@@ -41,7 +41,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | TANDRI 					    |- 			  		| -				| -				|-				|-				|
 | UMAR 						    |- 			  		| -				| -				|-				|-				|
 | YUNUS 					    |- 			  		| -				| -				|-				|-				|
-| **TOTAL** 				  |**Rp. 1.600.000,-** | **Rp. 480.000,-**	| **Rp. 320.000,-**	|-				|-				|
+| **TOTAL** 				  |**Rp. 1.700.000,-** | **Rp. 510.000,-**	| **Rp. 340.000,-**	|-				|-				|
 
 
 
@@ -56,10 +56,10 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
  - Konsumsi 	   : **Rp. 240.000,-**
  - Kas 			     : **Rp. 160.000,-**
 + Uang yang ada di **IRFAN** :
- - Uang Arisan	 : **Rp. 600.000,-**
- - Konsumsi 	   : **Rp.  120.000,-**
- - Kas 			     : **Rp.  180.000,-**
- - **TOTAL**	   : **Rp. 900.000,-**
+ - Uang Arisan	 : **Rp. 700.000,-**
+ - Konsumsi 	   : **Rp.  140.000,-**
+ - Kas 			     : **Rp.  210.000,-**
+ - **TOTAL**	   : **Rp.1.050.000,-**
 + Uang yang ada di **SNOY** :
  - Uang Arisan	 : **Rp. 200.000,-**
  - Konsumsi 	   : **Rp.  40.000,-**
