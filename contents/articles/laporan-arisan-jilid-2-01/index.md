@@ -22,11 +22,11 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | CHEN - ENDY 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|-				|-				|
 | DEDEN 					    |- 			  		| -				| -				|-				|-				|
 | EDY 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|-				|-				|
-| EMMA 						    |- 			  		| -				| -				|-				|-				|
+| EMMA 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|4/27/2017		| SNOY			|
 | ENGKUS 					    |Rp. 100.000,-		|Rp. 30.000,-	| Rp. 20.000,-	|4/9/2017		| IRFAN			|
 | HERI AHMADI 				|- 			  		| - 			| -				|-				|-				|
 | IRFAN MAULANA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|-				|-				|
-| IWAN MAULANA 				|- 			  		| -				| - 			|-				|-				|
+| IWAN MAULANA 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|4/26/2017		| IRFAN			|
 | JOHAN 					    |- 			  		| -				| -				|-				|-				|
 | KHOLIS 					    |- 			  		| -				| -				|-				|-				|
 | KUSRIYADI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|-				|-				|
@@ -35,13 +35,13 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | NURUL				 		    |- 			  		| -				| -				|-				|-				|
 | PANDU 					    |	- 			  	| -				| -				|-				|-				|
 | RAHMAT HIDAYAT 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|-				|-				|
-| SAHAL MUNTAHA 			|- 			  		| -				| -				|-				|-				|
+| SAHAL MUNTAHA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|4/27/2017		| IRFAN			|
 | SUYATNO - SNOY 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|-				|-				|
 | SYAFRUL 					  |- 			  		| -				| -				|-				|-				|
 | TANDRI 					    |- 			  		| -				| -				|-				|-				|
 | UMAR 						    |- 			  		| -				| -				|-				|-				|
 | YUNUS 					    |- 			  		| -				| -				|-				|-				|
-| **TOTAL** 				  |**Rp. 1.300.000,-** | **Rp. 390.000,-**	| **Rp. 260.000,-**	|-				|-				|
+| **TOTAL** 				  |**Rp. 1.600.000,-** | **Rp. 480.000,-**	| **Rp. 320.000,-**	|-				|-				|
 
 
 
@@ -56,12 +56,12 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
  - Konsumsi 	   : **Rp. 240.000,-**
  - Kas 			     : **Rp. 160.000,-**
 + Uang yang ada di **IRFAN** :
- - Uang Arisan	 : **Rp. 400.000,-**
- - Konsumsi 	   : **Rp.  80.000,-**
- - Kas 			     : **Rp.  120.000,-**
- - **TOTAL**	   : **Rp. 600.000,-**
+ - Uang Arisan	 : **Rp. 600.000,-**
+ - Konsumsi 	   : **Rp.  120.000,-**
+ - Kas 			     : **Rp.  180.000,-**
+ - **TOTAL**	   : **Rp. 900.000,-**
 + Uang yang ada di **SNOY** :
- - Uang Arisan	 : **Rp. 100.000,-**
- - Konsumsi 	   : **Rp.  20.000,-**
- - Kas 			     : **Rp.  30.000,-**
- - **TOTAL**	   : **Rp. 150.000,-**
+ - Uang Arisan	 : **Rp. 200.000,-**
+ - Konsumsi 	   : **Rp.  40.000,-**
+ - Kas 			     : **Rp.  60.000,-**
+ - **TOTAL**	   : **Rp. 300.000,-**
