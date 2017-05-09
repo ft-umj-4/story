@@ -6,7 +6,7 @@ template: article.jade
 tags: laporan arisan
 ---
 
-Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://www.dropbox.com/s/lqrvit24hfh3fot/Arisan%20UMJ%20TechInfo4%20Jilid%2002.xlsx?dl=0), namun seperti saya juga malas memperbarui dropbox maka laporan akan saya perbarui juga di laman ini. Berikut adalah update pembayarannya sampai **18 April 2017** :
+Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://www.dropbox.com/s/lqrvit24hfh3fot/Arisan%20UMJ%20TechInfo4%20Jilid%2002.xlsx?dl=0), namun seperti saya juga malas memperbarui dropbox maka laporan akan saya perbarui juga di laman ini. Berikut adalah update pembayarannya :
 
 <br/>
 <span class="more"></span>
@@ -21,7 +21,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | BENI 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|4/19/2017		| IRFAN			|
 | CEPY 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/05/2017		| IRFAN			|
 | CHEN - ENDY 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|-				|-				|
-| DEDEN 					    |- 			  		| -				| -				|-				|-				|
+| DEDEN 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/09/2017		| IRFAN			|
 | EDY 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|-				|-				|
 | EMMA 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|4/27/2017		| SNOY			|
 | ENGKUS 					    |Rp. 100.000,-		|Rp. 30.000,-	| Rp. 20.000,-	|4/9/2017		| IRFAN			|
