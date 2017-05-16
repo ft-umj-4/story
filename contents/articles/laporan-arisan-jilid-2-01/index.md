@@ -34,7 +34,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | LUKIMEN 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|-				|-				|
 | NOVAN ALI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|-				|-				|
 | NURUL				 		    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|4/30/2017		| IRFAN			|
-| PANDU 					    |	- 			  	| -				| -				|-				|-				|
+| PANDU 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/14/2017		| IRFAN			|
 | RAHMAT HIDAYAT 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|-				|-				|
 | SAHAL MUNTAHA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|4/27/2017		| IRFAN			|
 | SUYATNO - SNOY 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|-				|-				|
@@ -56,10 +56,10 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
  - Konsumsi 	   : **Rp. 240.000,-**
  - Kas 			     : **Rp. 160.000,-**
 + Uang yang ada di **IRFAN** :
- - Uang Arisan	 : **Rp. 1.200.000,-**
- - Konsumsi 	   : **Rp.   240.000,-**
- - Kas 			     : **Rp.   360.000,-**
- - **TOTAL**	   : **Rp. 1.800.000,-**
+ - Uang Arisan	 : **Rp. 1.400.000,-**
+ - Konsumsi 	   : **Rp.   280.000,-**
+ - Kas 			     : **Rp.   420.000,-**
+ - **TOTAL**	   : **Rp. 2.100.000,-**
 + Uang yang ada di **SNOY** :
  - Uang Arisan	 : **Rp. 200.000,-**
  - Konsumsi 	   : **Rp.  40.000,-**
