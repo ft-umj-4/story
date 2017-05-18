@@ -28,16 +28,18 @@
 }
 
 .footer__copy,
-.footer__copy a {
+.footer__copy a,
+.footer__social a,
+.footer__dev,
+.footer__dev a {
     color: #8e8e8e;
 }
 
-.footer__social{
+.footer__social, .footer__dev{
     text-align: center;
 }
 
 .footer__social a {
-    color: #8e8e8e;
-    padding: 10px;    
+    padding: 10px;
     font-size: 2rem;
 }
