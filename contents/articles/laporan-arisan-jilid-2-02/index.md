@@ -1,7 +1,7 @@
 ---
 title: Laporan Arisan Jilid 02 FT UMJ IV - Kocokan 02
 author: ft-umj-iv
-date: 2017-05-09
+date: 2017-05-20
 template: article.jade
 tags: laporan arisan
 ---
@@ -12,7 +12,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 <span class="more"></span>
 
 
-|Nama						| Arisan 		  	| Kas 			| Konsumsi 		| Tgl. Transfer	| Transfered To |
+|Nama						| Arisan 		  	| Kas 			| Konsumsi 		| Tgl. Bayar	| Transfered To |
 |--------------------------	|-------------------|---------------|---------------|---------------|---------------|
 | ACONK NURYADI 			|- 			  		| -				| -				|-				|-				|
 | ANDI MARDIANTO 			|- 			  		| -				| -				|-				|-				|
@@ -25,22 +25,22 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | EDY 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/09/2017		| IRFAN			|
 | EMMA 						    |- 			  		| -				| -				|-				|-				|
 | ENGKUS 					    |- 			  		| -				| -				|-				|-				|
-| HERI AHMADI 				|- 			  		| -				| -				|-				|-				|
-| IRFAN MAULANA 			|- 			  		| -				| -				|-				|-				|
-| IWAN MAULANA 				|- 			  		| -				| -				|-				|-				|
+| HERI AHMADI 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/20/2017		| -			|
+| IRFAN MAULANA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/20/2017		| -			|
+| IWAN MAULANA 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/20/2017		| -			|
 | JOHAN 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|4/27/2017		| IRFAN			|
 | KHOLIS 					    |- 			  		| -				| -				|-				|-				|
 | KUSRIYADI 				  |- 			  		| -				| -				|-				|-				|
-| LUKIMEN 					  |- 			  		| -				| -				|-				|-				|
+| LUKIMEN 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/20/2017		| -			|
 | NOVAN ALI 				  |- 			  		| -				| -				|-				|-				|
-| NURUL				 		    |- 			  		| -				| -				|-				|-				|
+| NURUL				 		    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/20/2017		| -			|
 | PANDU 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/14/2017		| IRFAN			|
-| RAHMAT HIDAYAT 			|- 			  		| -				| -				|-				|-				|
-| SAHAL MUNTAHA 			|- 			  		| -				| -				|-				|-				|
-| SUYATNO - SNOY 			|- 			  		| -				| -				|-				|-				|
-| SYAFRUL 					  |- 			  		| -				| -				|-				|-				|
+| RAHMAT HIDAYAT 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/20/2017		| -			|
+| SAHAL MUNTAHA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/20/2017		| -			|
+| SUYATNO - SNOY 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/20/2017		| -			|
+| SYAFRUL 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/20/2017		| IRFAN			|
 | TANDRI 					    |- 			  		| -				| -				|-				|-				|
-| UMAR 						    |- 			  		| -				| -				|-				|-				|
+| UMAR 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/20/2017		| -			|
 | YUNUS 					    |- 			  		| -				| -				|-				|-				|
 
 
@@ -49,17 +49,18 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 + Arisan diadakan tanggal **DD-MM-YYYY**
 + Detail dan dokumentasi arisan bisa dilihat di : link
 + Yang dapat arisan :
- - XXXXX
- - XXXXX
-+ Dapatnya
- - Uang Arisan	 : **Rp. 000.000,-** (Rp. 000.000,- /orang)
- - Konsumsi 	   : **Rp. 000.000,-**
- - Kas 			     : **Rp. 000.000,-**
+ - NURUL
+ - EMMA
++ Dapatnya (14 Orang yang sudah bayar + transfer)
+ - Uang Arisan	 : **Rp. 1.400.000,-** (Sudah sama NURUL)
+ - Konsumsi 	   : **Rp.   280.000,-** (Sudah sama NURUL)
+ - Kas 			     : **Rp.   420.000,-** (Sudah sama RAHMAT)
+ - Masing-masing dapat (Rp.700.000,-)
 + Uang yang ada di **IRFAN** :
- - Uang Arisan	 : **Rp.   400.000,-**
- - Konsumsi 	   : **Rp.    80.000,-**
- - Kas 			     : **Rp.   120.000,-**
- - **TOTAL**	   : **Rp.   600.000,-**
+ - Uang Arisan	 : **Rp.   100.000,-**
+ - Konsumsi 	   : **Rp.    20.000,-**
+ - Kas 			     : **Rp.    30.000,-**
+ - **TOTAL**	   : **Rp.   150.000,-**
 + Uang yang ada di **SNOY** :
  - Uang Arisan	 : **Rp. 000.000,-**
  - Konsumsi 	   : **Rp.  00.000,-**
