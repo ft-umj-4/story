@@ -23,7 +23,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | CHEN - ENDY 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/20/2017		| -			|
 | DEDEN 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/09/2017		| IRFAN			|
 | EDY 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/09/2017		| IRFAN			|
-| EMMA 						    |- 			  		| -				| -				|-				|-				|
+| EMMA 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/29/2017		| IRFAN			|
 | ENGKUS 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/23/2017		| IRFAN			|
 | HERI AHMADI 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/20/2017		| -			|
 | IRFAN MAULANA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/20/2017		| -			|
@@ -57,10 +57,10 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
  - Kas 			     : **Rp.   420.000,-** (Sudah sama RAHMAT)
  - Masing-masing dapat (Rp.700.000,-)
 + Uang yang ada di **IRFAN** :
- - Uang Arisan	 : **Rp.   400.000,-**
- - Konsumsi 	   : **Rp.    80.000,-**
- - Kas 			     : **Rp.   120.000,-**
- - **TOTAL**	   : **Rp.   600.000,-**
+ - Uang Arisan	 : **Rp.   500.000,-**
+ - Konsumsi 	   : **Rp.   100.000,-**
+ - Kas 			     : **Rp.   150.000,-**
+ - **TOTAL**	   : **Rp.   750.000,-**
 + Uang yang ada di **SNOY** :
  - Uang Arisan	 : **Rp. 000.000,-**
  - Konsumsi 	   : **Rp.  00.000,-**
