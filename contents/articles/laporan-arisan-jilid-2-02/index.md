@@ -32,7 +32,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | KHOLIS 					    |- 			  		| -				| -				|-				|-				|
 | KUSRIYADI 				  |- 			  		| -				| -				|-				|-				|
 | LUKIMEN 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/20/2017		| -			|
-| NOVAN ALI 				  |- 			  		| -				| -				|-				|-				|
+| NOVAN ALI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/27/2017		| IRFAN			|
 | NURUL				 		    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/20/2017		| -			|
 | PANDU 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/14/2017		| IRFAN			|
 | RAHMAT HIDAYAT 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/20/2017		| -			|
@@ -41,13 +41,13 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | SYAFRUL 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/20/2017		| IRFAN			|
 | TANDRI 					    |- 			  		| -				| -				|-				|-				|
 | UMAR 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/20/2017		| -			|
-| YUNUS 					    |- 			  		| -				| -				|-				|-				|
+| YUNUS 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/29/2017		| IRFAN			|
 
 
 
 ### Keterangan tambahan arisan kocokan 02
-+ Arisan diadakan tanggal **DD-MM-YYYY**
-+ Detail dan dokumentasi arisan bisa dilihat di : link
++ Arisan diadakan tanggal **05-20-2017**
++ Detail dan dokumentasi arisan bisa dilihat di [disini](https://ft-umj-4.github.io/story/articles/arisan-jilid-2-02-Rumah-Rahmat/).
 + Yang dapat arisan :
  - NURUL
  - EMMA
@@ -57,10 +57,10 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
  - Kas 			     : **Rp.   420.000,-** (Sudah sama RAHMAT)
  - Masing-masing dapat (Rp.700.000,-)
 + Uang yang ada di **IRFAN** :
- - Uang Arisan	 : **Rp.   200.000,-**
- - Konsumsi 	   : **Rp.    40.000,-**
- - Kas 			     : **Rp.    60.000,-**
- - **TOTAL**	   : **Rp.   300.000,-**
+ - Uang Arisan	 : **Rp.   400.000,-**
+ - Konsumsi 	   : **Rp.    80.000,-**
+ - Kas 			     : **Rp.   120.000,-**
+ - **TOTAL**	   : **Rp.   600.000,-**
 + Uang yang ada di **SNOY** :
  - Uang Arisan	 : **Rp. 000.000,-**
  - Konsumsi 	   : **Rp.  00.000,-**
