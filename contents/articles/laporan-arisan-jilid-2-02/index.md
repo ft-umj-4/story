@@ -20,7 +20,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | ANTO  						  |- 			  		| -				| -				|-				|-				|
 | BENI 						    |- 			  		| -				| -				|-				|-				|
 | CEPY 						    |- 			  		| -				| -				|-				|-				|
-| CHEN - ENDY 				|- 			  		| -				| -				|-				|-				|
+| CHEN - ENDY 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/20/2017		| -			|
 | DEDEN 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/09/2017		| IRFAN			|
 | EDY 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/09/2017		| IRFAN			|
 | EMMA 						    |- 			  		| -				| -				|-				|-				|
