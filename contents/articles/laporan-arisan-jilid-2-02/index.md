@@ -17,7 +17,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | ANDI MARDIANTO 			|- 			  		| -				| -				|-				|-				|
 | ANDRI ISKANDAR 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|06/06/2017		| IRFAN			|
 | BENI 						    |- 			  		| -				| -				|-				|-				|
-| CEPY 						    |- 			  		| -				| -				|-				|-				|
+| CEPY 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|06/13/2017		| IRFAN			|
 | CHEN - ENDY 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/20/2017		| -			|
 | DEDEN 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/09/2017		| IRFAN			|
 | EDY 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/09/2017		| IRFAN			|
@@ -63,3 +63,8 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
  - Konsumsi 	   : **Rp.  00.000,-**
  - Kas 			     : **Rp.  00.000,-**
  - **TOTAL**	   : **Rp. 000.000,-**
+ + Uang Belum Diberikan :
+ - Uang Arisan	 : **Rp.   100.000,-**
+ - Konsumsi 	   : **Rp.    20.000,-**
+ - Kas 			     : **Rp.    30.000,-**
+ - **TOTAL**	   : **Rp.   150.000,-**
