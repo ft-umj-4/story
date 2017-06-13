@@ -44,7 +44,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 
 ### Keterangan tambahan arisan kocokan 03
 + Arisan diadakan tanggal **10-JUNI-2016**
-+ Detail dan dokumentasi arisan bisa dilihat [disini](#link)
++ Detail dan dokumentasi arisan bisa dilihat [disini](https://ft-umj-4.github.io/story/articles/arisan-jilid-2-03-Rumah-Emma/)
 + Yang dapat arisan :
  - XXX
  - XXX
