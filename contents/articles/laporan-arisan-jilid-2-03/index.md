@@ -14,52 +14,49 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 
 |Nama						| Arisan 		  	| Kas 			| Konsumsi 		| Tgl. Bayar	| Transfered To |
 |--------------------------	|-------------------|---------------|---------------|---------------|---------------|
-| ACONK NURYADI 			|- 			  		| -				| -				|-				|-				|
 | ANDI MARDIANTO 			|- 			  		| -				| -				|-				|-				|
 | ANDRI ISKANDAR 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|6/06/2017		| IRFAN			|
-| ANTO  						  |- 			  		| -				| -				|-				|-				|
 | BENI 						    |- 			  		| -				| -				|-				|-				|
 | CEPY 						    |- 			  		| -				| -				|-				|-				|
 | CHEN - ENDY 				|- 			  		| -				| -				|-				|-				|
 | DEDEN 					    |- 			  		| -				| -				|-				|-				|
-| EDY 						    |- 			  		| -				| -				|-				|-				|
-| EMMA 						    |- 			  		| -				| -				|-				|-				|
+| EDY 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/06/2017		| IRFAN			|
+| EMMA 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|10/06/2017		| IRFAN			|
 | ENGKUS 					    |- 			  		| -				| -				|-				|-				|
 | HERI AHMADI 				|- 			  		| -				| -				|-				|-				|
-| IRFAN MAULANA 			|- 			  		| -				| -				|-				|-				|
-| IWAN MAULANA 				|- 			  		| -				| -				|-				|-				|
+| IRFAN MAULANA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|10/06/2017		| IRFAN			|
+| IWAN MAULANA 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|13/06/2017		| IRFAN			|
 | JOHAN 					    |- 			  		| -				| -				|-				|-				|
-| KHOLIS 					    |- 			  		| -				| -				|-				|-				|
 | KUSRIYADI 				  |- 			  		| -				| -				|-				|-				|
 | LUKIMEN 					  |- 			  		| -				| -				|-				|-				|
 | NOVAN ALI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/27/2017		| IRFAN			|
-| NURUL				 		    |- 			  		| -				| -				|-				|-				|
+| NURUL				 		    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|10/06/2017		| IRFAN			|
 | PANDU 					    |- 			  		| -				| -				|-				|-				|
 | RAHMAT HIDAYAT 			|- 			  		| -				| -				|-				|-				|
 | SAHAL MUNTAHA 			|- 			  		| -				| -				|-				|-				|
 | SUYATNO - SNOY 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|6/04/2017		| IRFAN			|
-| SYAFRUL 					  |- 			  		| -				| -				|-				|-				|
-| TANDRI 					    |- 			  		| -				| -				|-				|-				|
-| UMAR 						    |- 			  		| -				| -				|-				|-				|
-| YUNUS 					    |- 			  		| -				| -				|-				|-				|
+| SYAFRUL 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|10/06/2017		| IRFAN			|
+| TANDRI 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|10/06/2017		| IRFAN			|
+| UMAR 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|10/06/2017		| IRFAN			|
+| YUNUS 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|11/06/2017		| IRFAN			|
 
 
 
 ### Keterangan tambahan arisan kocokan 03
-+ Arisan diadakan tanggal **DD-MM-YYYY**
++ Arisan diadakan tanggal **10-JUNI-2016**
 + Detail dan dokumentasi arisan bisa dilihat [disini](#link)
 + Yang dapat arisan :
  - XXX
  - XXX
 + Dapatnya
- - Uang Arisan	 : **000.000,-**
- - Konsumsi 	   : **000.000,-**
- - Kas 			     : **000.000,-**
+ - Uang Arisan	 : **1.100.000,-** (TANDRI 550.000 SUDAH) / PANDU BELUM
+ - Konsumsi 	   : **220.000,-** (BELUM)
+ - Kas 			     : **330.000,-** (BELUM)
 + Uang yang ada di **IRFAN** :
- - Uang Arisan	 : **Rp.   300.000,-**
- - Konsumsi 	   : **Rp.    60.000,-**
- - Kas 			     : **Rp.    90.000,-**
- - **TOTAL**	   : **Rp.   450.000,-**
+ - Uang Arisan	 : **Rp.   200.000,-**
+ - Konsumsi 	   : **Rp.    40.000,-**
+ - Kas 			     : **Rp.    60.000,-**
+ - **TOTAL**	   : **Rp.   300.000,-**
 + Uang yang ada di **SNOY** :
  - Uang Arisan	 : **Rp. 000.000,-**
  - Konsumsi 	   : **Rp.  00.000,-**

@@ -14,10 +14,9 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 
 |Nama						| Arisan 		  	| Kas 			| Konsumsi 		| Tgl. Transfer	| Transfered To |
 |--------------------------	|-------------------|---------------|---------------|---------------|---------------|
-| ACONK NURYADI 			|- 			  		| -				| -				|-				|-				|
 | ANDI MARDIANTO 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|4/26/2017		| SNOY			|
 | ANDRI ISKANDAR 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|4/17/2017		| IRFAN			|
-| ANTO  						  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|4/23/2017		| IRFAN			|
+| ANTO  						  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|4/23/2017		| IRFAN	- OUT		|
 | BENI 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|4/19/2017		| IRFAN			|
 | CEPY 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/05/2017		| IRFAN			|
 | CHEN - ENDY 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|-				|-				|
@@ -29,7 +28,6 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | IRFAN MAULANA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|-				|-				|
 | IWAN MAULANA 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|4/26/2017		| IRFAN			|
 | JOHAN 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|4/27/2017		| IRFAN			|
-| KHOLIS 					    |- 			  		| -				| -				|-				|-				|
 | KUSRIYADI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|-				|-				|
 | LUKIMEN 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|-				|-				|
 | NOVAN ALI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|-				|-				|
@@ -69,4 +67,4 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
  - Uang Arisan	 : **Rp.   100.000,-**
  - Konsumsi 	   : **Rp.    20.000,-**
  - Kas 			     : **Rp.    30.000,-**
- - **TOTAL**	   : **Rp.   150.000,-** 
+ - **TOTAL**	   : **Rp.   150.000,-**
