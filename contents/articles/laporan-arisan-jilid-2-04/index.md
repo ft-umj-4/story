@@ -13,7 +13,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 
 
 |Nama						| Arisan 		  	| Kas 			| Konsumsi 		| Tgl. Bayar	| Transfered To |
-|--------------------------	|-------------------|---------------|---------------|---------------|---------------|
+|-------------	|---------------|-----------|-------------|-------------|---------------|
 | ANDI MARDIANTO 			|- 			  		| -				| -				|-				|-				|
 | ANDRI ISKANDAR 			|- 			  		| -				| -				|-				|-				|
 | BENI 						    |- 			  		| -				| -				|-				|-				|
@@ -22,21 +22,21 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | DEDEN 					    |- 			  		| -				| -				|-				|-				|
 | EDY 						    |- 			  		| -				| -				|-				|-				|
 | EMMA 						    |- 			  		| -				| -				|-				|-				|
-| ENGKUS 					    |- 			  		| -				| -				|-				|-				|
-| HERI AHMADI 				|- 			  		| -				| -				|-				|-				|
-| IRFAN MAULANA 			|- 			  		| -				| -				|-				|-				|
+| ENGKUS 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|07/22/2017		| IRFAN			|
+| HERI AHMADI 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|07/22/2017		| IRFAN			|
+| IRFAN MAULANA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|07/22/2017		| IRFAN			|
 | IWAN MAULANA 				|- 			  		| -				| -				|-				|-				|
 | JOHAN 					    |- 			  		| -				| -				|-				|-				|
 | KUSRIYADI 				  |- 			  		| -				| -				|-				|-				|
 | LUKIMEN 					  |- 			  		| -				| -				|-				|-				|
-| NOVAN ALI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|6/16/2017		| IRFAN			|
+| NOVAN ALI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|07/16/2017		| IRFAN			|
 | NURUL				 		    |- 			  		| -				| -				|-				|-				|
-| PANDU 					    |- 			  		| -				| -				|-				|-				|
+| PANDU 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|07/22/2017		| IRFAN			|
 | RAHMAT HIDAYAT 			|- 			  		| -				| -				|-				|-				|
-| SAHAL MUNTAHA 			|- 			  		| -				| -				|-				|-				|
+| SAHAL MUNTAHA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|07/22/2017		| IRFAN			|
 | SUYATNO - SNOY 			|- 			  		| -				| -				|-				|-				|
 | SYAFRUL 					  |- 			  		| -				| -				|-				|-				|
-| TANDRI 					    |- 			  		| -				| -				|-				|-				|
+| TANDRI 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|07/22/2017		| IRFAN			|
 | UMAR 						    |- 			  		| -				| -				|-				|-				|
 | YUNUS 					    |- 			  		| -				| -				|-				|-				|
 
@@ -53,10 +53,10 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
  - Konsumsi 	   : **000.000,-**
  - Kas 			     : **000.000,-**
 + Uang yang ada di **IRFAN** :
- - Uang Arisan	 : **Rp.   100.000,-**
- - Konsumsi 	   : **Rp.    20.000,-**
- - Kas 			     : **Rp.    30.000,-**
- - **TOTAL**	   : **Rp.   150.000,-**
+ - Uang Arisan	 : **Rp.   700.000,-**
+ - Konsumsi 	   : **Rp.    140.000,-**
+ - Kas 			     : **Rp.    210.000,-**
+ - **TOTAL**	   : **Rp.  1.050.000,-**
 + Uang yang ada di **SNOY** :
  - Uang Arisan	 : **Rp. 000.000,-**
  - Konsumsi 	   : **Rp.  00.000,-**

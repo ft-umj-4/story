@@ -22,22 +22,22 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | CHEN - ENDY 				| 4			  		              | 150.000 		|
 | DEDEN 					    | 3, 4		  		            | 300.000 		|
 | EDY 						    | 4			  		              | 150.000 		|
-| EMMA 						    | 4			  		              | 150.000 		|
+| EMMA 						    | - 		  		              | -				 		|
 | ENGKUS 					    | 3, 4		  		            | 300.000 		|
-| HERI AHMADI 				| 3, 4		  		            | 300.000 		|
-| IRFAN MAULANA 			| 4			  		              | 150.000 		|
+| HERI AHMADI 				| - 		  		              | -				 		|
+| IRFAN MAULANA 			| - 		  		              | -				 		|
 | IWAN MAULANA 				| 4			  		              | 150.000 		|
 | JOHAN 					    | 3, 4		  		            | 300.000 		|
 | KUSRIYADI 				  | 2, 3, 4  		              | 450.000  		|
 | LUKIMEN 					  | 3, 4		  		            | 300.000 		|
 | NOVAN ALI 				  | -													| -						|
 | NURUL				 		    | 4			  		              | 150.000 		|
-| PANDU 					    | 3, 4		  		            | 300.000 		|
+| PANDU 					    | - 		  		              | -				 		|
 | RAHMAT HIDAYAT 			| 3, 4		  		            | 300.000 		|
-| SAHAL MUNTAHA 			| 4			  		              | 150.000 		|
+| SAHAL MUNTAHA 			| - 		  		              | -				 		|
 | SUYATNO - SNOY 			| 4			  		              | 150.000 		|
 | SYAFRUL 					  | 4			  		              | 150.000 		|
-| TANDRI 					    | 4			  		              | 150.000 		|
+| TANDRI 					    | - 		  		              | -				 		|
 | UMAR 						    | 4			  		              | 150.000 		|
 | YUNUS 					    | 4			  		              | 150.000 		|
 
