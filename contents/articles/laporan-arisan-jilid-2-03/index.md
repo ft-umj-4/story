@@ -12,8 +12,8 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 <span class="more"></span>
 
 
-|Nama						| Arisan 		  	| Kas 			| Konsumsi 		| Tgl. Bayar	| Transfered To |
-|--------------------------	|-------------------|---------------|---------------|---------------|---------------|
+|Nama									| Arisan 		  	| Kas 			| Konsumsi 		| Tgl. Bayar	| Transfered To |
+|-------------------	|---------------|-----------|-------------|-------------|---------------|
 | ANDI MARDIANTO 			|- 			  		| -				| -				|-				|-				|
 | ANDRI ISKANDAR 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|6/06/2017		| IRFAN			|
 | BENI 						    |- 			  		| -				| -				|-				|-				|
@@ -22,8 +22,8 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | DEDEN 					    |- 			  		| -				| -				|-				|-				|
 | EDY 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/06/2017		| IRFAN			|
 | EMMA 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|10/06/2017		| IRFAN			|
-| ENGKUS 					    |- 			  		| -				| -				|-				|-				|
-| HERI AHMADI 				|- 			  		| -				| -				|-				|-				|
+| ENGKUS 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|22/07/2017		| IRFAN			|
+| HERI AHMADI 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|22/07/2017		| IRFAN			|
 | IRFAN MAULANA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|10/06/2017		| IRFAN			|
 | IWAN MAULANA 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|13/06/2017		| IRFAN			|
 | JOHAN 					    |- 			  		| -				| -				|-				|-				|
@@ -31,9 +31,9 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | LUKIMEN 					  |- 			  		| -				| -				|-				|-				|
 | NOVAN ALI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/27/2017		| IRFAN			|
 | NURUL				 		    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|10/06/2017		| IRFAN			|
-| PANDU 					    |- 			  		| -				| -				|-				|-				|
+| PANDU 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|22/07/2017		| IRFAN			|
 | RAHMAT HIDAYAT 			|- 			  		| -				| -				|-				|-				|
-| SAHAL MUNTAHA 			|- 			  		| -				| -				|-				|-				|
+| SAHAL MUNTAHA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|10/06/2017		| IRFAN			|
 | SUYATNO - SNOY 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|6/04/2017		| IRFAN			|
 | SYAFRUL 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|10/06/2017		| IRFAN			|
 | TANDRI 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|10/06/2017		| IRFAN			|
@@ -49,14 +49,14 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
  - XXX
  - XXX
 + Dapatnya
- - Uang Arisan	 : **1.100.000,-** (TANDRI 550.000 SUDAH) / PANDU BELUM
+ - Uang Arisan	 : **1.100.000,-** (TANDRI 550.000 SUDAH) / (PANDU 550.000 POTONG 150.000)
  - Konsumsi 	   : **220.000,-** (BELUM)
  - Kas 			     : **330.000,-** (BELUM)
 + Uang yang ada di **IRFAN** :
- - Uang Arisan	 : **Rp.   400.000,-**
- - Konsumsi 	   : **Rp.    80.000,-**
- - Kas 			     : **Rp.   120.000,-**
- - **TOTAL**	   : **Rp.   600.000,-**
+ - Uang Arisan	 : **Rp.   700.000,-**
+ - Konsumsi 	   : **Rp.   140.000,-**
+ - Kas 			     : **Rp.   210.000,-**
+ - **TOTAL**	   : **Rp. 1.050.000,-**
 + Uang yang ada di **SNOY** :
  - Uang Arisan	 : **Rp. 000.000,-**
  - Konsumsi 	   : **Rp.  00.000,-**

@@ -13,7 +13,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 
 
 |Nama						| Arisan 		  	| Kas 			| Konsumsi 		| Tgl. Bayar	| Transfered To |
-|--------------------------	|-------------------|---------------|---------------|---------------|---------------|
+|--------------	|---------------|-----------|-------------|-------------|---------------|
 | ANDI MARDIANTO 			|- 			  		| -				| -				|-				|-				|
 | ANDRI ISKANDAR 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|06/06/2017		| IRFAN			|
 | BENI 						    |- 			  		| -				| -				|-				|-				|
