@@ -27,7 +27,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | IRFAN MAULANA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|07/22/2017		| IRFAN			|
 | IWAN MAULANA 				|- 			  		| -				| -				|-				|-				|
 | JOHAN 					    |- 			  		| -				| -				|-				|-				|
-| KUSRIYADI 				  |- 			  		| -				| -				|-				|-				|
+| KUSRIYADI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|07/22/2017		| IRFAN			|
 | LUKIMEN 					  |- 			  		| -				| -				|-				|-				|
 | NOVAN ALI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|07/16/2017		| IRFAN			|
 | NURUL				 		    |- 			  		| -				| -				|-				|-				|
@@ -53,10 +53,10 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
  - Konsumsi 	   : **000.000,-**
  - Kas 			     : **000.000,-**
 + Uang yang ada di **IRFAN** :
- - Uang Arisan	 : **Rp.   700.000,-**
- - Konsumsi 	   : **Rp.    140.000,-**
- - Kas 			     : **Rp.    210.000,-**
- - **TOTAL**	   : **Rp.  1.050.000,-**
+ - Uang Arisan	 : **Rp.   800.000,-**
+ - Konsumsi 	   : **Rp.   160.000,-**
+ - Kas 			     : **Rp.   240.000,-**
+ - **TOTAL**	   : **Rp. 1.200.000,-**
 + Uang yang ada di **SNOY** :
  - Uang Arisan	 : **Rp. 000.000,-**
  - Konsumsi 	   : **Rp.  00.000,-**
