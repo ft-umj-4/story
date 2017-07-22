@@ -1,7 +1,7 @@
 ---
 title: Laporan Tunggakan Arisan Jilid 2
 author: ft-umj-iv
-date: 2017-07-22
+date: 2017-07-23
 template: article.jade
 tags: laporan arisan
 ---
