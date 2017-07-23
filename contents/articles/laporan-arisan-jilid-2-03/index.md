@@ -49,12 +49,12 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
  - XXX
  - XXX
 + Dapatnya
- - Uang Arisan	 : **1.100.000,-** (TANDRI 550.000 SUDAH) / (PANDU 550.000 POTONG 150.000)
+ - Uang Arisan	 : **1.100.000,-** (TANDRI 550.000 SUDAH) / (PANDU 550.000 POTONG 300.000)
  - Konsumsi 	   : **220.000,-** (BELUM)
  - Kas 			     : **330.000,-** (BELUM)
 + Uang yang ada di **IRFAN** :
- - Uang Arisan	 : **Rp.   800.000,-**
- - Konsumsi 	   : **Rp.   160.000,-**
+ - Uang Arisan	 : **Rp.   800.000,-** (SUDAH DI TRANSFER)
+ - Konsumsi 	   : **Rp.   160.000,-** (TANDRI POTONG 150.000)
  - Kas 			     : **Rp.   240.000,-**
  - **TOTAL**	   : **Rp. 1.200.000,-**
 + Uang yang ada di **SNOY** :
