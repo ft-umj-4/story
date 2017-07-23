@@ -38,7 +38,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | SYAFRUL 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|07/23/2017		| IRFAN			|
 | TANDRI 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|07/22/2017		| IRFAN			|
 | UMAR 						    |- 			  		| -				| -				|-				|-				|
-| YUNUS 					    |- 			  		| -				| -				|-				|-				|
+| YUNUS 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|07/23/2017		| IRFAN			|
 
 
 
@@ -58,7 +58,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
  - Kas 			     : **Rp.   270.000,-**
  - **TOTAL**	   : **Rp. 1.350.000,-**
 + Uang yang ada di **SNOY** :
- - Uang Arisan	 : **Rp. 000.000,-**
- - Konsumsi 	   : **Rp.  00.000,-**
- - Kas 			     : **Rp.  00.000,-**
- - **TOTAL**	   : **Rp. 000.000,-**
+ - Uang Arisan	 : **Rp. 100.000,-**
+ - Konsumsi 	   : **Rp.  20.000,-**
+ - Kas 			     : **Rp.  30.000,-**
+ - **TOTAL**	   : **Rp. 150.000,-**
