@@ -35,7 +35,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | RAHMAT HIDAYAT 			|- 			  		| -				| -				|-				|-				|
 | SAHAL MUNTAHA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|07/22/2017		| IRFAN			|
 | SUYATNO - SNOY 			|- 			  		| -				| -				|-				|-				|
-| SYAFRUL 					  |- 			  		| -				| -				|-				|-				|
+| SYAFRUL 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|07/23/2017		| IRFAN			|
 | TANDRI 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|07/22/2017		| IRFAN			|
 | UMAR 						    |- 			  		| -				| -				|-				|-				|
 | YUNUS 					    |- 			  		| -				| -				|-				|-				|
@@ -53,10 +53,10 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
  - Konsumsi 	   : **000.000,-**
  - Kas 			     : **000.000,-**
 + Uang yang ada di **IRFAN** :
- - Uang Arisan	 : **Rp.   800.000,-**
- - Konsumsi 	   : **Rp.   160.000,-**
- - Kas 			     : **Rp.   240.000,-**
- - **TOTAL**	   : **Rp. 1.200.000,-**
+ - Uang Arisan	 : **Rp.   900.000,-** (SUDAH DI TRANSFER)
+ - Konsumsi 	   : **Rp.   180.000,-**
+ - Kas 			     : **Rp.   270.000,-**
+ - **TOTAL**	   : **Rp. 1.350.000,-**
 + Uang yang ada di **SNOY** :
  - Uang Arisan	 : **Rp. 000.000,-**
  - Konsumsi 	   : **Rp.  00.000,-**

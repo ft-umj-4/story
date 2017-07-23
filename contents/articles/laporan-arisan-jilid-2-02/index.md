@@ -64,7 +64,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
  - Kas 			     : **Rp.  00.000,-**
  - **TOTAL**	   : **Rp. 000.000,-**
  + Uang Belum Diberikan :
- - Uang Arisan	 : **Rp.   200.000,-**
+ - Uang Arisan	 : **Rp.   200.000,-** (NURUL SUDAH DI TRANSFER 100rb)
  - Konsumsi 	   : **Rp.    40.000,-**
  - Kas 			     : **Rp.    60.000,-**
  - **TOTAL**	   : **Rp.   300.000,-**
