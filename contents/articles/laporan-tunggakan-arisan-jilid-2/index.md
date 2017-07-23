@@ -39,7 +39,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | SYAFRUL 					  | - 		  		              | -				 		|
 | TANDRI 					    | - 		  		              | -				 		|
 | UMAR 						    | 4			  		              | 150.000 		|
-| YUNUS 					    | 4			  		              | 150.000 		|
+| YUNUS 					    | - 		  		              | -				 		|
 
 ## Transfer Uang Arisan
 
