@@ -16,7 +16,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 |--------------	|---------------|-----------|-------------|-------------|---------------|
 | ANDI MARDIANTO 			|- 			  		| -				| -				|-				|-				|
 | ANDRI ISKANDAR 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|06/06/2017		| IRFAN			|
-| BENI 						    |- 			  		| -				| -				|-				|-				|
+| BENI 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|08/11/2017		| IRFAN			|
 | CEPY 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|06/13/2017		| IRFAN			|
 | CHEN - ENDY 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/20/2017		| -			|
 | DEDEN 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|5/09/2017		| IRFAN			|
@@ -63,8 +63,13 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
  - Konsumsi 	   : **Rp.  00.000,-**
  - Kas 			     : **Rp.  00.000,-**
  - **TOTAL**	   : **Rp. 000.000,-**
- + Uang Belum Diberikan :
- - Uang Arisan	 : **Rp.   200.000,-** (NURUL SUDAH DI TRANSFER 100rb)
+ + Uang Sudah Diberikan :
+ - Uang Arisan	 : **Rp.   200.000,-** (NURUL SUDAH DI TRANSFER 100rb -- Emma dipotong ke Arisan ke-4)
  - Konsumsi 	   : **Rp.    40.000,-**
  - Kas 			     : **Rp.    60.000,-**
  - **TOTAL**	   : **Rp.   300.000,-**
+ + Uang Belum Diberikan :
+ - Uang Arisan	 : **Rp.   100.000,-**
+ - Konsumsi 	   : **Rp.    20.000,-**
+ - Kas 			     : **Rp.    30.000,-**
+ - **TOTAL**	   : **Rp.   150.000,-**
