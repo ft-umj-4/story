@@ -1,12 +1,17 @@
 {
+  "name": "ft-umj-story",
+  "version": "1.0.0",
+  "description": "FTUMJ IV - Alumni FT UMJ P2K Angkatan IV Tahun 2009 Jurusan Teknik Informatika",
+  "author": "",
+  "private": true,
   "dependencies": {
     "moment": "2.3.x",
     "underscore": "1.4.x",
     "typogr": "0.5.x",
     "wintersmith-sassify": "1.0.2",
     "wintersmith-robots": "",
+    "wintersmith-sitemap": "",
     "wintersmith-tag": "",
     "wintersmith-jsbundler": ""
-  },
-  "private": "false"
+  }
 }
