@@ -17,12 +17,12 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | -------------------	| ------------------------- | ----------- |
 | ANDI MARDIANTO 			| 2, 3, 4  		              | 450.000  		|
 | ANDRI ISKANDAR 			| 4			  		              | 150.000 		|
-| BENI 						    | 2, 3, 4  		              | 450.000  		|
+| BENI 						    | -			  		              | -			  		|
 | CEPY 						    | 4			  		              | 150.000 		|
 | CHEN - ENDY 				| 4			  		              | 150.000 		|
-| DEDEN 					    | 3, 4		  		            | 300.000 		|
+| DEDEN 					    | -				  		            | -						|
 | EDY 						    | 4			  		              | 150.000 		|
-| EMMA 						    | 4				  		            | 150.000 		|
+| EMMA 						    | -				  		            | Kurang 10.000 		|
 | ENGKUS 					    | - 		  		              | -				 		|
 | HERI AHMADI 				| - 		  		              | -				 		|
 | IRFAN MAULANA 			| - 		  		              | -				 		|
@@ -33,7 +33,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | NOVAN ALI 				  | -													| -						|
 | NURUL				 		    | 4			  		              | 150.000 		|
 | PANDU 					    | - 		  		              | -				 		|
-| RAHMAT HIDAYAT 			| 3, 4		  		            | 300.000 		|
+| RAHMAT HIDAYAT 			| -				  		            | -				 		|
 | SAHAL MUNTAHA 			| - 		  		              | -				 		|
 | SUYATNO - SNOY 			| -			  		              | -				 		|
 | SYAFRUL 					  | - 		  		              | -				 		|
