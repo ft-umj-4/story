@@ -50,7 +50,21 @@
       maxEntries: 20,
     },
     origin: /\.googleapis\.com$/
+  });    
+  toolbox.router.get('/(.*)', global.toolbox.cacheFirst, {
+    cache: {
+      name: 'cloudflare',
+      maxEntries: 20,
+    },
+    origin: /\.cloudflare\.com$/
   });  
+  toolbox.router.get('/(.*)', global.toolbox.cacheFirst, {
+    cache: {
+      name: 'code-jquery',
+      maxEntries: 20,
+    },
+    origin: /\.code\.jquery\.com$/
+  });
 
   // Boilerplate to ensure our service worker takes control of the page as soon as possible.
   global.addEventListener('install', event => event.waitUntil(global.skipWaiting()));
