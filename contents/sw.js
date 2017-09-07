@@ -54,6 +54,23 @@
       maxEntries: 20,
     },
     origin: /\.googleapis\.com$/
+<<<<<<< HEAD
+=======
+  });    
+  toolbox.router.get('/(.*)', global.toolbox.cacheFirst, {
+    cache: {
+      name: 'cloudflare',
+      maxEntries: 20,
+    },
+    origin: /\.cloudflare\.com$/
+  });  
+  toolbox.router.get('/(.*)', global.toolbox.cacheFirst, {
+    cache: {
+      name: 'code-jquery',
+      maxEntries: 20,
+    },
+    origin: /\.code\.jquery\.com$/
+>>>>>>> db30ae4 (add cache)
   });
 
   // Boilerplate to ensure our service worker takes control of the page as soon as possible.
