@@ -150,7 +150,7 @@ html(lang='id-ID')
 
     block footer_script
 
-  script(src="https://code.jquery.com/jquery-2.2.4.min.js")
+  script(src=locals.url+contents.js['jquery.js'].url)
   script.
     var ROOT_URL = "#{locals.url}";
   script(src=locals.url+contents.js['all-script.js'].url)
