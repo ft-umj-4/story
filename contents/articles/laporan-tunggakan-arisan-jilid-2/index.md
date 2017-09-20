@@ -17,27 +17,27 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | -------------------	| ------------------------- | ----------- |
 | ANDI MARDIANTO 			| 2, 3, 4, 5		            | 600.000  		|
 | ANDRI ISKANDAR 			| -			  		              | -				 		|
-| BENI 						    | 5			  		              | 150.000  		|
+| BENI 						    | -			  		              | -			  		|
 | CEPY 						    | 4, 5			  		          | 300.000 		|
 | CHEN - ENDY 				| 5			  		              | 150.000 		|
 | DEDEN 					    | 5			  		              | 150.000 		|
-| EDY 						    | 4, 5	  		              | 300.000 		|
-| EMMA 						    | 5			  		              | 150.000 		|
+| EDY 						    | -	  		              		| -				 		|
+| EMMA 						    | NUNGGU DARI ANDI.M        | 100.000 		|
 | ENGKUS 					    | 5			  		              | 150.000 		|
-| HERI AHMADI 				| 5			  		              | 150.000 		|
-| IRFAN MAULANA 			| 5			  		              | 150.000 		|
-| IWAN MAULANA 				| 4, 5	  		              | 300.000 		|
-| JOHAN 					    | 3, 4		  		            | 300.000 		|
+| HERI AHMADI 				| -			  		              | -				 		|
+| IRFAN MAULANA 			| -			  		              | -				 		|
+| IWAN MAULANA 				| -			  		              | -				 		|
+| JOHAN 					    | 5				  		            | 150.000 		|
 | KUSRIYADI 				  | 5			  		              | 150.000 		|
-| LUKIMEN 					  | 3, 4, 5		  	            | 450.000 		|
+| LUKIMEN 					  | -		  	            			| -						|
 | NOVAN ALI 				  | -			  		              | -				 		|
 | NURUL				 		    | 4, 5	  		              | 300.000 		|
-| PANDU 					    | 5			  		              | 150.000 		|
+| PANDU 					    | -			  		              | -				 		|
 | RAHMAT HIDAYAT 			| 5			  		              | 150.000 		|
-| SAHAL MUNTAHA 			| 5			  		              | 150.000 		|
-| SUYATNO - SNOY 			| 5			  		              | 150.000 		|
-| SYAFRUL 					  | 5			  		              | 150.000 		|
-| TANDRI 					    | 5			  		              | 150.000 		|
+| SAHAL MUNTAHA 			| -			  		              | -				 		|
+| SUYATNO - SNOY 			| -			  		              | -				 		|
+| SYAFRUL 					  | -			  		              | -				 		|
+| TANDRI 					    | -			  		              | -				 		|
 | UMAR 						    | 4, 5	  		              | 300.000 		|
 | YUNUS 					    | 5			  		              | 150.000 		|
 
