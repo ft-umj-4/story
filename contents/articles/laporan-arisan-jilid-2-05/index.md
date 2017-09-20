@@ -1,7 +1,7 @@
 ---
 title: Laporan Arisan Jilid 02 FT UMJ IV - Kocokan 05
 author: ft-umj-iv
-date: 2017-08-21
+date: 2017-09-17
 template: article.jade
 tags: laporan arisan
 ---
@@ -16,44 +16,35 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 |-------------	|---------------|-----------|-------------|-------------|---------------|
 | ANDI MARDIANTO 			|- 			  		| -				| -				|-				|-				|
 | ANDRI ISKANDAR 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|08/21/2017		| IRFAN			|
-| BENI 						    |- 			  		| -				| -				|-				|-				|
+| BENI 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/17/2017		| IRFAN			|
 | CEPY 						    |- 			  		| -				| -				|-				|-				|
 | CHEN - ENDY 				|- 			  		| -				| -				|-				|-				|
 | DEDEN 					    |- 			  		| -				| -				|-				|-				|
-| EDY 						    |- 			  		| -				| -				|-				|-				|
+| EDY 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/17/2017		| IRFAN			|
 | EMMA 						    |- 			  		| -				| -				|-				|-				|
 | ENGKUS 					    |- 			  		| -				| -				|-				|-				|
-| HERI AHMADI 				|- 			  		| -				| -				|-				|-				|
-| IRFAN MAULANA 			|- 			  		| -				| -				|-				|-				|
-| IWAN MAULANA 				|- 			  		| -				| -				|-				|-				|
+| HERI AHMADI 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/17/2017		| IRFAN			|
+| IRFAN MAULANA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/17/2017		| IRFAN			|
+| IWAN MAULANA 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/17/2017		| IRFAN			|
 | JOHAN 					    |- 			  		| -				| -				|-				|-				|
 | KUSRIYADI 				  |- 			  		| -				| -				|-				|-				|
-| LUKIMEN 					  |- 			  		| -				| -				|-				|-				|
+| LUKIMEN 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/17/2017		| IRFAN			|
 | NOVAN ALI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|08/21/2017		| IRFAN			|
 | NURUL				 		    |- 			  		| -				| -				|-				|-				|
-| PANDU 					    |- 			  		| -				| -				|-				|-				|
+| PANDU 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/17/2017		| IRFAN			|
 | RAHMAT HIDAYAT 			|- 			  		| -				| -				|-				|-				|
-| SAHAL MUNTAHA 			|- 			  		| -				| -				|-				|-				|
-| SUYATNO - SNOY 			|- 			  		| -				| -				|-				|-				|
-| SYAFRUL 					  |- 			  		| -				| -				|-				|-				|
-| TANDRI 					    |- 			  		| -				| -				|-				|-				|
+| SAHAL MUNTAHA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/17/2017		| IRFAN			|
+| SUYATNO - SNOY 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/17/2017		| IRFAN			|
+| SYAFRUL 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/17/2017		| IRFAN			|
+| TANDRI 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/17/2017		| IRFAN			|
 | UMAR 						    |- 			  		| -				| -				|-				|-				|
 | YUNUS 					    |- 			  		| -				| -				|-				|-				|
 
 
 
 ### Keterangan tambahan arisan kocokan 05
-+ Arisan diadakan tanggal **27-AGUSTUS-2017**
++ Arisan diadakan tanggal **17-SEPTEMBER-2017**
 + Detail dan dokumentasi arisan bisa dilihat [disini](https://ft-umj-4.github.io/story/articles/arisan-jilid-2-05-Rumah-Heri/)
 + Yang dapat arisan :
- - XXX
- - XXX
-+ Dapatnya
- - Uang Arisan	 : **000.000,-**
- - Konsumsi 	   : **000.000,-**
- - Kas 			     : **000.000,-**
-+ Uang yang ada di **IRFAN** :
- - Uang Arisan	 : **Rp.   200.000,-**
- - Konsumsi 	   : **Rp.    40.000,-**
- - Kas 			     : **Rp.    60.000,-**
- - **TOTAL**	   : **Rp.   300.000,-**
+ - BENI
+ - EDY
