@@ -15,14 +15,14 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 
 |Nama									| Tunggakan di Arisan Ke- 	| Total 			| 
 | -------------------	| ------------------------- | ----------- |
-| ANDI MARDIANTO 			| 2, 3, 4, 5		            | 600.000  		|
+| ANDI MARDIANTO 			| -							            | -			  		|
 | ANDRI ISKANDAR 			| -			  		              | -				 		|
 | BENI 						    | -			  		              | -			  		|
 | CEPY 						    | 4, 5			  		          | 300.000 		|
 | CHEN - ENDY 				| 5			  		              | 150.000 		|
 | DEDEN 					    | 5			  		              | 150.000 		|
 | EDY 						    | -	  		              		| -				 		|
-| EMMA 						    | NUNGGU DARI ANDI.M        | 100.000 		|
+| EMMA 						    | -									        | -				 		|
 | ENGKUS 					    | 5			  		              | 150.000 		|
 | HERI AHMADI 				| -			  		              | -				 		|
 | IRFAN MAULANA 			| -			  		              | -				 		|
