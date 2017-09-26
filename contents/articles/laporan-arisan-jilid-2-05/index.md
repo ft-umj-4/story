@@ -14,14 +14,14 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 
 |Nama						| Arisan 		  	| Kas 			| Konsumsi 		| Tgl. Bayar	| Transfered To |
 |-------------	|---------------|-----------|-------------|-------------|---------------|
-| ANDI MARDIANTO 			|- 			  		| -				| -				|-				|-				|
+| ANDI MARDIANTO 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/26/2017		| IRFAN			|
 | ANDRI ISKANDAR 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|08/21/2017		| IRFAN			|
 | BENI 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/17/2017		| IRFAN			|
 | CEPY 						    |- 			  		| -				| -				|-				|-				|
 | CHEN - ENDY 				|- 			  		| -				| -				|-				|-				|
 | DEDEN 					    |- 			  		| -				| -				|-				|-				|
 | EDY 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/17/2017		| IRFAN			|
-| EMMA 						    |- 			  		| -				| -				|-				|-				|
+| EMMA 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/26/2017		| IRFAN			|
 | ENGKUS 					    |- 			  		| -				| -				|-				|-				|
 | HERI AHMADI 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/17/2017		| IRFAN			|
 | IRFAN MAULANA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/17/2017		| IRFAN			|
