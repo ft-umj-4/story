@@ -39,6 +39,7 @@
     }
   });
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
   toolbox.router.get('/story/(.*)', toolbox.cacheFirst, {
@@ -48,6 +49,9 @@
     }
   });
 >>>>>>> 8a68698 (add sw.js)
+=======
+
+>>>>>>> f12d144 (Update sw.js)
   toolbox.router.get('/(.*)', global.toolbox.cacheFirst, {
     cache: {
       name: 'googleapis',
