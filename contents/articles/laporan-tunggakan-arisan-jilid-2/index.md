@@ -1,7 +1,7 @@
 ---
 title: Laporan Tunggakan Arisan Jilid 2
 author: ft-umj-iv
-date: 2017-07-23
+date: 2017-10-26
 template: article.jade
 tags: laporan arisan
 ---
@@ -11,35 +11,35 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 <br/>
 <span class="more"></span>
 
-### Update per Arisan Kocokan ke-04 :
+### Update per Arisan Kocokan ke-06 :
 
 |Nama									| Tunggakan di Arisan Ke- 	| Total 			| 
 | -------------------	| ------------------------- | ----------- |
-| ANDI MARDIANTO 			| -							            | -			  		|
-| ANDRI ISKANDAR 			| -			  		              | -				 		|
-| BENI 						    | -			  		              | -			  		|
-| CEPY 						    | 4, 5			  		          | 300.000 		|
-| CHEN - ENDY 				| 5			  		              | 150.000 		|
-| DEDEN 					    | 5			  		              | 150.000 		|
-| EDY 						    | -	  		              		| -				 		|
-| EMMA 						    | -									        | -				 		|
-| ENGKUS 					    | 5			  		              | 150.000 		|
-| HERI AHMADI 				| -			  		              | -				 		|
-| IRFAN MAULANA 			| -			  		              | -				 		|
-| IWAN MAULANA 				| -			  		              | -				 		|
-| JOHAN 					    | 5				  		            | 150.000 		|
-| KUSRIYADI 				  | 5			  		              | 150.000 		|
-| LUKIMEN 					  | -		  	            			| -						|
-| NOVAN ALI 				  | -			  		              | -				 		|
-| NURUL				 		    | 4, 5	  		              | 300.000 		|
-| PANDU 					    | -			  		              | -				 		|
-| RAHMAT HIDAYAT 			| 5			  		              | 150.000 		|
-| SAHAL MUNTAHA 			| -			  		              | -				 		|
-| SUYATNO - SNOY 			| -			  		              | -				 		|
-| SYAFRUL 					  | -			  		              | -				 		|
-| TANDRI 					    | -			  		              | -				 		|
-| UMAR 						    | 4, 5	  		              | 300.000 		|
-| YUNUS 					    | 5			  		              | 150.000 		|
+| ANDI MARDIANTO 			| 6							            | 150.000  		|
+| ANDRI ISKANDAR 			| 6							            | 150.000  		|
+| BENI 						    | 6							            | 150.000  		|
+| CEPY 						    | 4, 5, 6			  		        | 450.000 		|
+| CHEN - ENDY 				| 5, 6	  		              | 300.000 		|
+| DEDEN 					    | 5, 6	  		              | 300.000 		|
+| EDY 						    | 6							            | 150.000  		|
+| EMMA 						    | 6							            | 150.000  		|
+| ENGKUS 					    | 5, 6	  		              | 300.000 		|
+| HERI AHMADI 				| 6							            | 150.000  		|
+| IRFAN MAULANA 			| 6							            | 150.000  		|
+| IWAN MAULANA 				| 6							            | 150.000  		|
+| JOHAN 					    | 5, 6	  		              | 300.000 		|
+| KUSRIYADI 				  | 5, 6	  		              | 300.000 		|
+| LUKIMEN 					  | 6							            | 150.000  		|
+| NOVAN ALI 				  | 6							            | 150.000  		|
+| NURUL				 		    | 4, 5, 6	  		            | 450.000 		|
+| PANDU 					    | 6							            | 150.000  		|
+| RAHMAT HIDAYAT 			| 5, 6	  		              | 300.000 		|
+| SAHAL MUNTAHA 			| 6							            | 150.000  		|
+| SUYATNO - SNOY 			| 6							            | 150.000  		|
+| SYAFRUL 					  | 6							            | 150.000  		|
+| TANDRI 					    | 6							            | 150.000  		|
+| UMAR 						    | 4, 5, 6  		              | 450.000 		|
+| YUNUS 					    | 6							            | 150.000  		|
 
 ## Transfer Uang Arisan
 
