@@ -38,7 +38,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | SYAFRUL 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/17/2017		| IRFAN			|
 | TANDRI 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/17/2017		| IRFAN			|
 | UMAR 						    |- 			  		| -				| -				|-				|-				|
-| YUNUS 					    |- 			  		| -				| -				|-				|-				|
+| YUNUS 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|10/26/2017		| IRFAN			|
 
 
 
