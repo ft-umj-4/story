@@ -38,12 +38,7 @@
       maxEntries: 200
     }
   });
-  toolbox.router.get('/story/(.*)', toolbox.cacheFirst, {
-    cache: {
-      name: 'staticOther' + versionCache,
-      maxEntries: 200
-    }
-  });
+
   toolbox.router.get('/(.*)', global.toolbox.cacheFirst, {
     cache: {
       name: 'googleapis',
