@@ -32,14 +32,14 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | LUKIMEN 					  | 6							            | 150.000  		|
 | NOVAN ALI 				  | 6							            | 150.000  		|
 | NURUL				 		    | 4, 5, 6	  		            | 450.000 		|
-| PANDU 					    | 6							            | 150.000  		|
+| PANDU 					    | - 							          | -			  		|
 | RAHMAT HIDAYAT 			| 5, 6	  		              | 300.000 		|
 | SAHAL MUNTAHA 			| 6							            | 150.000  		|
 | SUYATNO - SNOY 			| 6							            | 150.000  		|
 | SYAFRUL 					  | 6							            | 150.000  		|
 | TANDRI 					    | 6							            | 150.000  		|
 | UMAR 						    | 4, 5, 6  		              | 450.000 		|
-| YUNUS 					    | 6							            | 150.000  		|
+| YUNUS 					    | -							            | -			  		|
 
 ## Transfer Uang Arisan
 
