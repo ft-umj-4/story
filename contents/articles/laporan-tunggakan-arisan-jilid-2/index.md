@@ -35,7 +35,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | PANDU 					    | - 							          | -			  		|
 | RAHMAT HIDAYAT 			| 5, 6	  		              | 300.000 		|
 | SAHAL MUNTAHA 			| 6							            | 150.000  		|
-| SUYATNO - SNOY 			| 6							            | 150.000  		|
+| SUYATNO - SNOY 			| -							            | -			  		|
 | SYAFRUL 					  | 6							            | 150.000  		|
 | TANDRI 					    | 6							            | 150.000  		|
 | UMAR 						    | 4, 5, 6  		              | 450.000 		|

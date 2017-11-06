@@ -34,7 +34,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | PANDU 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|10/27/2017		| IRFAN			|
 | RAHMAT HIDAYAT 			|- 			  		| -				| -				|-				|-				| IRFAN			|
 | SAHAL MUNTAHA 			|- 			  		| -				| -				|-				|-				| IRFAN			|
-| SUYATNO - SNOY 			|- 			  		| -				| -				|-				|-				| IRFAN			|
+| SUYATNO - SNOY 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|11/06/2017		| IRFAN			|
 | SYAFRUL 					  |- 			  		| -				| -				|-				|-				| IRFAN			|
 | TANDRI 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | UMAR 						    |- 			  		| -				| -				|-				|-				| IRFAN			|
