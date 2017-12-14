@@ -1,7 +1,7 @@
 ---
 title: Laporan Tunggakan Arisan Jilid 2
 author: ft-umj-iv
-date: 2017-10-26
+date: 2017-12-14
 template: article.jade
 tags: laporan arisan
 ---
@@ -23,7 +23,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | DEDEN 					    | 5, 6	  		              | 300.000 		|
 | EDY 						    | 6							            | 150.000  		|
 | EMMA 						    | 6							            | 150.000  		|
-| ENGKUS 					    | 5, 6	  		              | 300.000 		|
+| ENGKUS 					    | -			  		              | -				 		|
 | HERI AHMADI 				| 6							            | 150.000  		|
 | IRFAN MAULANA 			| 6							            | 150.000  		|
 | IWAN MAULANA 				| 6							            | 150.000  		|
