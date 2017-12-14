@@ -22,7 +22,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | DEDEN 					    |- 			  		| -				| -				|-				|-				|
 | EDY 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/17/2017		| IRFAN			|
 | EMMA 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/26/2017		| IRFAN			|
-| ENGKUS 					    |- 			  		| -				| -				|-				|-				|
+| ENGKUS 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|12/14/2017		| IRFAN			|
 | HERI AHMADI 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/17/2017		| IRFAN			|
 | IRFAN MAULANA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/17/2017		| IRFAN			|
 | IWAN MAULANA 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/17/2017		| IRFAN			|

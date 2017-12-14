@@ -7,10 +7,12 @@
   "scripts": {
     "dev": "./node_modules/.bin/wintersmith preview",
     "build": "./node_modules/.bin/wintersmith build",
-    "dist": "./node_modules/.bin/wintersmith build"
+    "dist": "./node_modules/.bin/wintersmith build",
+    "publish": "node ./gh-publish.js"
   },
   "dependencies": {
-    "moment": "2.19.1",
+    "gh-pages": "1.1.0",
+    "moment": "2.19.4",
     "underscore": "1.8.3",
     "typogr": "0.6.7",
     "wintersmith-sassify": "1.0.2",
