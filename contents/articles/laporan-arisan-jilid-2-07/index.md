@@ -1,5 +1,5 @@
 ---
-title: Laporan Arisan Jilid 02 FT UMJ IV - Kocokan 06
+title: Laporan Arisan Jilid 02 FT UMJ IV - Kocokan 07
 author: ft-umj-iv
 date: 2017-10-29
 template: article.jade
@@ -22,7 +22,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | DEDEN 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | EDY 						    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | EMMA 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|12/30/2017		| IRFAN			|
-| ENGKUS 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|12/14/2017		| IRFAN			|
+| ENGKUS 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | HERI AHMADI 				|- 			  		| -				| -				|-				|-				| IRFAN			|
 | IRFAN MAULANA 			|- 			  		| -				| -				|-				|-				| IRFAN			|
 | IWAN MAULANA 				|- 			  		| -				| -				|-				|-				| IRFAN			|
@@ -31,14 +31,14 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | LUKIMEN 					  |- 			  		| -				| -				|-				|-				| IRFAN			|
 | NOVAN ALI 				  |- 			  		| -				| -				|-				|-				| IRFAN			|
 | NURUL				 		    |- 			  		| -				| -				|-				|-				| IRFAN			|
-| PANDU 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|10/27/2017		| IRFAN			|
+| PANDU 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | RAHMAT HIDAYAT 			|- 			  		| -				| -				|-				|-				| IRFAN			|
 | SAHAL MUNTAHA 			|- 			  		| -				| -				|-				|-				| IRFAN			|
-| SUYATNO - SNOY 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|11/06/2017		| IRFAN			|
+| SUYATNO - SNOY 			|- 			  		| -				| -				|-				|-				| IRFAN			|
 | SYAFRUL 					  |- 			  		| -				| -				|-				|-				| IRFAN			|
 | TANDRI 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | UMAR 						    |- 			  		| -				| -				|-				|-				| IRFAN			|
-| YUNUS 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|10/26/2017		| IRFAN			|
+| YUNUS 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
 
 
 
