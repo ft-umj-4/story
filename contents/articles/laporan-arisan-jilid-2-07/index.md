@@ -27,7 +27,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | IRFAN MAULANA 			|- 			  		| -				| -				|-				|-				| IRFAN			|
 | IWAN MAULANA 				|- 			  		| -				| -				|-				|-				| IRFAN			|
 | JOHAN 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|01/07/2018		| IRFAN			|
-| KUSRIYADI 				  |- 			  		| -				| -				|-				|-				| IRFAN			|
+| KUSRIYADI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|08/01/2018		| IRFAN			|
 | LUKIMEN 					  |- 			  		| -				| -				|-				|-				| IRFAN			|
 | NOVAN ALI 				  |- 			  		| -				| -				|-				|-				| IRFAN			|
 | NURUL				 		    |- 			  		| -				| -				|-				|-				| IRFAN			|
