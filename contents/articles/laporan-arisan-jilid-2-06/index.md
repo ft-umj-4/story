@@ -16,28 +16,28 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 |-------------	|---------------|-----------|-------------|-------------|---------------|
 | ANDI MARDIANTO 			|- 			  		| -				| -				|-				|-				| IRFAN			|
 | ANDRI ISKANDAR 			|- 			  		| -				| -				|-				|-				| IRFAN			|
-| BENI 						    |- 			  		| -				| -				|-				|-				| IRFAN			|
+| BENI 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|01/08/2018		| IRFAN			|
 | CEPY 						    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | CHEN - ENDY 				|- 			  		| -				| -				|-				|-				| IRFAN			|
 | DEDEN 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
-| EDY 						    |- 			  		| -				| -				|-				|-				| IRFAN			|
+| EDY 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|01/07/2018		| IRFAN			|
 | EMMA 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|12/30/2017		| IRFAN			|
 | ENGKUS 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|12/14/2017		| IRFAN			|
 | HERI AHMADI 				|- 			  		| -				| -				|-				|-				| IRFAN			|
-| IRFAN MAULANA 			|- 			  		| -				| -				|-				|-				| IRFAN			|
+| IRFAN MAULANA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|01/07/2018		| IRFAN			|
 | IWAN MAULANA 				|- 			  		| -				| -				|-				|-				| IRFAN			|
-| JOHAN 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
+| JOHAN 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|01/07/2018		| IRFAN			|
 | KUSRIYADI 				  |- 			  		| -				| -				|-				|-				| IRFAN			|
-| LUKIMEN 					  |- 			  		| -				| -				|-				|-				| IRFAN			|
-| NOVAN ALI 				  |- 			  		| -				| -				|-				|-				| IRFAN			|
+| LUKIMEN 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|01/07/2018		| IRFAN			|
+| NOVAN ALI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|01/07/2018		| IRFAN			|
 | NURUL				 		    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | PANDU 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|10/27/2017		| IRFAN			|
 | RAHMAT HIDAYAT 			|- 			  		| -				| -				|-				|-				| IRFAN			|
-| SAHAL MUNTAHA 			|- 			  		| -				| -				|-				|-				| IRFAN			|
+| SAHAL MUNTAHA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|01/07/2018		| IRFAN			|
 | SUYATNO - SNOY 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|11/06/2017		| IRFAN			|
-| SYAFRUL 					  |- 			  		| -				| -				|-				|-				| IRFAN			|
+| SYAFRUL 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|01/07/2018		| IRFAN			|
 | TANDRI 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
-| UMAR 						    |- 			  		| -				| -				|-				|-				| IRFAN			|
+| UMAR 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|01/07/2018		| IRFAN			|
 | YUNUS 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|10/26/2017		| IRFAN			|
 
 

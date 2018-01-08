@@ -17,28 +17,28 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | -------------------	| ------------------------- | ----------- |
 | ANDI MARDIANTO 			| 6							            | 150.000  		|
 | ANDRI ISKANDAR 			| 6							            | 150.000  		|
-| BENI 						    | 6							            | 150.000  		|
+| BENI 						    | -			  		              | + 150.000  		|
 | CEPY 						    | 4, 5, 6			  		        | 450.000 		|
 | CHEN - ENDY 				| 5, 6	  		              | 300.000 		|
 | DEDEN 					    | 5, 6	  		              | 300.000 		|
-| EDY 						    | 6							            | 150.000  		|
+| EDY 						    | -			  		              | -				 		|
 | EMMA 						    | -							            | + 150.000  		|
 | ENGKUS 					    | -			  		              | -				 		|
 | HERI AHMADI 				| 6							            | 150.000  		|
-| IRFAN MAULANA 			| 6							            | 150.000  		|
+| IRFAN MAULANA 			| -			  		              | -				 		|
 | IWAN MAULANA 				| 6							            | 150.000  		|
-| JOHAN 					    | 5, 6	  		              | 300.000 		|
+| JOHAN 					    | -			  		              | + 150.000			|
 | KUSRIYADI 				  | 5, 6	  		              | 300.000 		|
-| LUKIMEN 					  | 6							            | 150.000  		|
-| NOVAN ALI 				  | 6							            | 150.000  		|
+| LUKIMEN 					  | -			  		              | -				 		|
+| NOVAN ALI 				  | -			  		              | -				 		|
 | NURUL				 		    | 4, 5, 6	  		            | 450.000 		|
 | PANDU 					    | - 							          | -			  		|
 | RAHMAT HIDAYAT 			| 5, 6	  		              | 300.000 		|
-| SAHAL MUNTAHA 			| 6							            | 150.000  		|
+| SAHAL MUNTAHA 			| -			  		              | -				 		|
 | SUYATNO - SNOY 			| -							            | -			  		|
-| SYAFRUL 					  | 6							            | 150.000  		|
+| SYAFRUL 					  | -			  		              | -				 		|
 | TANDRI 					    | 6							            | 150.000  		|
-| UMAR 						    | 4, 5, 6  		              | 450.000 		|
+| UMAR 						    | -			  		              | -				 		|
 | YUNUS 					    | -							            | -			  		|
 
 ## Transfer Uang Arisan
