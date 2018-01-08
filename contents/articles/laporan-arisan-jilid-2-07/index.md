@@ -26,7 +26,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | HERI AHMADI 				|- 			  		| -				| -				|-				|-				| IRFAN			|
 | IRFAN MAULANA 			|- 			  		| -				| -				|-				|-				| IRFAN			|
 | IWAN MAULANA 				|- 			  		| -				| -				|-				|-				| IRFAN			|
-| JOHAN 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
+| JOHAN 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|01/07/2018		| IRFAN			|
 | KUSRIYADI 				  |- 			  		| -				| -				|-				|-				| IRFAN			|
 | LUKIMEN 					  |- 			  		| -				| -				|-				|-				| IRFAN			|
 | NOVAN ALI 				  |- 			  		| -				| -				|-				|-				| IRFAN			|
