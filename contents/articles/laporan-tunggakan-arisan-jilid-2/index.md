@@ -28,7 +28,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | IRFAN MAULANA 			| -			  		              | -				 		|
 | IWAN MAULANA 				| 6							            | 150.000  		|
 | JOHAN 					    | -			  		              | + 150.000			|
-| KUSRIYADI 				  | 5, 6	  		              | 300.000 		|
+| KUSRIYADI 				  | -							            | + 150.000  		|
 | LUKIMEN 					  | -			  		              | -				 		|
 | NOVAN ALI 				  | -			  		              | -				 		|
 | NURUL				 		    | 4, 5, 6	  		            | 450.000 		|
