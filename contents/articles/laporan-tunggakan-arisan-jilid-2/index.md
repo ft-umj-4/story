@@ -13,14 +13,14 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 
 ### Update per Arisan Kocokan ke-06 :
 
-|Nama									| Tunggakan di Arisan Ke- 	| Total 			| 
+|Nama									| Tunggakan di Arisan Ke- 	| Total 			|
 | -------------------	| ------------------------- | ----------- |
 | ANDI MARDIANTO 			| 6							            | 150.000  		|
 | ANDRI ISKANDAR 			| 6							            | 150.000  		|
 | BENI 						    | -			  		              | + 150.000  		|
 | CEPY 						    | 4, 5, 6			  		        | 450.000 		|
 | CHEN - ENDY 				| 5, 6	  		              | 300.000 		|
-| DEDEN 					    | 5, 6	  		              | 300.000 		|
+| DEDEN 					    | -			  		              | -				 		|
 | EDY 						    | -			  		              | -				 		|
 | EMMA 						    | -							            | + 150.000  		|
 | ENGKUS 					    | -			  		              | -				 		|
