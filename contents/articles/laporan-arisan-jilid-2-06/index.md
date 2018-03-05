@@ -15,7 +15,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 |Nama						| Arisan 		  	| Kas 			| Konsumsi 		| Tgl. Bayar	| Transfered To |
 |-------------	|---------------|-----------|-------------|-------------|---------------|
 | ANDI MARDIANTO 			|- 			  		| -				| -				|-				|-				| IRFAN			|
-| ANDRI ISKANDAR 			|- 			  		| -				| -				|-				|-				| IRFAN			|
+| ANDRI ISKANDAR 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|02/26/2018		|
 | BENI 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|01/08/2018		| IRFAN			|
 | CEPY 						    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | CHEN - ENDY 				|- 			  		| -				| -				|-				|-				| IRFAN			|
@@ -30,7 +30,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | KUSRIYADI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|08/01/2018		| IRFAN			|
 | LUKIMEN 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|01/07/2018		| IRFAN			|
 | NOVAN ALI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|01/07/2018		| IRFAN			|
-| NURUL				 		    |- 			  		| -				| -				|-				|-				| IRFAN			|
+| NURUL				 		    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|03/04/2018		| IRFAN     |
 | PANDU 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|10/27/2017		| IRFAN			|
 | RAHMAT HIDAYAT 			|- 			  		| -				| -				|-				|-				| IRFAN			|
 | SAHAL MUNTAHA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|01/07/2018		| IRFAN			|
