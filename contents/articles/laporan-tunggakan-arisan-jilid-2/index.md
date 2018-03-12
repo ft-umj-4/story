@@ -1,7 +1,7 @@
 ---
 title: Laporan Tunggakan Arisan Jilid 2
 author: ft-umj-iv
-date: 2018-02-04
+date: 2018-03-12
 template: article.jade
 tags: laporan arisan
 ---
@@ -11,35 +11,35 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 <br/>
 <span class="more"></span>
 
-### Update per Arisan Kocokan ke-07 :
+### Update per Arisan Kocokan ke-08 :
 
 |Nama									| Tunggakan di Arisan Ke- 	| Total 			|
 | -------------------	| ------------------------- | ----------- |
-| ANDI MARDIANTO 			| 6, 7							        | 300.000  		|
-| ANDRI ISKANDAR 			| -							            | -			  		|
+| ANDI MARDIANTO 			| 6, 7, 8							      | 450.000  		|
+| ANDRI ISKANDAR 			| 8							            | 150.000  		|
 | BENI 						    | -							            | -			  		|
-| CEPY 						    | 4, 5, 6, 7	  		        | 600.000 		|
-| CHEN - ENDY 				| 5, 6, 7	  		            | 450.000 		|
-| DEDEN 					    | 7			  		              | 150.000  		|
+| CEPY 						    | 4, 5, 6, 7, 8	  		      | 750.000 		|
+| CHEN - ENDY 				| 5, 6, 7, 8	  		        | 600.000 		|
+| DEDEN 					    | 8			  		              | 300.000  		|
 | EDY 						    | -			  		              | -				 		|
-| EMMA 						    | -							            | -       		|
-| ENGKUS 					    | -			  		              | -				 		|
-| HERI AHMADI 				| -							            | -       		|
+| EMMA 						    | 8							            | 150.000  		|
+| ENGKUS 					    | 7, 8							        | 300.000  		|
+| HERI AHMADI 				| 8							            | 150.000  		|
 | IRFAN MAULANA 			| -			  		              | -				 		|
-| IWAN MAULANA 				| 6, 7							        | 300.000  		|
-| JOHAN 					    | -			  		              | -				 		|
+| IWAN MAULANA 				| 6, 7, 8							      | 450.000  		|
+| JOHAN 					    | 8							            | 150.000  		|
 | KUSRIYADI 				  | -			  		              | -				 		|
 | LUKIMEN 					  | -			  		              | -				 		|
-| NOVAN ALI 				  | 7			  		              | 150.000  		|
-| NURUL				 		    | -							            | -			  		|
-| PANDU 					    | 7			  		              | 150.000  		|
-| RAHMAT HIDAYAT 			| 5, 6, 7  		              | 450.000 		|
-| SAHAL MUNTAHA 			| -			  		              | -				 		|
+| NOVAN ALI 				  | 7, 8		  		            | 300.000  		|
+| NURUL				 		    | 8							            | 150.000  		|
+| PANDU 					    | 8							            | 150.000  		|
+| RAHMAT HIDAYAT 			| 5, 6, 7, 8  		          | 600.000 		|
+| SAHAL MUNTAHA 			| 8							            | 150.000  		|
 | SUYATNO - SNOY 			| -							            | -			  		|
 | SYAFRUL 					  | -							            | -			  		|
-| TANDRI 					    | 6, 7							        | 300.000  		|
-| UMAR 						    | -			  		              | -				 		|
-| YUNUS 					    | 7			  		              | 150.000  		|
+| TANDRI 					    | 6, 7, 8							      | 450.000  		|
+| UMAR 						    | 8							            | 150.000  		|
+| YUNUS 					    | 7, 8		  		            | 300.000  		|
 
 ## Transfer Uang Arisan
 
