@@ -20,7 +20,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | BENI 						    | -							            | -			  		|
 | CEPY 						    | 4, 5, 6, 7, 8	  		      | 750.000 		|
 | CHEN - ENDY 				| 5, 6, 7, 8	  		        | 600.000 		|
-| DEDEN 					    | 8			  		              | 300.000  		|
+| DEDEN 					    | 7, 8			  		          | 300.000  		|
 | EDY 						    | -			  		              | -				 		|
 | EMMA 						    | 8							            | 150.000  		|
 | ENGKUS 					    | 7, 8							        | 300.000  		|
