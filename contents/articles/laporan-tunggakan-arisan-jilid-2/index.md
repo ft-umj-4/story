@@ -33,7 +33,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | NOVAN ALI 				  | 7, 8		  		            | 300.000  		|
 | NURUL				 		    | 8							            | 150.000  		|
 | PANDU 					    | 8							            | 150.000  		|
-| RAHMAT HIDAYAT 			| 8							            | 150.000  		|
+| RAHMAT HIDAYAT 			| -							            | -			  		|
 | SAHAL MUNTAHA 			| 8							            | 150.000  		|
 | SUYATNO - SNOY 			| -							            | -			  		|
 | SYAFRUL 					  | -							            | -			  		|
