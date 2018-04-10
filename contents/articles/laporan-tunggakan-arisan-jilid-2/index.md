@@ -11,35 +11,35 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 <br/>
 <span class="more"></span>
 
-### Update per Arisan Kocokan ke-08 :
+### Update per Arisan Kocokan ke-09 :
 
 |Nama									| Tunggakan di Arisan Ke- 	| Total 			|
 | -------------------	| ------------------------- | ----------- |
-| ANDI MARDIANTO 			| 6, 7, 8							      | 450.000  		|
-| ANDRI ISKANDAR 			| 8							            | 150.000  		|
-| BENI 						    | -							            | -			  		|
-| CEPY 						    | 4, 5, 6, 7, 8	  		      | 750.000 		|
-| CHEN - ENDY 				| 5, 6, 7, 8	  		        | 600.000 		|
-| DEDEN 					    | -			  		              | -				 		|
-| EDY 						    | -			  		              | -				 		|
-| EMMA 						    | +1							          | +150.000  	|
-| ENGKUS 					    | 7, 8							        | 300.000  		|
-| HERI AHMADI 				| 8							            | 150.000  		|
-| IRFAN MAULANA 			| -			  		              | -				 		|
-| IWAN MAULANA 				| 6, 7, 8							      | 450.000  		|
-| JOHAN 					    | 8							            | 150.000  		|
-| KUSRIYADI 				  | -			  		              | -				 		|
-| LUKIMEN 					  | -			  		              | -				 		|
-| NOVAN ALI 				  | 7, 8		  		            | 300.000  		|
-| NURUL				 		    | 8							            | 150.000  		|
-| PANDU 					    | 8							            | 150.000  		|
-| RAHMAT HIDAYAT 			| -							            | -			  		|
-| SAHAL MUNTAHA 			| -							            | -			  		|
-| SUYATNO - SNOY 			| -							            | -			  		|
-| SYAFRUL 					  | +1							          | +150.000  	|
-| TANDRI 					    | 6, 7, 8							      | 450.000  		|
-| UMAR 						    | 8							            | 150.000  		|
-| YUNUS 					    | 7, 8		  		            | 300.000  		|
+| ANDI MARDIANTO 			| 6, 7, 8, 9							  | 600.000  		|
+| ANDRI ISKANDAR 			| 8, 9					            | 300.000  		|
+| BENI 						    | 9							            | 150.000 		|
+| CEPY 						    | 4, 5, 6, 7, 8, 9	  		  | 900.000 		|
+| CHEN - ENDY 				| 5, 6, 7, 8, 9  		        | 750.000 		|
+| DEDEN 					    | 9			  		              | 150.000 		|
+| EDY 						    | 9			  		              | 150.000 		|
+| EMMA 						    | -			  		              | -				 		|
+| ENGKUS 					    | 7, 8, 9						        | 450.000  		|
+| HERI AHMADI 				| 8, 9					            | 300.000  		|
+| IRFAN MAULANA 			| 9			  		              | 150.000 		|
+| IWAN MAULANA 				| 6, 7, 8, 9							  | 600.000  		|
+| JOHAN 					    | 8, 9 							        | 300.000  		|
+| KUSRIYADI 				  | 9			  		              | 150.000 		|
+| LUKIMEN 					  | 9			  		              | 150.000 		|
+| NOVAN ALI 				  | 7, 8, 9	  		            | 450.000  		|
+| NURUL				 		    | 8, 9 							        | 300.000  		|
+| PANDU 					    | 8, 9 							        | 300.000  		|
+| RAHMAT HIDAYAT 			| 9			  		              | 150.000 		|
+| SAHAL MUNTAHA 			| 9			  		              | 150.000 		|
+| SUYATNO - SNOY 			| 9			  		              | 150.000 		|
+| SYAFRUL 					  | -			  		              | -				 		|
+| TANDRI 					    | 6, 7, 8, 9							  | 600.000  		|
+| UMAR 						    | 8, 9 							        | 300.000  		|
+| YUNUS 					    | 7, 8, 9	  		            | 450.000  		|
 
 ## Transfer Uang Arisan
 
