@@ -34,9 +34,9 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | NURUL				 		    | 8							            | 150.000  		|
 | PANDU 					    | 8							            | 150.000  		|
 | RAHMAT HIDAYAT 			| -							            | -			  		|
-| SAHAL MUNTAHA 			| 8							            | 150.000  		|
+| SAHAL MUNTAHA 			| -							            | -			  		|
 | SUYATNO - SNOY 			| -							            | -			  		|
-| SYAFRUL 					  | -							            | -			  		|
+| SYAFRUL 					  | +1							          | +150.000  	|
 | TANDRI 					    | 6, 7, 8							      | 450.000  		|
 | UMAR 						    | 8							            | 150.000  		|
 | YUNUS 					    | 7, 8		  		            | 300.000  		|
