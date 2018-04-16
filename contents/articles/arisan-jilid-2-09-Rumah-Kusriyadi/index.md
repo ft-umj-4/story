@@ -1,5 +1,5 @@
 ---
-title: Dokumentasi Arisan Jilid 2 - Kocokan ke 09 - Rumah Kusritadi
+title: Dokumentasi Arisan Jilid 2 - Kocokan ke 09 - Rumah Kusriyadi
 author: ft-umj-iv
 date: 2018-04-14
 template: article.jade
