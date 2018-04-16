@@ -1,7 +1,7 @@
 ---
 title: Laporan Arisan Jilid 02 FT UMJ IV - Kocokan 09
 author: ft-umj-iv
-date: 2018-04-12
+date: 2018-04-14
 template: article.jade
 tags: laporan arisan
 ---
@@ -16,25 +16,25 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 |-------------	|---------------|-----------|-------------|-------------|---------------|
 | ANDI MARDIANTO 			|- 			  		| -				| -				|-				|-				| IRFAN			|
 | ANDRI ISKANDAR 			|- 			  		| -				| -				|-				|-				| IRFAN			|
-| BENI 						    |- 			  		| -				| -				|-				|-				| IRFAN			|
+| BENI 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|04/14/2018		| IRFAN			|
 | CEPY 						    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | CHEN - ENDY 				|- 			  		| -				| -				|-				|-				| IRFAN			|
-| DEDEN 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
+| DEDEN 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|04/14/2018		| IRFAN			|
 | EDY 						    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | EMMA 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|03/23/2018		| IRFAN			|
 | ENGKUS 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | HERI AHMADI 				|- 			  		| -				| -				|-				|-				| IRFAN			|
-| IRFAN MAULANA 			|- 			  		| -				| -				|-				|-				| IRFAN			|
+| IRFAN MAULANA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|04/14/2018		| IRFAN			|
 | IWAN MAULANA 				|- 			  		| -				| -				|-				|-				| IRFAN			|
 | JOHAN 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
-| KUSRIYADI 				  |- 			  		| -				| -				|-				|-				| IRFAN			|
+| KUSRIYADI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|04/14/2018		| IRFAN			|
 | LUKIMEN 					  |- 			  		| -				| -				|-				|-				| IRFAN			|
-| NOVAN ALI 				  |- 			  		| -				| -				|-				|-				| IRFAN			|
+| NOVAN ALI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|04/14/2018		| IRFAN			|
 | NURUL				 		    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | PANDU 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | RAHMAT HIDAYAT 			|- 			  		| -				| -				|-				|-				| IRFAN			|
 | SAHAL MUNTAHA 			|- 			  		| -				| -				|-				|-				| IRFAN			|
-| SUYATNO - SNOY 			|- 			  		| -				| -				|-				|-				| IRFAN			|
+| SUYATNO - SNOY 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|04/14/2018		| IRFAN			|
 | SYAFRUL 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|03/30/2018		| IRFAN			|
 | TANDRI 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | UMAR 						    |- 			  		| -				| -				|-				|-				| IRFAN			|

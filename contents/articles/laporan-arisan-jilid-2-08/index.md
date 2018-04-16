@@ -29,8 +29,8 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | JOHAN 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | KUSRIYADI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|03/11/2018		| IRFAN			|
 | LUKIMEN 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|03/11/2018	| IRFAN			|
-| NOVAN ALI 				  |- 			  		| -				| -				|-				|-				| IRFAN			|
-| NURUL				 		    |- 			  		| -				| -				|-				|-				| IRFAN			|
+| NOVAN ALI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|04/14/2018		| IRFAN			|
+| NURUL				 		    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|04/14/2018		| IRFAN			|
 | PANDU 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | RAHMAT HIDAYAT 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|03/20/2018		| IRFAN			|
 | SAHAL MUNTAHA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|03/30/2018		| IRFAN			|
