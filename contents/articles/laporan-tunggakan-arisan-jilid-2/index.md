@@ -16,7 +16,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 |Nama									| Tunggakan di Arisan Ke- 	| Total 			|
 | -------------------	| ------------------------- | ----------- |
 | ANDI MARDIANTO 			| 6, 7, 8, 9							  | 600.000  		|
-| ANDRI ISKANDAR 			| 8, 9					            | 300.000  		|
+| ANDRI ISKANDAR 			| -			  		              | -				 		|
 | BENI 						    | -			  		              | -				 		|
 | CEPY 						    | 4, 5, 6, 7, 8, 9	  		  | 900.000 		|
 | CHEN - ENDY 				| 5, 6, 7, 8, 9  		        | 750.000 		|
