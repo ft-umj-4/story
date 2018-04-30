@@ -18,7 +18,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | ANDRI ISKANDAR 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|02/26/2018		|
 | BENI 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|01/08/2018		| IRFAN			|
 | CEPY 						    |- 			  		| -				| -				|-				|-				| IRFAN			|
-| CHEN - ENDY 				|- 			  		| -				| -				|-				|-				| IRFAN			|
+| CHEN - ENDY 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|29/04/2018		| IRFAN			|
 | DEDEN 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|02/01/2018		| IRFAN			|
 | EDY 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|01/07/2018		| IRFAN			|
 | EMMA 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|12/30/2017		| IRFAN			|
@@ -36,7 +36,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | SAHAL MUNTAHA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|01/07/2018		| IRFAN			|
 | SUYATNO - SNOY 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|11/06/2017		| IRFAN			|
 | SYAFRUL 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|01/07/2018		| IRFAN			|
-| TANDRI 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
+| TANDRI 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|29/04/2018		| IRFAN			|
 | UMAR 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|01/07/2018		| IRFAN			|
 | YUNUS 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|10/26/2017		| IRFAN			|
 

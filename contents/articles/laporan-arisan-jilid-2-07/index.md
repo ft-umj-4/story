@@ -36,7 +36,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | SAHAL MUNTAHA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|02/04/2018		| IRFAN			|
 | SUYATNO - SNOY 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|02/04/2018		| IRFAN			|
 | SYAFRUL 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|02/10/2018		| IRFAN			|
-| TANDRI 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
+| TANDRI 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|29/04/2018		| IRFAN			|
 | UMAR 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|02/04/2018		| IRFAN			|
 | YUNUS 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
 
