@@ -18,7 +18,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | ANDRI ISKANDAR 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|08/21/2017		| IRFAN			|
 | BENI 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/17/2017		| IRFAN			|
 | CEPY 						    |- 			  		| -				| -				|-				|-				|
-| CHEN - ENDY 				|- 			  		| -				| -				|-				|-				|
+| CHEN - ENDY 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|29/04/2018		| IRFAN			|
 | DEDEN 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|02/01/2018		| IRFAN			|
 | EDY 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/17/2017		| IRFAN			|
 | EMMA 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/26/2017		| IRFAN			|
