@@ -41,7 +41,7 @@ html(lang='id-ID')
       meta(name='msapplication-TileColor', content='#008c34')
       meta(name='msapplication-TileImage', content='https://ft-umj-4.github.io/favicon/ms-icon-144x144.png')
       meta(name='theme-color', content='#008c34')
-  
+
       script(src=locals.url+'/companion.js', data-service-worker=locals.url+'/sw.js')
 
       base(href=locals.url)
@@ -54,6 +54,12 @@ html(lang='id-ID')
         ga('create', 'UA-25065548-5', 'auto');
         ga('send', 'pageview');
 
+      script(async, src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js")
+      script.
+        (adsbygoogle = window.adsbygoogle || []).push({
+              google_ad_client: "ca-pub-5442972248172818",
+              enable_page_level_ads: true
+        });
 
   body.site
 
