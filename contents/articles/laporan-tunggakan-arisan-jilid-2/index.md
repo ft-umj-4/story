@@ -16,7 +16,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 |Nama									| Tunggakan di Arisan Ke- 	| Total 			|
 | -------------------	| ------------------------- | ----------- |
 | ANDI MARDIANTO 			| -			  		              | -        		|
-| ANDRI ISKANDAR 			| 10			  		            | 150.000 		|
+| ANDRI ISKANDAR 			| -			  		              | -        		|
 | BENI 						    | -			  		              | -				 		|
 | CEPY 						    | 4, 5, 6, 7, 8, 9, 10 		  | 1.050.000 	|
 | CHEN - ENDY 				| 9, 10 						        | 300.000  		|
@@ -38,7 +38,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | SUYATNO - SNOY 			| -			  		              | -				 		|
 | SYAFRUL 					  | -			  		              | -				 		|
 | TANDRI 					    | 8, 9, 10 							    | 450.000  		|
-| UMAR 						    | 8, 9, 10 							    | 450.000  		|
+| UMAR 						    | -			  		              | -        		|
 | YUNUS 					    | -			  		              | -				 		|
 
 ## Transfer Uang Arisan

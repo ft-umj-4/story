@@ -15,7 +15,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 |Nama						| Arisan 		  	| Kas 			| Konsumsi 		| Tgl. Bayar	| Transfered To |
 |-------------	|---------------|-----------|-------------|-------------|---------------|
 | ANDI MARDIANTO 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|05/24/2018		| IRFAN			|
-| ANDRI ISKANDAR 			|- 			  		| -				| -				|-				|-				| IRFAN			|
+| ANDRI ISKANDAR 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|06/04/2018		| IRFAN			|
 | BENI 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|05/19/2018		| IRFAN			|
 | CEPY 						    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | CHEN - ENDY 				|- 			  		| -				| -				|-				|-				| IRFAN			|
@@ -37,7 +37,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | SUYATNO - SNOY 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|05/19/2018		| IRFAN			|
 | SYAFRUL 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|05/19/2018		| IRFAN			|
 | TANDRI 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
-| UMAR 						    |- 			  		| -				| -				|-				|-				| IRFAN			|
+| UMAR 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|06/05/2018		| IRFAN			|
 | YUNUS 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|05/19/2018		| IRFAN			|
 
 
