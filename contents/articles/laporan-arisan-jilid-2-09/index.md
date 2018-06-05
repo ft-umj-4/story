@@ -37,7 +37,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | SUYATNO - SNOY 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|04/14/2018		| IRFAN			|
 | SYAFRUL 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|03/30/2018		| IRFAN			|
 | TANDRI 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
-| UMAR 						    |- 			  		| -				| -				|-				|-				| IRFAN			|
+| UMAR 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|06/05/2018		| IRFAN			|
 | YUNUS 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|05/19/2018		| IRFAN			|
 
 
