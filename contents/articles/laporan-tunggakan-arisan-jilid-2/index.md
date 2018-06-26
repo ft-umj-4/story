@@ -32,7 +32,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | LUKIMEN 					  | -			  		              | -				 		|
 | NOVAN ALI 				  | -			  		              | -				 		|
 | NURUL				 		    | -			  		              | -				 		|
-| PANDU 					    | 8, 9, 10 							    | 450.000  		|
+| PANDU 					    | 10 							          | 150.000  		|
 | RAHMAT HIDAYAT 			| 9, 10			  		          | 300.000 		|
 | SAHAL MUNTAHA 			| -			  		              | -				 		|
 | SUYATNO - SNOY 			| -			  		              | -				 		|
