@@ -22,7 +22,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | CHEN - ENDY 				| 9, 10 						        | 300.000  		|
 | DEDEN 					    | -			  		              | -        		|
 | EDY 						    | -			  		              | -        		|
-| EMMA 						    | 10			  		            | 150.000	 		|
+| EMMA 						    | - 			  		            | +150.000	 	|
 | ENGKUS 					    | -			  		              | -				 		|
 | HERI AHMADI 				| 10			  		            | 150.000	 		|
 | IRFAN MAULANA 			| -			  		              | -        		|
@@ -37,7 +37,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | SAHAL MUNTAHA 			| -			  		              | -				 		|
 | SUYATNO - SNOY 			| -			  		              | -				 		|
 | SYAFRUL 					  | -			  		              | -				 		|
-| TANDRI 					    | 8, 9, 10 							    | 450.000  		|
+| TANDRI 					    | -			  		              | -				 		|
 | UMAR 						    | -			  		              | -        		|
 | YUNUS 					    | -			  		              | -				 		|
 
