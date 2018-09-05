@@ -30,7 +30,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | JOHAN 					    | -			  		              | -				 		|
 | KUSRIYADI 				  | -			  		              | -				 		|
 | LUKIMEN 					  | -			  		              | -				 		|
-| NOVAN ALI 				  | -			  		              | -				 		|
+| NOVAN ALI 				  | -			  		              | +150.000 		|
 | NURUL				 		    | -			  		              | -				 		|
 | PANDU 					    | 10 							          | 150.000  		|
 | RAHMAT HIDAYAT 			| 9, 10			  		          | 300.000 		|
