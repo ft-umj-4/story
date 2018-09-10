@@ -15,36 +15,36 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 |Nama						| Arisan 		  	| Kas 			| Konsumsi 		| Tgl. Bayar	| Transfered To |
 |-------------	|---------------|-----------|-------------|-------------|---------------|
 | ANDI MARDIANTO 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|10/09/2018		| IRFAN			|
-| ANDRI ISKANDAR 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|06/04/2018		| IRFAN			|
-| BENI 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/09/2018		| IRFAN			|
+| ANDRI ISKANDAR 			|- 			  		| -				| -				|-				|-				| IRFAN			|
+| BENI 						    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | CEPY 						    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | CHEN - ENDY 				|- 			  		| -				| -				|-				|-				| IRFAN			|
 | DEDEN 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | EDY 						    |- 			  		| -				| -				|-				|-				| IRFAN			|
-| EMMA 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|06/25/2018		| IRFAN			|
+| EMMA 						    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | ENGKUS 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | HERI AHMADI 				|- 			  		| -				| -				|-				|-				| IRFAN			|
-| IRFAN MAULANA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/09/2018		| IRFAN			|
+| IRFAN MAULANA 			|- 			  		| -				| -				|-				|-				| IRFAN			|
 | IWAN MAULANA 				|- 			  		| -				| -				|-				|-				| IRFAN			|
-| JOHAN 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/09/2018		| IRFAN			|
+| JOHAN 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | KUSRIYADI 				  |- 			  		| -				| -				|-				|-				| IRFAN			|
-| LUKIMEN 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/09/2018		| IRFAN			|
-| NOVAN ALI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|08/05/2018		| IRFAN			|
+| LUKIMEN 					  |- 			  		| -				| -				|-				|-				| IRFAN			|
+| NOVAN ALI 				  |- 			  		| -				| -				|-				|-				| IRFAN			|
 | NURUL				 		    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | PANDU 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | RAHMAT HIDAYAT 			|- 			  		| -				| -				|-				|-				| IRFAN			|
-| SAHAL MUNTAHA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/09/2018		| IRFAN			|
+| SAHAL MUNTAHA 			|- 			  		| -				| -				|-				|-				| IRFAN			|
 | SUYATNO - SNOY 			|- 			  		| -				| -				|-				|-				| IRFAN			|
 | SYAFRUL 					  |- 			  		| -				| -				|-				|-				| IRFAN			|
 | TANDRI 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | UMAR 						    |- 			  		| -				| -				|-				|-				| IRFAN			|
-| YUNUS 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/09/2018		| IRFAN			|
+| YUNUS 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
 
 
 
-### Keterangan tambahan arisan kocokan 11
-+ Arisan diadakan tanggal **09-Sept-2018**
-+ Detail dan dokumentasi arisan bisa dilihat [disini](https://ft-umj-4.github.io/story/articles/arisan-jilid-2-11-KFC-CempakaPutih/)
+### Keterangan tambahan arisan kocokan 12
++ Arisan diadakan tanggal **XX-XX-2018**
++ Detail dan dokumentasi arisan bisa dilihat [disini](https://ft-umj-4.github.io/story/articles/arisan-jilid-2-10-Bebek-Kaleyo/)
 + Yang dapat arisan :
   -
   -

@@ -15,7 +15,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 
 |Nama									| Tunggakan di Arisan Ke- 	| Total 			|
 | -------------------	| ------------------------- | ----------- |
-| ANDI MARDIANTO 			| 11    		 						    | 150.000  		|
+| ANDI MARDIANTO 			| -	    		 						    | +150.000  		|
 | ANDRI ISKANDAR 			| - 			  		            | -        		|
 | BENI 						    | -			  		              | -				 		|
 | CHEN - ENDY 				| 11		 						        | 150.000  		|
