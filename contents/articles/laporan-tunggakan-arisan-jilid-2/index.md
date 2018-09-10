@@ -25,7 +25,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | ENGKUS 					    | 11		 						        | 150.000  		|
 | HERI AHMADI 				| 11		 						        | 150.000  		|
 | IRFAN MAULANA 			| -			  		              | -        		|
-| IWAN MAULANA 				| 10, 11			  		        | 300.000	 		|
+| IWAN MAULANA 				| -			  		              | -				 		|
 | JOHAN 					    | -			  		              | -				 		|
 | KUSRIYADI 				  | 11		 						        | 150.000  		|
 | LUKIMEN 					  | -			  		              | -				 		|
@@ -35,7 +35,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | RAHMAT HIDAYAT 			| 11    		 						    | 150.000  		|
 | SAHAL MUNTAHA 			| -	    		 						    | -			  		|
 | SUYATNO - SNOY 			| 11    		 						    | 150.000  		|
-| SYAFRUL 					  | 11    		 						    | 150.000  		|
+| SYAFRUL 					  | -    		 						    	| -			  		|
 | TANDRI 					    | 11    		 						    | 150.000  		|
 | UMAR 						    | 11    		 						    | 150.000  		|
 | YUNUS 					    | -			  		              | -				 		|
