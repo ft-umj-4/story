@@ -11,34 +11,33 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 <br/>
 <span class="more"></span>
 
-### Update per Arisan Kocokan ke-09 :
+### Update per Arisan Kocokan ke-11 :
 
 |Nama									| Tunggakan di Arisan Ke- 	| Total 			|
 | -------------------	| ------------------------- | ----------- |
-| ANDI MARDIANTO 			| -			  		              | -        		|
-| ANDRI ISKANDAR 			| - 			  		            | +150.000	 	|
+| ANDI MARDIANTO 			| 11    		 						    | 150.000  		|
+| ANDRI ISKANDAR 			| - 			  		            | -        		|
 | BENI 						    | -			  		              | -				 		|
-| CEPY 						    | 4, 5, 6, 7, 8, 9, 10 		  | 1.050.000 	|
-| CHEN - ENDY 				| 9, 10 						        | 300.000  		|
-| DEDEN 					    | -			  		              | -        		|
-| EDY 						    | -			  		              | -        		|
-| EMMA 						    | - 			  		            | +150.000	 	|
-| ENGKUS 					    | -			  		              | -				 		|
-| HERI AHMADI 				| 10			  		            | 150.000	 		|
+| CHEN - ENDY 				| 11		 						        | 150.000  		|
+| DEDEN 					    | 11		 						        | 150.000  		|
+| EDY 						    | 11		 						        | 150.000  		|
+| EMMA 						    | - 			  		            | -					 	|
+| ENGKUS 					    | 11		 						        | 150.000  		|
+| HERI AHMADI 				| 11		 						        | 150.000  		|
 | IRFAN MAULANA 			| -			  		              | -        		|
-| IWAN MAULANA 				| 10			  		            | 150.000	 		|
+| IWAN MAULANA 				| 10, 11			  		        | 300.000	 		|
 | JOHAN 					    | -			  		              | -				 		|
-| KUSRIYADI 				  | -			  		              | -				 		|
+| KUSRIYADI 				  | 11		 						        | 150.000  		|
 | LUKIMEN 					  | -			  		              | -				 		|
-| NOVAN ALI 				  | -			  		              | +150.000 		|
-| NURUL				 		    | -			  		              | -				 		|
-| PANDU 					    | 10 							          | 150.000  		|
-| RAHMAT HIDAYAT 			| 9, 10			  		          | 300.000 		|
-| SAHAL MUNTAHA 			| -			  		              | -				 		|
-| SUYATNO - SNOY 			| -			  		              | -				 		|
-| SYAFRUL 					  | -			  		              | -				 		|
-| TANDRI 					    | -			  		              | -				 		|
-| UMAR 						    | -			  		              | -        		|
+| NOVAN ALI 				  | -			  		              | -				 		|
+| NURUL				 		    | 11    		 						    | 150.000  		|
+| PANDU 					    | 10, 11 							      | 300.000  		|
+| RAHMAT HIDAYAT 			| 11    		 						    | 150.000  		|
+| SAHAL MUNTAHA 			| -	    		 						    | -			  		|
+| SUYATNO - SNOY 			| 11    		 						    | 150.000  		|
+| SYAFRUL 					  | 11    		 						    | 150.000  		|
+| TANDRI 					    | 11    		 						    | 150.000  		|
+| UMAR 						    | 11    		 						    | 150.000  		|
 | YUNUS 					    | -			  		              | -				 		|
 
 ## Transfer Uang Arisan
