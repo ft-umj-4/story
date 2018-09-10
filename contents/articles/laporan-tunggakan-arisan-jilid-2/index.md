@@ -19,7 +19,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | ANDRI ISKANDAR 			| - 			  		            | -        		|
 | BENI 						    | -			  		              | -				 		|
 | CHEN - ENDY 				| 11		 						        | 150.000  		|
-| DEDEN 					    | 11		 						        | 150.000  		|
+| DEDEN 					    | -			  		              | -				 		|
 | EDY 						    | 11		 						        | 150.000  		|
 | EMMA 						    | - 			  		            | -					 	|
 | ENGKUS 					    | 11		 						        | 150.000  		|
@@ -27,7 +27,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | IRFAN MAULANA 			| -			  		              | -        		|
 | IWAN MAULANA 				| -			  		              | -				 		|
 | JOHAN 					    | -			  		              | -				 		|
-| KUSRIYADI 				  | 11		 						        | 150.000  		|
+| KUSRIYADI 				  | -			  		              | -				 		|
 | LUKIMEN 					  | -			  		              | -				 		|
 | NOVAN ALI 				  | -			  		              | -				 		|
 | NURUL				 		    | 11    		 						    | 150.000  		|
