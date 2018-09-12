@@ -22,7 +22,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | DEDEN 					    | -			  		              | -				 		|
 | EDY 						    | 11		 						        | 150.000  		|
 | EMMA 						    | - 			  		            | -					 	|
-| ENGKUS 					    | 11		 						        | 150.000  		|
+| ENGKUS 					    | - 			  		            | -        		|
 | HERI AHMADI 				| 11		 						        | 150.000  		|
 | IRFAN MAULANA 			| -			  		              | -        		|
 | IWAN MAULANA 				| -			  		              | -				 		|
