@@ -11,34 +11,34 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 <br/>
 <span class="more"></span>
 
-### Update per Arisan Kocokan ke-11 :
+### Update per Arisan Kocokan ke-12 :
 
 |Nama									| Tunggakan di Arisan Ke- 	| Total 			|
 | -------------------	| ------------------------- | ----------- |
-| ANDI MARDIANTO 			| -	    		 						    | +150.000  	|
-| ANDRI ISKANDAR 			| -	    		 						    | +150.000  	|
-| BENI 						    | -			  		              | -				 		|
-| CHEN - ENDY 				| 11		 						        | 150.000  		|
-| DEDEN 					    | -			  		              | -				 		|
-| EDY 						    | 11		 						        | 150.000  		|
-| EMMA 						    | - 			  		            | -					 	|
-| ENGKUS 					    | - 			  		            | -        		|
-| HERI AHMADI 				| 11		 						        | 150.000  		|
-| IRFAN MAULANA 			| -	    		 						    | +150.000  	|
-| IWAN MAULANA 				| -			  		              | -				 		|
-| JOHAN 					    | -			  		              | -				 		|
-| KUSRIYADI 				  | -			  		              | -				 		|
-| LUKIMEN 					  | -			  		              | -				 		|
-| NOVAN ALI 				  | -			  		              | -				 		|
-| NURUL				 		    | 11    		 						    | 150.000  		|
-| PANDU 					    | -			  		              | -				 		|
-| RAHMAT HIDAYAT 			| 11    		 						    | 150.000  		|
-| SAHAL MUNTAHA 			| -	    		 						    | -			  		|
-| SUYATNO - SNOY 			| -	    		 						    | +150.000  	|
-| SYAFRUL 					  | -    		 						    	| -			  		|
-| TANDRI 					    | 11    		 						    | 150.000  		|
-| UMAR 						    | 11    		 						    | 150.000  		|
-| YUNUS 					    | -			  		              | -				 		|
+| ANDI MARDIANTO 			| - 			  		            | -        		|
+| ANDRI ISKANDAR 			| - 			  		            | -        		|
+| BENI 						    | 12		 						        | 150.000  		|
+| CHEN - ENDY 				| 11, 12		 						    | 300.000  		|
+| DEDEN 					    | 12		 						        | 150.000  		|
+| EDY 						    | 11, 12		 						    | 300.000  		|
+| EMMA 						    | 12		 						        | 150.000  		|
+| ENGKUS 					    | 12		 						        | 150.000  		|
+| HERI AHMADI 				| 12		 						        | 150.000  		|
+| IRFAN MAULANA 			| - 			  		            | -        		|
+| IWAN MAULANA 				| 12		 						        | 150.000  		|
+| JOHAN 					    | 12		 						        | 150.000  		|
+| KUSRIYADI 				  | 12		 						        | 150.000  		|
+| LUKIMEN 					  | 12		 						        | 150.000  		|
+| NOVAN ALI 				  | 12		 						        | 150.000  		|
+| NURUL				 		    | 11, 12		 						    | 300.000  		|
+| PANDU 					    | 12		 						        | 150.000  		|
+| RAHMAT HIDAYAT 			| 11, 12		 						    | 300.000  		|
+| SAHAL MUNTAHA 			| 12		 						        | 150.000  		|
+| SUYATNO - SNOY 			| - 			  		            | -        		|
+| SYAFRUL 					  | 12		 						        | 150.000  		|
+| TANDRI 					    | 11, 12		 						    | 300.000  		|
+| UMAR 						    | 11, 12		 						    | 300.000  		|
+| YUNUS 					    | 12		 						        | 150.000  		|
 
 ## Transfer Uang Arisan
 
