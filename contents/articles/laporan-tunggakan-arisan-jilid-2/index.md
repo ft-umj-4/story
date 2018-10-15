@@ -35,7 +35,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | RAHMAT HIDAYAT 			| 11, 12		 						    | 300.000  		|
 | SAHAL MUNTAHA 			| 12		 						        | 150.000  		|
 | SUYATNO - SNOY 			| - 			  		            | -        		|
-| SYAFRUL 					  | 12		 						        | 150.000  		|
+| SYAFRUL 					  | - 			  		            | -        		|
 | TANDRI 					    | 11, 12		 						    | 300.000  		|
 | UMAR 						    | 11, 12		 						    | 300.000  		|
 | YUNUS 					    | 12		 						        | 150.000  		|
