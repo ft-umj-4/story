@@ -32,7 +32,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | NOVAN ALI 				  |- 			  		| -				| -				|-				|-				| IRFAN			|
 | NURUL				 		    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | PANDU 					    |- 			  		| -				| -				|-				|-				| IRFAN			|
-| RAHMAT HIDAYAT 			|- 			  		| -				| -				|-				|-				| IRFAN			|
+| RAHMAT HIDAYAT 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|22/10/2018		| IRFAN			|
 | SAHAL MUNTAHA 			|- 			  		| -				| -				|-				|-				| IRFAN			|
 | SUYATNO - SNOY 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|30/09/2018		| IRFAN			|
 | SYAFRUL 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|13/10/2018		| IRFAN			|
