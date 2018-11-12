@@ -20,7 +20,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | CEPY 						    |- 			  		| -				| -				|-				|-				| IRFAN			|
 | CHEN - ENDY 				|- 			  		| -				| -				|-				|-				| IRFAN			|
 | DEDEN 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|10/09/2018		| IRFAN			|
-| EDY 						    |- 			  		| -				| -				|-				|-				| IRFAN			|
+| EDY 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|11/11/2018		| IRFAN			|
 | EMMA 						    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|06/25/2018		| IRFAN			|
 | ENGKUS 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|12/09/2018		| IRFAN			|
 | HERI AHMADI 				|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|11/10/2018		| IRFAN			|
@@ -30,7 +30,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | KUSRIYADI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|10/09/2018		| IRFAN			|
 | LUKIMEN 					  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/09/2018		| IRFAN			|
 | NOVAN ALI 				  |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|08/05/2018		| IRFAN			|
-| NURUL				 		    |- 			  		| -				| -				|-				|-				| IRFAN			|
+| NURUL				 		    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|11/11/2018		| IRFAN			|
 | PANDU 					    |Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|26/09/2018		| IRFAN			|
 | RAHMAT HIDAYAT 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|22/10/2018		| IRFAN			|
 | SAHAL MUNTAHA 			|Rp. 100.000,- 		|Rp. 30.000,-	| Rp. 20.000,-	|09/09/2018		| IRFAN			|
