@@ -18,7 +18,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | ANDI MARDIANTO 			| - 			  		            | -        		|
 | ANDRI ISKANDAR 			| - 			  		            | -        		|
 | BENI 						    | - 			  		            | -        		|
-| CHEN - ENDY 				| 11, 12		 						    | 300.000  		|
+| CHEN - ENDY 				| 12		 						        | 150.000  		|
 | DEDEN 					    | 12		 						        | 150.000  		|
 | EDY 						    | - 			  		            | -        		|
 | EMMA 						    | - 			  		            | -        		|
