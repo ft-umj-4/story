@@ -1,7 +1,7 @@
 ---
 title: Laporan Tunggakan Arisan Jilid 2
 author: ft-umj-iv
-date: 2018-05-19
+date: 2018-11-12
 template: article.jade
 tags: laporan arisan
 ---
@@ -17,28 +17,28 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | -------------------	| ------------------------- | ----------- |
 | ANDI MARDIANTO 			| - 			  		            | -        		|
 | ANDRI ISKANDAR 			| - 			  		            | -        		|
-| BENI 						    | 12		 						        | 150.000  		|
+| BENI 						    | - 			  		            | -        		|
 | CHEN - ENDY 				| 11, 12		 						    | 300.000  		|
 | DEDEN 					    | 12		 						        | 150.000  		|
-| EDY 						    | 11, 12		 						    | 300.000  		|
+| EDY 						    | - 			  		            | -        		|
 | EMMA 						    | - 			  		            | -        		|
 | ENGKUS 					    | 12		 						        | 150.000  		|
-| HERI AHMADI 				| 12		 						        | 150.000  		|
+| HERI AHMADI 				| - 			  		            | -        		|
 | IRFAN MAULANA 			| - 			  		            | -        		|
-| IWAN MAULANA 				| 12		 						        | 150.000  		|
-| JOHAN 					    | 12		 						        | 150.000  		|
-| KUSRIYADI 				  | 12		 						        | 150.000  		|
-| LUKIMEN 					  | 12		 						        | 150.000  		|
-| NOVAN ALI 				  | 12		 						        | 150.000  		|
-| NURUL				 		    | 11, 12		 						    | 300.000  		|
+| IWAN MAULANA 				| - 			  		            | -        		|
+| JOHAN 					    | - 			  		            | -        		|
+| KUSRIYADI 				  | - 			  		            | -        		|
+| LUKIMEN 					  | - 			  		            | -        		|
+| NOVAN ALI 				  | - 			  		            | -        		|
+| NURUL				 		    | 12		 						    		| 150.000  		|
 | PANDU 					    | - 			  		            | -        		|
 | RAHMAT HIDAYAT 			| - 			  		            | -        		|
-| SAHAL MUNTAHA 			| 12		 						        | 150.000  		|
+| SAHAL MUNTAHA 			| - 			  		            | -        		|
 | SUYATNO - SNOY 			| - 			  		            | -        		|
 | SYAFRUL 					  | - 			  		            | -        		|
 | TANDRI 					    | 11, 12		 						    | 300.000  		|
 | UMAR 						    | 11, 12		 						    | 300.000  		|
-| YUNUS 					    | 12		 						        | 150.000  		|
+| YUNUS 					    | - 			  		            | -        		|
 
 ## Transfer Uang Arisan
 
