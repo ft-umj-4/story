@@ -1,7 +1,7 @@
 ---
 title: Rincian Pengeluaran Survey Gathering
 author: ft-umj-iv
-date: 2017-11-19
+date: 2018-11-19
 template: article.jade
 tags: arisan
 ---
