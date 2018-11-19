@@ -1,7 +1,7 @@
 ---
 title: Laporan Kas Arisan Jilid 2
 author: ft-umj-iv
-date: 2017-11-12
+date: 2017-11-19
 template: article.jade
 tags: arisan
 ---
@@ -27,4 +27,6 @@ tags: arisan
 | KAS ARISAN 10   		|	720.000					|	-									|	720.000					|	-				  			|
 | KAS ARISAN 11   		|	630.000					|	-									|	630.000					|	-				  			|
 | KAS ARISAN 12   		|	540.000					|	-									|	540.000					|	-				  			|
+| KONSUMSI ARISAN 12  |	380.000					|	-									|	380.000					|	-				  			|
+| BIAYA SURVEY GATH   		|	-     					|	1.381.000					|	-1.381.000			|	-				  			|
 | **SALDO**					  |	-								|	-									|	**Rp7,290,000.00**  |	**Rp1,170,000.00**  |
