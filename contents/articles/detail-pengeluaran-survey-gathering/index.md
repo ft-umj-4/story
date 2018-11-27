@@ -31,3 +31,6 @@ Bukti Transfer :
 
 ![Survey Gath Tranfer](survey-gath.jpg)
 <small>_Keterangan foto :_</small>
+
+![Survey Gath Tranfer 02](survey-gath-02.jpg)
+<small>_Keterangan foto :_</small>
