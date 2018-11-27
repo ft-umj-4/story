@@ -6,7 +6,6 @@ template: article.jade
 tags: arisan
 ---
 
-
 | Keterangan						              | Jumlah				  | 
 |------------------------------------	| ---------------	|
 | Makan siang + minum berangkat       |	 98.000 				|
@@ -26,7 +25,7 @@ tags: arisan
 | Tol                                 |	 48.500 				|
 | Tol                                 |	  8.000 				|
 | Service Mobil                       |	100.000 				|
-| **TOTAL**                           |	**1.381.000** 	|
+| **TOTAL**                           |	**1.477.000** 	|
 
 Bukti Transfer : 
 
