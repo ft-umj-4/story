@@ -19,7 +19,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | ANDRI ISKANDAR 			| - 			  		            | -        		|
 | BENI 						    | - 			  		            | -        		|
 | CHEN - ENDY 				| 12		 						        | 150.000  		|
-| DEDEN 					    | 12		 						        | 150.000  		|
+| DEDEN 					    | - 			  		            | -        		|
 | EDY 						    | - 			  		            | -        		|
 | EMMA 						    | - 			  		            | -        		|
 | ENGKUS 					    | - 			  		            | -        		|
@@ -36,7 +36,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | SAHAL MUNTAHA 			| - 			  		            | -        		|
 | SUYATNO - SNOY 			| - 			  		            | -        		|
 | SYAFRUL 					  | - 			  		            | -        		|
-| TANDRI 					    | 11, 12		 						    | 300.000  		|
+| TANDRI 					    | - 			  		            | -        		|
 | UMAR 						    | 11, 12		 						    | 300.000  		|
 | YUNUS 					    | - 			  		            | -        		|
 
