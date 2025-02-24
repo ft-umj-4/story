@@ -2,23 +2,36 @@
   "name": "ft-umj-story",
   "version": "1.0.0",
   "description": "FTUMJ IV - Alumni FT UMJ P2K Angkatan IV Tahun 2009 Jurusan Teknik Informatika",
-  "author": "",
-  "private": true,
   "scripts": {
-    "dev": "./node_modules/.bin/wintersmith preview",
-    "build": "./node_modules/.bin/wintersmith build",
-    "dist": "./node_modules/.bin/wintersmith build",
-    "publish": "node ./gh-publish.js"
+    "start": "bun run serve",
+    "dev": "bun run serve",
+    "watch": "concurrently -c auto npm:css:watch npm:11ty:watch",
+    "serve": "concurrently -c auto npm:css:watch npm:11ty:serve",
+    "build": "bun run css:build && bun run 11ty:build",
+    "debug": "DEBUG=Eleventy* bun run build",
+    "11ty:watch": "NODE_ENV=development eleventy --watch --incremental",
+    "11ty:serve": "NODE_ENV=development eleventy --serve --incremental",
+    "11ty:build": "NODE_ENV=production eleventy",
+    "css:watch": "tailwindcss -i src/assets/css/main.css -o dist/assets/css/main.css -w",
+    "css:build": "tailwindcss -i src/assets/css/main.css -o dist/assets/css/main.css -m"
   },
-  "dependencies": {
-    "gh-pages": "1.1.0",
-    "moment": "2.20.1",
-    "underscore": "1.8.3",
-    "typogr": "0.6.7",
-    "wintersmith-sassify": "1.0.2",
-    "wintersmith-robots": "0.2.6",
-    "wintersmith-sitemap": "1.0.0",
-    "wintersmith-tag": "1.0.2",
-    "wintersmith-jsbundler": "0.1.0"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ft-umj-4/story.git"
+  },
+  "author": "Irfan Maulana <mazipan>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ft-umj-4/story/issues"
+  },
+  "homepage": "https://github.com/ft-umj-4/story#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.0",
+    "@tailwindcss/typography": "^0.5.9",
+    "concurrently": "^7.6.0",
+    "dayjs": "^1.11.13",
+    "html-minifier": "^4.0.0",
+    "tailwindcss": "^3.4.17",
+    "terser": "^5.39.0"
   }
 }
