@@ -3,7 +3,7 @@ title: Daftar Anggota FT UMJ IV
 author: ft-umj-iv
 date: 2009-12-12
 template: article.jade
-tags: people
+tags: daftar-anggota
 ---
 
 Berikut adalah daftar dari anggota yang tergabung dalam keluarga FT UMJ IV, dalam daftar berikut ada beberapa orang yang memang telah hilang kontak dari group kami tapi kami senantiasa menganggap mereka sebagai keluarga kami, berikut adalah daftarnya :

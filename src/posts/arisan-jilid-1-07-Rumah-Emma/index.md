@@ -3,7 +3,9 @@ title: Arisan Jilid 1 - 07 - Rumah Emma
 author: ft-umj-iv
 date: 2015-09-23
 template: article.jade
-tags: arisan
+tags:
+ - arisan
+ - arisan-jilid-1
 thumb: Arisan-Jilid-07-1.jpg
 ---
 

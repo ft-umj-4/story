@@ -3,7 +3,9 @@ title: Dokumentasi Arisan Jilid 2 - Kocokan ke 03 - Rumah Emma
 author: ft-umj-iv
 date: 2017-06-10
 template: article.jade
-tags: arisan
+tags:
+ - arisan
+ - arisan-jilid-2
 thumb: arisan-jilid-02-kocokan-03-1.jpg
 ---
 

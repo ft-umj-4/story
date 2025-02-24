@@ -3,7 +3,9 @@ title: Arisan Jilid 1 - 06 - Danau Sunter
 author: ft-umj-iv
 date: 2015-08-23
 template: article.jade
-tags: arisan
+tags:
+ - arisan
+ - arisan-jilid-1
 thumb: Arisan-Jilid-06-1.jpg
 ---
 

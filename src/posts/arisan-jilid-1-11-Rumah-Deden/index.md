@@ -3,7 +3,9 @@ title: Arisan Jilid 1 - 11 - Rumah Deden
 author: ft-umj-iv
 date: 2016-01-23
 template: article.jade
-tags: arisan
+tags:
+ - arisan
+ - arisan-jilid-1
 thumb: Arisan-Jilid-11-1.jpg
 ---
 

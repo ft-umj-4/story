@@ -3,7 +3,9 @@ title: Arisan Jilid 1 - 03 - Rumah Anto
 author: ft-umj-iv
 date: 2015-05-23
 template: article.jade
-tags: arisan
+tags:
+ - arisan
+ - arisan-jilid-1
 thumb: Arisan-Jilid-03-0.jpg
 ---
 

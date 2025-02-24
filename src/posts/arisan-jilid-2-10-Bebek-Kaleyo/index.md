@@ -3,7 +3,9 @@ title: Dokumentasi Arisan Jilid 2 - Kocokan ke 10 - Bebek Kaleyo
 author: ft-umj-iv
 date: 2018-05-19
 template: article.jade
-tags: arisan
+tags:
+ - arisan
+ - arisan-jilid-2
 thumb: arisan-jilid-02-kocokan-10-01.jpg
 ---
 

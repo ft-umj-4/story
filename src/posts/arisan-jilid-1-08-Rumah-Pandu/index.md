@@ -3,7 +3,9 @@ title: Arisan Jilid 1 - 08 - Rumah Pandu
 author: ft-umj-iv
 date: 2015-10-23
 template: article.jade
-tags: arisan
+tags:
+ - arisan
+ - arisan-jilid-1
 thumb: Arisan-Jilid-08-6.jpg
 ---
 

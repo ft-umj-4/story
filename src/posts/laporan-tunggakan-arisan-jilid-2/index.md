@@ -3,7 +3,7 @@ title: Laporan Tunggakan Arisan Jilid 2
 author: ft-umj-iv
 date: 2018-11-12
 template: article.jade
-tags: laporan arisan
+tags: laporan-arisan
 ---
 
 Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://www.dropbox.com/s/lqrvit24hfh3fot/Arisan%20UMJ%20TechInfo4%20Jilid%2002.xlsx?dl=0)

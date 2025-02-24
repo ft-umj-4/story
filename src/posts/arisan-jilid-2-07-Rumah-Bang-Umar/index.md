@@ -3,7 +3,9 @@ title: Dokumentasi Arisan Jilid 2 - Kocokan ke 07 - Rumah Bang Umar
 author: ft-umj-iv
 date: 2018-02-04
 template: article.jade
-tags: arisan
+tags:
+ - arisan
+ - arisan-jilid-2
 thumb: arisan-jilid-02-kocokan-07-01.jpg
 ---
 

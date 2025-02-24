@@ -1,15 +1,18 @@
 [
-    {
-        "label": "About",
-        "url": "/about"
-    },
-    {
-        "label": "Tag List",
-        "url": "/tags"
-    },
-    {
-        "label": "GitHub",
-        "url": "https://github.com/daflh/vredeburg",
-        "newTab": true
-    }
+  {
+    "label": "Arisan",
+    "url": "/tags/arisan/"
+  },
+  {
+    "label": "Outing",
+    "url": "/tags/outing/"
+  },
+  {
+    "label": "Bukber",
+    "url": "/tags/bukber/"
+  },
+  {
+    "label": "Semua",
+    "url": "/tags/"
+  }
 ]

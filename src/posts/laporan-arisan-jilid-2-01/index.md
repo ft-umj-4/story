@@ -3,7 +3,7 @@ title: Laporan Arisan Jilid 02 FT UMJ IV - Kocokan 01
 author: ft-umj-iv
 date: 2017-04-18
 template: article.jade
-tags: laporan arisan
+tags: laporan-arisan
 ---
 
 Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://www.dropbox.com/s/lqrvit24hfh3fot/Arisan%20UMJ%20TechInfo4%20Jilid%2002.xlsx?dl=0), namun seperti saya juga malas memperbarui dropbox maka laporan akan saya perbarui juga di laman ini. Berikut adalah update pembayarannya :

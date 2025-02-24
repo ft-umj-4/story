@@ -1,3 +1,7 @@
+function randomChoice(arr) {
+  return arr[Math.floor(Math.random() * arr.length)];
+}
+
 module.exports = {
   layout: 'post',
   title: 'Untitled',
@@ -9,9 +13,19 @@ module.exports = {
           return data.thumb;
         }
         return `/assets/img/${data.thumb}`;
-      } else {
-        return false;
+      } else if (
+        data.title.includes('Laporan') ||
+        data.title.includes('Rincian Pengeluaran')
+      ) {
+        return randomChoice([
+          `/assets/img/pexels-goumbik-590016.jpg`,
+          `/assets/img/pexels-asphotograpy-95916.jpg`,
+        ]);
+      } else if (data.title.includes('Daftar Anggota')) {
+        return randomChoice([`/assets/img/pexels-jibarofoto-2014773.jpg`]);
       }
-    }
-  }
+
+      return randomChoice([`/assets/img/pexels-steve-1109354.jpg`]);
+    },
+  },
 };

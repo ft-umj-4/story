@@ -3,7 +3,9 @@ title: Dokumentasi Arisan Jilid 2 - Kocokan ke 04 - Rumah Pandu
 author: ft-umj-iv
 date: 2017-07-22
 template: article.jade
-tags: arisan
+tags:
+ - arisan
+ - arisan-jilid-2
 thumb: arisan-jilid-02-kocokan-04-1.jpg
 ---
 

@@ -3,7 +3,9 @@ title: Dokumentasi Arisan Jilid 2 - Kocokan ke 09 - Rumah Kusriyadi
 author: ft-umj-iv
 date: 2018-04-14
 template: article.jade
-tags: arisan
+tags:
+ - arisan
+ - arisan-jilid-2
 thumb: arisan-jilid-02-kocokan-09-01.jpg
 ---
 

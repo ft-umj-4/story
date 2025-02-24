@@ -3,7 +3,9 @@ title: Dokumentasi Arisan Jilid 2 - Kocokan ke 05 - Rumah Heri
 author: ft-umj-iv
 date: 2017-09-17
 template: article.jade
-tags: arisan
+tags:
+ - arisan
+ - arisan-jilid-2
 thumb: arisan-jilid-02-kocokan-05-1.jpg
 ---
 

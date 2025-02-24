@@ -3,7 +3,9 @@ title: Dokumentasi Arisan Jilid 2 - Kocokan ke 02 - Rumah Rahmat
 author: ft-umj-iv
 date: 2017-05-20
 template: article.jade
-tags: arisan
+tags:
+ - arisan
+ - arisan-jilid-2
 thumb: arisan-jilid-02-kocokan-02-1.jpg
 ---
 

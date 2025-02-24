@@ -9,12 +9,13 @@ in tags -%}{{ tag }},{%- endfor -%}{%- endif -%} {%- if site.keywords -%} {%-
 for keyword in site.keywords -%} {{ keyword }}{%- if not loop.last %},{% endif
 -%} {%- endfor -%} {%- endif -%} {%- endset -%}
 <!DOCTYPE html>
-<html>
+<html class="light scroll-smooth">
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content="{{ eleventy.generator }}" />
     <title>{{ metaTitle }}</title>
     <meta name="title" content="{{ metaTitle }}" />
     <meta name="description" content="{{ metaDesc }}" />
@@ -39,10 +40,7 @@ for keyword in site.keywords -%} {{ keyword }}{%- if not loop.last %},{% endif
     <meta name="msvalidate.01" content="BDC91DBE185F72C5761E652A2961807B" />
 
     <meta property="og:title" content="{{ metaTitle }}" />
-    <meta
-      property="og:description"
-      content="{{ metaDesc }}"
-    />
+    <meta property="og:description" content="{{ metaDesc }}" />
     <meta property="og:url" content="https://ft-umj-4.github.io/story" />
     <meta
       property="og:image"
@@ -58,10 +56,7 @@ for keyword in site.keywords -%} {{ keyword }}{%- if not loop.last %},{% endif
     <meta property="og:image:height" content="300" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="{{ metaTitle }}" />
-    <meta
-      name="twitter:description"
-      content="{{ metaDesc }}"
-    />
+    <meta name="twitter:description" content="{{ metaDesc }}" />
     <meta
       name="twitter:image:src"
       content="https://ft-umj-4.github.io/ft-umj-iv.jpg"
@@ -186,18 +181,19 @@ for keyword in site.keywords -%} {{ keyword }}{%- if not loop.last %},{% endif
       });
     </script>
 
-    <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
+      href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap"
       rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"
     />
+
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | url }}" />
   </head>
 
-  <body class="flex flex-col h-screen bg-white text-slate-800 break-words">
+  <body
+    class="relative snap-y snap-mandatory overflow-x-hidden bg-white text-gray-900 dark:bg-gray-900 dark:text-white flex flex-col h-screen break-words"
+  >
     {% include "partials/header.njk" %}
     <main class="mx-7 lg:mx-6 mt-32 flex-grow">
       {% if layout === "post" %}

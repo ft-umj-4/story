@@ -3,7 +3,9 @@ title: Arisan Jilid 1 - 12 - KFC Cempaka Putih
 author: ft-umj-iv
 date: 2016-02-23
 template: article.jade
-tags: arisan
+tags:
+ - arisan
+ - arisan-jilid-1
 thumb: Arisan-Jilid-12-1.jpg
 ---
 

@@ -3,7 +3,7 @@ title: Daftar Anggota Arisan Jilid 02 FT UMJ IV
 author: ft-umj-iv
 date: 2017-04-08
 template: article.jade
-tags: anggota arisan
+tags: daftar-anggota
 ---
 
 Berikut adalah daftar anggota FT UMJ IV yang konfirm untuk ikut arisa jilid 2, jumalh ini akan bertambah dan berkurang, namun akan kita tutup pada kocokan ke-2 :

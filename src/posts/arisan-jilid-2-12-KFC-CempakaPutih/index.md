@@ -3,7 +3,9 @@ title: Dokumentasi Arisan Jilid 2 - Kocokan ke 12 - KFC Cempaka Putih
 author: ft-umj-iv
 date: 2018-11-11
 template: article.jade
-tags: arisan
+tags:
+ - arisan
+ - arisan-jilid-2
 thumb: arisan-jilid-02-kocokan-12-1.jpeg
 ---
 

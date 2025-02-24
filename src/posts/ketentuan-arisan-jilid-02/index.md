@@ -3,7 +3,7 @@ title: Ketentuan Arisan jilid 02
 author: ft-umj-iv
 date: 2017-04-08
 template: article.jade
-tags: ketentuan arisan
+tags: laporan-arisan
 ---
 
 Berikut adalah beberapa ketentuan yang kita sepakati untuk arisan jilid 2 kali ini :
@@ -21,7 +21,7 @@ Anggota arisan lebih lengkap bisa dilihat disini :
 	- Uang Arisan : <b>Rp. 100.000,-</b>
 	- Uang Konsumsi Arisan Selanjutnya : <b>Rp. 20.000,-</b>
 	- Uang Kas : <b>Rp. 30.000,-</b>
-+ Tiap bulan akan dikocok 2 orang.	
++ Tiap bulan akan dikocok 2 orang.
 + Ekspektasi per-orang dapat : <b>Rp. 100.000,-</b> x <b>Jumlah total peserta</b>.
 + Ditambah uang konsumsi untuk arisan selanjutnya yang akan dipegang salah seorang dari 2 orang yang dapat, sebesar <b>Rp. 20.000,-</b> x <b>Jumlah total peserta</b>.
 + Jika pada arisan selanjutnya uang konsumsi kurang untuk membayar semua makanan yang dipesan, maka diharapkan 2 orang yang dapat arisan bisa patungan dan berbagi untuk membayar total kurang dari uang konsumsi yang telah diberikan.

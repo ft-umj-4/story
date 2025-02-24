@@ -3,7 +3,7 @@ title: Undangan Inisiasi Arisan Jilid 2
 author: ft-umj-iv
 date: 2017-03-30
 template: article.jade
-tags: undangan arisan
+tags: laporan-arisan
 thumb: arisan.jpg
 ---
 

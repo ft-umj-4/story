@@ -3,7 +3,7 @@ title: Meyambut Anak Pertama Sodara Akhmad Syafrul Afandi
 author: ft-umj-iv
 date: 2017-04-08
 template: article.jade
-tags: story
+tags: family-updates
 ---
 
 Setiap kelahiran seorang anak merupakan kebahagiaan bagi kedua orang tua-nya, pun begitu bagi kami dalam menyambut anggota keluarga baru kami FT-UMJ-IV.

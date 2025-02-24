@@ -3,7 +3,9 @@ title: Arisan Jilid 1 - 01 - Rumah Rahmat
 author: ft-umj-iv
 date: 2015-03-23
 template: article.jade
-tags: arisan
+tags:
+ - arisan
+ - arisan-jilid-1
 thumb: Arisan-Jilid-01-1.jpg
 ---
 

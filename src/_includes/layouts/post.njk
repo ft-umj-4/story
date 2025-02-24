@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article class="max-w-5xl mx-auto">
+<article class="max-w-5xl mx-auto post-detail">
     <header class="mb-14">
         <h1 class="text-3xl text-center font-bold leading-normal text-slate-900 mt-0 mb-3">{{ title }}</h1>
         <div class="text-center">Published on {{ page.date | readableDate }}</div>
@@ -15,7 +15,7 @@ layout: default
         {% endif %}
         {% if thumb %}
         <div class="mt-10 -mx-7 md:mx-0">
-            <img class="w-full max-w-2xl mx-auto" src="{{ thumb | url }}" width="960" height="500" alt="This post thumbnail">
+            <img class="w-full max-w-2xl mx-auto post-thumbnail" src="{{ thumb | url }}" width="960" height="500" alt="{{ title }}">
         </div>
         {% endif %}
     </header>

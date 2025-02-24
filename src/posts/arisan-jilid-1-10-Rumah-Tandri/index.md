@@ -3,7 +3,9 @@ title: Arisan Jilid 1 - 10 - Rumah Tandri
 author: ft-umj-iv
 date: 2015-12-23
 template: article.jade
-tags: arisan
+tags:
+ - arisan
+ - arisan-jilid-1
 thumb: Arisan-Jilid-10-3.jpg
 ---
 

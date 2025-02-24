@@ -3,7 +3,7 @@ title: Rincian Pengeluaran Survey Gathering
 author: ft-umj-iv
 date: 2018-11-19
 template: article.jade
-tags: arisan
+tags: laporan-outing
 ---
 
 | Keterangan						              | Jumlah				  |
