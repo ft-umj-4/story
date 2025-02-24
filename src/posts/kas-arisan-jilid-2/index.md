@@ -1,6 +1,5 @@
 ---
 title: Laporan Kas Arisan Jilid 2
-author: ft-umj-iv
 date: 2018-11-19
 template: article.jade
 tags: laporan-arisan

@@ -1,6 +1,5 @@
 ---
 title: Dokumentasi Arisan Jilid 2 - Kocokan ke 07 - Rumah Bang Umar
-author: ft-umj-iv
 date: 2018-02-04
 template: article.jade
 tags:
@@ -14,23 +13,35 @@ Arisan diadakan tanggal 04 Feb 2018 di Rumah Bang Umar dengan tuan rumah Bang Um
 Berikut beberapa dokumentasi acaranya :
 
 
-![Arisan Jilid 07 - 1](/story/assets/img/arisan-jilid-02-kocokan-07-01.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-07-01.jpg" alt="Arisan Jilid 07 - 1" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
 <br/>
 <span class="more"></span>
 
-![Arisan Jilid 07 - 3](/story/assets/img/arisan-jilid-02-kocokan-07-02.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-07-02.jpg" alt="Arisan Jilid 07 - 3" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 07 - 3](/story/assets/img/arisan-jilid-02-kocokan-07-03.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-07-03.jpg" alt="Arisan Jilid 07 - 3" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 07 - 4](/story/assets/img/arisan-jilid-02-kocokan-07-04.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-07-04.jpg" alt="Arisan Jilid 07 - 4" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 07 - 5](/story/assets/img/arisan-jilid-02-kocokan-07-05.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-07-05.jpg" alt="Arisan Jilid 07 - 5" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 07 - 6](/story/assets/img/arisan-jilid-02-kocokan-07-06.jpg)
-<small>_Keterangan foto : BONUSSSS COTO TERBAIIIKKK_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-07-06.jpg" alt="Arisan Jilid 07 - 6" />
+  <figcaption>Keterangan foto : BONUSSSS COTO TERBAIIIKKK</figcaption>
+</figure>

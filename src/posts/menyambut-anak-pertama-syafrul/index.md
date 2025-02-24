@@ -1,6 +1,5 @@
 ---
 title: Meyambut Anak Pertama Sodara Akhmad Syafrul Afandi
-author: ft-umj-iv
 date: 2017-04-08
 template: article.jade
 tags: family-updates
@@ -28,19 +27,29 @@ Amiin...
 <br/>
 <span class="more"></span>
 
-![Anak Syafrul - 1](/story/assets/img/anak-syafrul-1.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/anak-syafrul-1.jpg" alt="Anak Syafrul - 1" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Anak Syafrul - 2](/story/assets/img/anak-syafrul-2.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/anak-syafrul-2.jpg" alt="Anak Syafrul - 2" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Anak Syafrul - 3](/story/assets/img/anak-syafrul-3.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/anak-syafrul-3.jpg" alt="Anak Syafrul - 3" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Anak Syafrul - 4](/story/assets/img/anak-syafrul-4.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/anak-syafrul-4.jpg" alt="Anak Syafrul - 4" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Anak Syafrul - 5](/story/assets/img/anak-syafrul-5.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/anak-syafrul-5.jpg" alt="Anak Syafrul - 5" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
 

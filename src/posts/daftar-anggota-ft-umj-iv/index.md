@@ -1,6 +1,5 @@
 ---
 title: Daftar Anggota FT UMJ IV
-author: ft-umj-iv
 date: 2009-12-12
 template: article.jade
 tags: daftar-anggota

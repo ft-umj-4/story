@@ -1,6 +1,5 @@
 ---
 title: Arisan Jilid 1 - 11 - Rumah Deden
-author: ft-umj-iv
 date: 2016-01-23
 template: article.jade
 tags:
@@ -11,26 +10,40 @@ thumb: Arisan-Jilid-11-1.jpg
 
 Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-11 yang kita adakan di Rumah Bang Deden, dan berikut dokumentasinya :
 
-![Arisan Jilid 11 - 1](/story/assets/img/Arisan-Jilid-11-1.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-11-1.jpg" alt="Arisan Jilid 11 - 1" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
 <br/>
 <span class="more"></span>
 
-![Arisan Jilid 11 - 2](/story/assets/img/Arisan-Jilid-11-2.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-11-2.jpg" alt="Arisan Jilid 11 - 2" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 11 - 3](/story/assets/img/Arisan-Jilid-11-3.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-11-3.jpg" alt="Arisan Jilid 11 - 3" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 11 - 4](/story/assets/img/Arisan-Jilid-11-4.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-11-4.jpg" alt="Arisan Jilid 11 - 4" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 11 - 5](/story/assets/img/Arisan-Jilid-11-5.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-11-5.jpg" alt="Arisan Jilid 11 - 5" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 11 - 6](/story/assets/img/Arisan-Jilid-11-6.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-11-6.jpg" alt="Arisan Jilid 11 - 6" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 11 - 7](/story/assets/img/Arisan-Jilid-11-7.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-11-7.jpg" alt="Arisan Jilid 11 - 7" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>

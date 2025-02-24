@@ -1,11 +1,11 @@
 <nav class="mt-3 flex justify-between items-center">
-    <a href="{% if not paged.first %}{{ pagination.href.previous | url }}{% else %}javascript:void(0){% endif %}" class="float-left bg-white font-semibold py-2 px-4 border rounded text-slate-800 {% if not paged.first %}cursor-pointer hover:bg-slate-100{% else %}cursor-not-allowed text-opacity-50{% endif %}">Previous</a>
+    <a href="{% if not paged.first %}{{ pagination.href.previous | url }}{% else %}javascript:void(0){% endif %}" class="text-white py-2 px-4 border  rounded {% if not paged.first %}cursor-pointer bg-teal-700 border-teal-700 hover:bg-teal-800 hover:border-teal-800{% else %}cursor-not-allowed text-opacity-50 bg-slate-400 border-slate-400 hover:bg-slate-400{% endif %}">Previous</a>
 
         <ol class="hidden md:flex gap-1 items-center">
             {%- for pageEntry in pagination.pages %}
-                <li class="relative"><a class="block py-2 px-4 border rounded text-slate-800 bg-white hover:bg-slate-100 aria-current:bg-slate-900 aria-current:text-white aria-current:hover:bg-slate-800 aria-current:border-slate-800" href="{{ pagination.hrefs[ loop.index0 ] | url }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>{{ loop.index }}</a></li>
+                <li class="relative"><a class="block py-2 px-4 border border-teal-700 rounded text-slate-800 bg-slate-50 dark:bg-slate-950 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-800 aria-current:bg-teal-700 aria-current:text-white aria-current:hover:bg-teal-800" href="{{ pagination.hrefs[ loop.index0 ] | url }}"{% if page.url == pagination.hrefs[ loop.index0 ] %} aria-current="page"{% endif %}>{{ loop.index }}</a></li>
             {%- endfor %}
         </ol>
 
-    <a href="{% if not paged.last %}{{ pagination.href.next | url }}{% else %}javascript:void(0){% endif %}" class="float-right bg-white font-semibold py-2 px-4 border rounded text-slate-800 {% if not paged.last %}cursor-pointer hover:bg-slate-100{% else %}cursor-not-allowed text-opacity-50{% endif %}">Next</a>
+    <a href="{% if not paged.last %}{{ pagination.href.next | url }}{% else %}javascript:void(0){% endif %}" class="text-white  py-2 px-4 border  rounded {% if not paged.last %}cursor-pointer bg-teal-700 border-teal-700 hover:bg-teal-800 hover:border-teal-800 {% else %}cursor-not-allowed bg-slate-400 border-slate-400 hover:bg-slate-400 text-opacity-50{% endif %}">Next</a>
 </nav>

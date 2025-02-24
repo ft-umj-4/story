@@ -1,6 +1,5 @@
 ---
 title: Dokumentasi Arisan Jilid 2 - Kocokan ke 04 - Rumah Pandu
-author: ft-umj-iv
 date: 2017-07-22
 template: article.jade
 tags:
@@ -14,33 +13,51 @@ Dan yang dapat Arisan pada kocokan kedua adalah Heri Ahmadi dan Sahal Muntaha.
 
 Berikut beberapa dokumentasi acaranya :
 
-![Arisan Jilid 04 - 1](/story/assets/img/arisan-jilid-02-kocokan-04-1.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-04-1.jpg" alt="Arisan Jilid 04 - 1" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
 <br/>
 <span class="more"></span>
 
 
-![Arisan Jilid 04 - 3](/story/assets/img/arisan-jilid-02-kocokan-04-3.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-04-3.jpg" alt="Arisan Jilid 04 - 3" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 04 - 4](/story/assets/img/arisan-jilid-02-kocokan-04-4.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-04-4.jpg" alt="Arisan Jilid 04 - 4" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 04 - 5](/story/assets/img/arisan-jilid-02-kocokan-04-5.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-04-5.jpg" alt="Arisan Jilid 04 - 5" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 04 - 6](/story/assets/img/arisan-jilid-02-kocokan-04-6.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-04-6.jpg" alt="Arisan Jilid 04 - 6" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 04 - 7](/story/assets/img/arisan-jilid-02-kocokan-04-7.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-04-7.jpg" alt="Arisan Jilid 04 - 7" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 04 - 8](/story/assets/img/arisan-jilid-02-kocokan-04-8.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-04-8.jpg" alt="Arisan Jilid 04 - 8" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 04 - 9](/story/assets/img/arisan-jilid-02-kocokan-04-9.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-04-9.jpg" alt="Arisan Jilid 04 - 9" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 04 - 10](/story/assets/img/arisan-jilid-02-kocokan-04-10.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-04-10.jpg" alt="Arisan Jilid 04 - 10" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>

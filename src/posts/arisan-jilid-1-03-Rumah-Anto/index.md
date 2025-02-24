@@ -1,6 +1,5 @@
 ---
 title: Arisan Jilid 1 - 03 - Rumah Anto
-author: ft-umj-iv
 date: 2015-05-23
 template: article.jade
 tags:
@@ -11,41 +10,65 @@ thumb: Arisan-Jilid-03-0.jpg
 
 Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-3 yang kita adakan di Rumah Om Anto
 
-![Arisan Jilid 03 - 0](/story/assets/img/Arisan-Jilid-03-0.jpg)
-<small>_Keterangan foto : Perjalanan menuju TKP_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-03-0.jpg" alt="Arisan Jilid 03 - 0" />
+  <figcaption>Keterangan foto : Perjalanan menuju TKP</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 1](/story/assets/img/Arisan-Jilid-03-1.jpg)
-<small>_Keterangan foto : Edy sama Snoy yang dapat_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-03-1.jpg" alt="Arisan Jilid 03 - 1" />
+  <figcaption>Keterangan foto : Edy sama Snoy yang dapat</figcaption>
+</figure>
 
 <br/>
 <span class="more"></span>
 
-![Arisan Jilid 03 - 2](/story/assets/img/Arisan-Jilid-03-2.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-03-2.jpg" alt="Arisan Jilid 03 - 2" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 3](/story/assets/img/Arisan-Jilid-03-3.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-03-3.jpg" alt="Arisan Jilid 03 - 3" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 4](/story/assets/img/Arisan-Jilid-03-4.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-03-4.jpg" alt="Arisan Jilid 03 - 4" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 5](/story/assets/img/Arisan-Jilid-03-5.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-03-5.jpg" alt="Arisan Jilid 03 - 5" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 6](/story/assets/img/Arisan-Jilid-03-6.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-03-6.jpg" alt="Arisan Jilid 03 - 6" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 7](/story/assets/img/Arisan-Jilid-03-7.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-03-7.jpg" alt="Arisan Jilid 03 - 7" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 8](/story/assets/img/Arisan-Jilid-03-8.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-03-8.jpg" alt="Arisan Jilid 03 - 8" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 9](/story/assets/img/Arisan-Jilid-03-9.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-03-9.jpg" alt="Arisan Jilid 03 - 9" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 10](/story/assets/img/Arisan-Jilid-03-10.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-03-10.jpg" alt="Arisan Jilid 03 - 10" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 11](/story/assets/img/Arisan-Jilid-03-11.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-03-11.jpg" alt="Arisan Jilid 03 - 11" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>

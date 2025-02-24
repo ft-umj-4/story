@@ -1,6 +1,5 @@
 ---
 title: Ketentuan Arisan jilid 02
-author: ft-umj-iv
 date: 2017-04-08
 template: article.jade
 tags: laporan-arisan

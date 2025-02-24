@@ -1,6 +1,5 @@
 ---
 title: Dokumentasi Arisan Jilid 2 - Kocokan ke 03 - Rumah Emma
-author: ft-umj-iv
 date: 2017-06-10
 template: article.jade
 tags:
@@ -14,60 +13,96 @@ Dan yang dapat Arisan pada kocokan kedua adalah TANDRI dan PANDU/YANTI.
 
 Berikut beberapa dokumentasi acaranya :
 
-![Arisan Jilid 03 - 1](/story/assets/img/arisan-jilid-02-kocokan-03-1.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-03-1.jpg" alt="Arisan Jilid 03 - 1" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
 <br/>
 <span class="more"></span>
 
 
-![Arisan Jilid 03 - 3](/story/assets/img/arisan-jilid-02-kocokan-03-3.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-03-3.jpg" alt="Arisan Jilid 03 - 3" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 4](/story/assets/img/arisan-jilid-02-kocokan-03-4.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-03-4.jpg" alt="Arisan Jilid 03 - 4" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 5](/story/assets/img/arisan-jilid-02-kocokan-03-5.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-03-5.jpg" alt="Arisan Jilid 03 - 5" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 6](/story/assets/img/arisan-jilid-02-kocokan-03-6.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-03-6.jpg" alt="Arisan Jilid 03 - 6" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 7](/story/assets/img/arisan-jilid-02-kocokan-03-7.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-03-7.jpg" alt="Arisan Jilid 03 - 7" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 8](/story/assets/img/arisan-jilid-02-kocokan-03-8.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-03-8.jpg" alt="Arisan Jilid 03 - 8" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 9](/story/assets/img/arisan-jilid-02-kocokan-03-9.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-03-9.jpg" alt="Arisan Jilid 03 - 9" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 10](/story/assets/img/arisan-jilid-02-kocokan-03-10.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-03-10.jpg" alt="Arisan Jilid 03 - 10" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 11](/story/assets/img/arisan-jilid-02-kocokan-03-11.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-03-11.jpg" alt="Arisan Jilid 03 - 11" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 12](/story/assets/img/arisan-jilid-02-kocokan-03-12.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-03-12.jpg" alt="Arisan Jilid 03 - 12" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 13](/story/assets/img/arisan-jilid-02-kocokan-03-13.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-03-13.jpg" alt="Arisan Jilid 03 - 13" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 14](/story/assets/img/arisan-jilid-02-kocokan-03-14.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-03-14.jpg" alt="Arisan Jilid 03 - 14" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 15](/story/assets/img/arisan-jilid-02-kocokan-03-15.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-03-15.jpg" alt="Arisan Jilid 03 - 15" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 16](/story/assets/img/arisan-jilid-02-kocokan-03-16.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-03-16.jpg" alt="Arisan Jilid 03 - 16" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 17](/story/assets/img/arisan-jilid-02-kocokan-03-17.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-03-17.jpg" alt="Arisan Jilid 03 - 17" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 18](/story/assets/img/arisan-jilid-02-kocokan-03-18.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-03-18.jpg" alt="Arisan Jilid 03 - 18" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 03 - 19](/story/assets/img/arisan-jilid-02-kocokan-03-19.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-03-19.jpg" alt="Arisan Jilid 03 - 19" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>

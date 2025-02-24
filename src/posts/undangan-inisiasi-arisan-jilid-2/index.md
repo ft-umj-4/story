@@ -1,14 +1,15 @@
 ---
 title: Undangan Inisiasi Arisan Jilid 2
-author: ft-umj-iv
 date: 2017-03-30
 template: article.jade
 tags: laporan-arisan
 thumb: arisan.jpg
 ---
 
-![Arisan Yuk](/story/assets/img/arisan.jpg)
-<small>_Keterangan gambar : arisan yukkkkkk !!!_</small>.
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan.jpg" alt="Arisan Yuk" />
+  <figcaption>Keterangan gambar : arisan yukkkkkk !!!</figcaption>
+</figure>.
 
 
 <br/>

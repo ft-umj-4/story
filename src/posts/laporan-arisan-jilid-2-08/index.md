@@ -1,6 +1,5 @@
 ---
 title: Laporan Arisan Jilid 02 FT UMJ IV - Kocokan 08
-author: ft-umj-iv
 date: 2018-03-12
 template: article.jade
 tags: laporan-arisan

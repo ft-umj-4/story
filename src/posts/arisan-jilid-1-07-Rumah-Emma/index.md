@@ -1,6 +1,5 @@
 ---
 title: Arisan Jilid 1 - 07 - Rumah Emma
-author: ft-umj-iv
 date: 2015-09-23
 template: article.jade
 tags:
@@ -12,23 +11,35 @@ thumb: Arisan-Jilid-07-1.jpg
 Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-7 yang kita adakan di Rumah Bu Bendahara Terbaik Emma, berikut adalah beberapa dokumentasinya :
 
 
-![Arisan Jilid 07 - 1](/story/assets/img/Arisan-Jilid-07-1.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-07-1.jpg" alt="Arisan Jilid 07 - 1" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
 <br/>
 <span class="more"></span>
 
-![Arisan Jilid 07 - 2](/story/assets/img/Arisan-Jilid-07-2.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-07-2.jpg" alt="Arisan Jilid 07 - 2" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 07 - 3](/story/assets/img/Arisan-Jilid-07-3.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-07-3.jpg" alt="Arisan Jilid 07 - 3" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 07 - 4](/story/assets/img/Arisan-Jilid-07-4.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-07-4.jpg" alt="Arisan Jilid 07 - 4" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 07 - 5](/story/assets/img/Arisan-Jilid-07-5.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-07-5.jpg" alt="Arisan Jilid 07 - 5" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 07 - 6](/story/assets/img/Arisan-Jilid-07-6.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-07-6.jpg" alt="Arisan Jilid 07 - 6" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>

@@ -189,6 +189,14 @@ for keyword in site.keywords -%} {{ keyword }}{%- if not loop.last %},{% endif
     />
 
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | url }}" />
+    <script>
+      // Load default theme
+      let _isDark = localStorage.theme === 'dark';
+      if (_isDark) {
+        document.documentElement.classList.add('dark');
+        document.documentElement.classList.remove('light');
+      }
+    </script>
   </head>
 
   <body

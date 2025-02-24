@@ -1,6 +1,5 @@
 ---
 title: Buka Puasa Bersama 2014
-author: ft-umj-iv
 date: 2014-04-04
 template: article.jade
 tags: bukber
@@ -11,23 +10,35 @@ Kami memang senang berkumpul dan bersilaturahmi ketika sempat, bahkan ketika Bul
 Memang tidak mudah mengumpulkan Anak-anak yang telah terpisah dan sibuk dengan aktivitas masing-masing apalagi di Bulan Ramadhan yang biasanya padat dengan jadwal Buka Bersama dengan teman-teman lainnya.
 Namun di 2014 ini kami masih bisa menyempatkan untuk berkumpul untuk buka bersama di Cafe Comic di kawasan Tebet, dan berikut beberapa dokumentasinya :
 
-![Bukber 2014 - 1](/story/assets/img/bukber-2014-1.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/bukber-2014-1.jpg" alt="Bukber 2014 - 1" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
 <br/>
 <span class="more"></span>
 
-![Bukber 2014 - 2](/story/assets/img/bukber-2014-2.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/bukber-2014-2.jpg" alt="Bukber 2014 - 2" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Bukber 2014 - 3](/story/assets/img/bukber-2014-3.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/bukber-2014-3.jpg" alt="Bukber 2014 - 3" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Bukber 2014 - 4](/story/assets/img/bukber-2014-4.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/bukber-2014-4.jpg" alt="Bukber 2014 - 4" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Bukber 2014 - 5](/story/assets/img/bukber-2014-5.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/bukber-2014-5.jpg" alt="Bukber 2014 - 5" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Bukber 2014 - 6](/story/assets/img/bukber-2014-6.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/bukber-2014-6.jpg" alt="Bukber 2014 - 6" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>

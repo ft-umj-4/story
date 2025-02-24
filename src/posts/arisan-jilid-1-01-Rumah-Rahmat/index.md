@@ -1,6 +1,5 @@
 ---
 title: Arisan Jilid 1 - 01 - Rumah Rahmat
-author: ft-umj-iv
 date: 2015-03-23
 template: article.jade
 tags:
@@ -11,17 +10,25 @@ thumb: Arisan-Jilid-01-1.jpg
 
 Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-1 yang kita adakan di Rumah Om Rahmat Kmy, berikut beberapa dokumentasi nya :
 
-![Arisan Jilid 01 - 1](/story/assets/img/Arisan-Jilid-01-1.jpg)
-<small>_Keterangan foto : Om Lukimen sama Heri yang dapet_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-01-1.jpg" alt="Arisan Jilid 01 - 1" />
+  <figcaption>Keterangan foto : Om Lukimen sama Heri yang dapet</figcaption>
+</figure>
 
 <br/>
 <span class="more"></span>
 
-![Arisan Jilid 01 - 2](/story/assets/img/Arisan-Jilid-01-2.jpg)
-<small>_Keterangan foto : Berebut makan_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-01-2.jpg" alt="Arisan Jilid 01 - 2" />
+  <figcaption>Keterangan foto : Berebut makan</figcaption>
+</figure>
 
-![Arisan Jilid 01 - 3](/story/assets/img/Arisan-Jilid-01-3.jpg)
-<small>_Keterangan foto : Masih berebut makan_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-01-3.jpg" alt="Arisan Jilid 01 - 3" />
+  <figcaption>Keterangan foto : Masih berebut makan</figcaption>
+</figure>
 
-![Arisan Jilid 01 - 4](/story/assets/img/Arisan-Jilid-01-4.jpg)
-<small>_Keterangan foto : Bu Bendahara Emma_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-01-4.jpg" alt="Arisan Jilid 01 - 4" />
+  <figcaption>Keterangan foto : Bu Bendahara Emma</figcaption>
+</figure>

@@ -1,6 +1,5 @@
 ---
 title: Dokumentasi Arisan Jilid 2 - Kocokan ke 09 - Rumah Kusriyadi
-author: ft-umj-iv
 date: 2018-04-14
 template: article.jade
 tags:
@@ -14,15 +13,21 @@ Arisan diadakan tanggal 14 April 2018 di Rumah Kusriyadi dengan tuan rumah Kusri
 Berikut beberapa dokumentasi acaranya :
 
 
-![Arisan Jilid 09 - 1](/story/assets/img/arisan-jilid-02-kocokan-09-01.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-09-01.jpg" alt="Arisan Jilid 09 - 1" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
 <br/>
 <span class="more"></span>
 
-![Arisan Jilid 09 - 2](/story/assets/img/arisan-jilid-02-kocokan-09-02.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-09-02.jpg" alt="Arisan Jilid 09 - 2" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
-![Arisan Jilid 09 - 3](/story/assets/img/arisan-jilid-02-kocokan-09-03.jpg)
-<small>_Keterangan foto :_</small>
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-09-03.jpg" alt="Arisan Jilid 09 - 3" />
+  <figcaption>Keterangan foto :</figcaption>
+</figure>
 
