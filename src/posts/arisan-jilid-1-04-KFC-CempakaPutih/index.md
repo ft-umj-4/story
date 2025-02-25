@@ -15,8 +15,6 @@ Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-4 yang kita adakan di K
   <figcaption>Keterangan foto :</figcaption>
 </figure>
 
-<br/>
-<span class="more"></span>
 
 <figure>
   <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-04-2.jpg" alt="Arisan Jilid 04 - 2" />

@@ -15,8 +15,6 @@ Namun di 2014 ini kami masih bisa menyempatkan untuk berkumpul untuk buka bersam
   <figcaption>Keterangan foto :</figcaption>
 </figure>
 
-<br/>
-<span class="more"></span>
 
 <figure>
   <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/bukber-2014-2.jpg" alt="Bukber 2014 - 2" />

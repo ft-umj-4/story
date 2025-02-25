@@ -7,8 +7,6 @@ tags: laporan-arisan
 
 Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://www.dropbox.com/s/lqrvit24hfh3fot/Arisan%20UMJ%20TechInfo4%20Jilid%2002.xlsx?dl=0)
 
-<br/>
-<span class="more"></span>
 
 ### Update per Arisan Kocokan ke-12 :
 

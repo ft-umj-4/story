@@ -14,8 +14,6 @@ Kami beberapa kali mengadakan outing bersama-sama, berikut adalah kegiatan outin
   <figcaption>Keterangan foto : penampakan villa erika yang jadi tempat menginap</figcaption>
 </figure>
 
-<br/>
-<span class="more"></span>
 
 
 <figure>

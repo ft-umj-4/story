@@ -7,8 +7,6 @@ tags: laporan-arisan
 
 Berikut adalah beberapa ketentuan yang kita sepakati untuk arisan jilid 2 kali ini :
 
-<br/>
-<span class="more"></span>
 
 ## Anggota Arisan
 Anggota arisan lebih lengkap bisa dilihat disini :

@@ -7,8 +7,6 @@ tags: laporan-arisan
 
 Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://www.dropbox.com/s/lqrvit24hfh3fot/Arisan%20UMJ%20TechInfo4%20Jilid%2002.xlsx?dl=0), namun seperti saya juga malas memperbarui dropbox maka laporan akan saya perbarui juga di laman ini. Berikut adalah update pembayarannya sampai :
 
-<br/>
-<span class="more"></span>
 
 
 |Nama									| Arisan 		  	| Kas 			| Konsumsi 		| Tgl. Bayar	| Transfered To |

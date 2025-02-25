@@ -15,8 +15,6 @@ Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-1 yang kita adakan di R
   <figcaption>Keterangan foto : Om Lukimen sama Heri yang dapet</figcaption>
 </figure>
 
-<br/>
-<span class="more"></span>
 
 <figure>
   <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-01-2.jpg" alt="Arisan Jilid 01 - 2" />

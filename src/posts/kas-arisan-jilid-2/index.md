@@ -5,8 +5,6 @@ template: article.jade
 tags: laporan-arisan
 ---
 
-<br/>
-<span class="more"></span>
 
 |Keterangan						| Kas Masuk				| Kas Keluar				| IRFAN				    | RAHMAT    			|
 |--------------------	| ---------------	| ----------------	| ---------------	| ---------------	|

@@ -23,8 +23,6 @@ Berikut beberapa dokumentasi acaranya :
   <figcaption>Keterangan foto : Beresin masalah kocokan pertama dulu</figcaption>
 </figure>
 
-<br/>
-<span class="more"></span>
 
 
 <figure>

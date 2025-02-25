@@ -13,8 +13,6 @@ Kami beberapa kali mengadakan outing bersama-sama, berikut adalah kegiatan outin
   <figcaption>Keterangan foto : baru nyampe langsung ngumpul di teras yang mantap</figcaption>
 </figure>
 
-<br/>
-<span class="more"></span>
 
 <figure>
   <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/outing-2-1.jpg" alt="Outing Jilid 2 - 1" />

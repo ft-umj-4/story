@@ -18,8 +18,6 @@ Berikut beberapa dokumentasi acaranya :
   <figcaption>Keterangan foto :</figcaption>
 </figure>
 
-<br/>
-<span class="more"></span>
 
 <figure>
   <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-08-02.jpg" alt="Arisan Jilid 08 - 2" />

@@ -18,8 +18,6 @@ Berikut beberapa dokumentasi acaranya :
   <figcaption>Keterangan foto :</figcaption>
 </figure>
 
-<br/>
-<span class="more"></span>
 
 
 <figure>

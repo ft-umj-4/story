@@ -33,11 +33,11 @@ layout: default
     {% endif %}
   </header>
 
-  <section id="content" class="prose post-content text-slate-800 max-w-none">
+  <section id="content" class="prose dark:prose-invert post-content text-slate-800 dark:text-slate-200 max-w-none">
     {{ content | safe }}
   </section>
 
-  <footer class="flex items-center gap-2 flex-wrap my-4">
+  <footer class="flex items-center gap-2 flex-wrap py-8 border-t border-slate-200 dark:border-slate-800">
     <button
       class="btn-share text-teal-700 hover:text-white border border-teal-700 hover:bg-teal-800 focus:ring-4 focus:outline-none focus:ring-teal-300 font-medium rounded text-sm px-3 py-1.5 text-center dark:border-teal-500 dark:text-teal-500 dark:hover:text-white dark:hover:bg-teal-600 dark:focus:ring-teal-800 flex items-center gap-2"
       data-url="{{ page.url | url }}"

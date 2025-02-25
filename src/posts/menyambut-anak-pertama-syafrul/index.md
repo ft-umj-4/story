@@ -24,8 +24,6 @@ Semoga kebahagiaan ini membawa sesuatu yang baik dan baru pula bagi kami dan sem
 
 Amiin...
 
-<br/>
-<span class="more"></span>
 
 <figure>
   <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/anak-syafrul-1.jpg" alt="Anak Syafrul - 1" />

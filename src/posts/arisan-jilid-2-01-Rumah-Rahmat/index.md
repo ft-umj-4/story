@@ -17,8 +17,6 @@ Ada banyak keseruan dan obrolan, berikut adalah sedikit dokumentasi dari keserua
   <figcaption>Keterangan foto : Ma'il yang ngikut arisan</figcaption>
 </figure>
 
-<br/>
-<span class="more"></span>
 
 <figure>
   <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/arisan-jilid-02-kocokan-01-2.jpg" alt="Arisan Jilid 02 - 2" />

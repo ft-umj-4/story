@@ -20,8 +20,6 @@ Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-3 yang kita adakan di R
   <figcaption>Keterangan foto : Edy sama Snoy yang dapat</figcaption>
 </figure>
 
-<br/>
-<span class="more"></span>
 
 <figure>
   <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-03-2.jpg" alt="Arisan Jilid 03 - 2" />
