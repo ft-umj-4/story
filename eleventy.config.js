@@ -1,5 +1,4 @@
 const markdownIt = require('markdown-it');
-const UpgradeHelper = require('@11ty/eleventy-upgrade-help');
 const markdownItTableWrap = require('markdown-it-table-wrap').default;
 
 module.exports = function (eleventyConfig) {
@@ -11,9 +10,6 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.setLibrary('md', markdownIt(options));
   eleventyConfig.amendLibrary('md', (mdLib) => mdLib.use(markdownItTableWrap));
-
-  // If you have other `addPlugin` calls, UpgradeHelper should be listed last.
-  eleventyConfig.addPlugin(UpgradeHelper);
 
   eleventyConfig.addPassthroughCopy('src/assets/img/**/*');
 
