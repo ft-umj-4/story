@@ -3,9 +3,9 @@
 -%} {% for post in paged.posts %}
 <div class="w-full sm:w-1/2 md:w-1/3 self-stretch p-2 mb-2 post-card group">
   <div class="rounded-lg shadow-md h-full dark:border dark:border-slate-700">
-    <a href="{{ post.url | url }}" class="bg-center bg-cover block group h-fit max-h-[250px] overflow-clip rounded-t-lg w-fit">
+    <a href="{{ post.url | url }}" class="bg-center bg-cover block group h-fit overflow-clip rounded-t-lg w-fit aspect-[1.75]">
       <img
-        class="w-full m-0 rounded-t-lg lazy card-thumbnail aspect-[1.75] duration-300 group-hover:scale-110 h-[inherit] max-h-[inherit] object-center rounded-[inherit] transition-all"
+        class="w-full m-0 rounded-t-lg lazy card-thumbnail duration-300 group-hover:scale-110 h-[inherit] max-h-[inherit] object-center rounded-[inherit] transition-all"
         src="{{ lazyImage }}"
         data-src="{% if post.data.thumb %}{{
           post.data.thumb | url

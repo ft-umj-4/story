@@ -18,9 +18,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/assets/img/**/*');
 
   // Copy images inside posts
-  eleventyConfig.addPassthroughCopy({ 'src/posts/img/**/*': 'assets/img/' });
-  eleventyConfig.addPassthroughCopy({ 'src/posts/**/*.jpg': 'assets/img/' });
+  eleventyConfig.addPassthroughCopy({ 'src/posts/**/img/*': 'assets/img/' });
+
   eleventyConfig.addPassthroughCopy({ 'src/posts/**/*.jpeg': 'assets/img/' });
+  eleventyConfig.addPassthroughCopy({ 'src/posts/**/*.jpg': 'assets/img/' });
   eleventyConfig.addPassthroughCopy({ 'src/posts/**/*.png': 'assets/img/' });
 
   eleventyConfig.addWatchTarget('src/assets/js/');
