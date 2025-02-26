@@ -116,7 +116,7 @@ Daftar ukuran jaket
 | 12. | JOHAN          | (L)    | 🤏 Dari kas arisan | BELUM         |
 | 13. | KUSRIYADI      | (L)    | 🤏 Dari kas arisan | BELUM         |
 | 14. | LUKIMEN        | (S)    | 🤏 Dari kas arisan | BELUM         |
-| 15. | NOVAN ALI      | (L)    | 🤏 Dari kas arisan | BELUM         |
+| 15. | NOVAN ALI      | (L)    | 🤏 Dari kas arisan | ✅ SUDAH        |
 | 16. | NURUL          | (XL)   | 🤏 Dari kas arisan | BELUM         |
 | 17. | PANDU          | (L)    | 🤏 Dari kas arisan | BELUM         |
 | 18. | RAHMAT HIDAYAT | (XL)   | 🤏 Dari kas arisan | BELUM         |
