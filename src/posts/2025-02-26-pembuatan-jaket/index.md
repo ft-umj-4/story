@@ -94,7 +94,7 @@ Jaket berhasil dikirimkan ke rumah mazipan per 26 Februari 2025, dan berikut sep
   </table>
 </div>
 
-### Laporan sementara
+### Laporan Sementara
 
 Harga jaket **Rp 200.000,-** per satuan. Kami memesan sejumlah 31 pcs. Total biaya yang harus dikeluarkan **Rp 6.200.000,-**
 
@@ -133,3 +133,20 @@ Daftar ukuran jaket
 | 29. | SYARIF         | ( L )  | ✅ LUNAS           | BELUM         |
 | 30. | S              | (XXL)  | 🚫 BELUM BAYAR     | BELUM         |
 | 31. | Dodi           | (L)    | 🚫 BELUM BAYAR     | BELUM         |
+
+Keterangan tambahan:
+
+- No.1 sampai 24 ditalangi menggunakan kas arisan karena mengikuti arisan jilid 2
+- No.25 sampai 31 tidak ikut arisan jilid 2, karenanya diharapkan menambahkan pembayaran sendiri ke Sodara Syafrul.
+- Sisa kas arisan akan dialihkan semua untuk subsidi buka bersama
+- Jaket bisa diambil langsung d rumah Irfan Maulana, atau menunggu saat buka bersama
+- Bila tidak bisa hadir buka bersama dan tidak bisa melakukan pengambilan jaket, silahkan menghubungi Sodara Syafrul untuk dibantu uruskan pengiriman melalui jasa pengiriman.
+
+### Bukti pembelian jaket
+
+<figure>
+  <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/2025-02-23-nota-pembelian.jpeg" alt="Nota pembelian jaket" />
+  <figcaption>Nota pembelian jaket dari Toko Surya</figcaption>
+</figure>
+
+Semua biaya DP dan pelunasan sudah ditalangi oleh Irfan Maulana dan sudah diganti oleh Sodara Syafrul dengan uang Kas. Ada biaya tambahan pengiriman kurir tapi sudah ditalangi oleh Irfan Maulana.
