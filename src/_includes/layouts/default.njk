@@ -170,7 +170,18 @@ for keyword in site.keywords -%} {{ keyword }}{%- if not loop.last %},{% endif
     class="relative snap-y snap-mandatory overflow-x-hidden bg-white text-gray-900 dark:bg-gray-900 dark:text-white flex flex-col h-screen break-words"
   >
     {% include "partials/header.njk" %}
-    <main class="mx-7 lg:mx-6 mt-32 flex-grow">
+    <div
+      class="absolute -top-[50px] -z-10 h-screen w-screen max-w-full overflow-hidden"
+    >
+      <div
+        class="absolute -top-[50px] left-[0px] -z-10 h-[275px] w-[275px] rotate-[-20deg] rounded-full bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500 opacity-40 blur-[60px] delay-1000 duration-700 ease-in-out motion-safe:animate-pulse"
+      ></div>
+      <div
+        class="absolute top-[130px] left-[140px] -z-10 h-[350px] w-[350px] rotate-[-20deg] rounded-full bg-gradient-to-r from-green-300 via-yellow-300 to-pink-300 opacity-40 blur-[60px] delay-1000 duration-700 ease-in-out motion-safe:animate-pulse"
+      ></div>
+    </div>
+
+    <main class="relative mx-7 lg:mx-6 mt-32 flex-grow">
       {% if layout === "post" %}
       {{ content | safe }}
       {% else %}
@@ -179,6 +190,18 @@ for keyword in site.keywords -%} {{ keyword }}{%- if not loop.last %},{% endif
       </div>
       {% endif %}
     </main>
+
+    <!-- <div
+      class="absolute bottom-[50px] -z-10 h-screen w-screen max-w-full overflow-hidden"
+    >
+      <div
+        class="absolute bottom-[50px] right-[0px] -z-10 h-[275px] w-[275px] rotate-[-20deg] rounded-full bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500 opacity-40 blur-[60px] delay-1000 duration-700 ease-in-out motion-safe:animate-pulse"
+      ></div>
+      <div
+        class="absolute bottom-[130px] right-[140px] -z-10 h-[350px] w-[350px] rotate-[-20deg] rounded-full bg-gradient-to-r from-green-300 via-yellow-300 to-pink-300 opacity-40 blur-[60px] delay-1000 duration-700 ease-in-out motion-safe:animate-pulse"
+      ></div>
+    </div> -->
+
     {% include "partials/footer.njk" %}
     <script src="{{ '/assets/js/bundle.js' | url }}"></script>
 
