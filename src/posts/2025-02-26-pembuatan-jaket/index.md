@@ -21,7 +21,7 @@ Akhirnya pada 23 Februari 2025, Bang Umar, Kholis dan mazipan bertiga mengunjung
 <div class="table-responsive-compact !m-0">
   <table class="table !m-0">
     <tbody>
-      <tr>
+      <tr class="!border-none">
         <td class="!p-1">
           <figure>
             <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/2025-02-23-kholis-nyobain-jaket-biru.jpeg" alt="Kholis nyobain jaket biru dongker" />
@@ -35,7 +35,7 @@ Akhirnya pada 23 Februari 2025, Bang Umar, Kholis dan mazipan bertiga mengunjung
           </figure>
         </td>
       </tr>
-      <tr>
+      <tr class="!border-none">
         <td class="!p-1">
           <figure>
             <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/2025-02-23-mazipan-nyobain-jaket-biru.jpeg" alt="mazipan nyobain jaket biru dongker" />
@@ -49,7 +49,7 @@ Akhirnya pada 23 Februari 2025, Bang Umar, Kholis dan mazipan bertiga mengunjung
           </figure>
         </td>
       </tr>
-      <tr>
+      <tr class="!border-none">
         <td class="!p-1" colspan="2">
           <figure>
             <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/2025-02-23-tim-investigasi-mampir-makan.jpeg" alt="Tim investigasi mampir makan dulu" />
@@ -68,7 +68,7 @@ Jaket berhasil dikirimkan ke rumah mazipan per 26 Februari 2025, dan berikut sep
 <div class="table-responsive-compact !m-0">
   <table class="table !m-0">
     <tbody>
-      <tr>
+      <tr class="!border-none">
         <td class="!p-1">
           <figure>
             <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/2025-02-26-tampak-depan.jpeg" alt="Penampakan jaket dari depan" />
@@ -82,7 +82,7 @@ Jaket berhasil dikirimkan ke rumah mazipan per 26 Februari 2025, dan berikut sep
           </figure>
         </td>
       </tr>
-      <tr>
+      <tr class="!border-none">
         <td class="!p-1" colspan="2">
           <figure>
             <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/2025-02-26-tampak-bordir.jpeg" alt="Penampakan bordir depan" />
