@@ -8,7 +8,7 @@ tags:
 thumb: Arisan-Jilid-08-6.jpg
 ---
 
-Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-8 yang kita adakan di kediaaman Om Pandu dan Yanti, berikut beberapa dokumentasi yang kita kupulkan :
+Ini adalah dokumentasi dari Arisan Jilid satu kocokan ke-8 yang kita adakan di kediaaman Om Pandu dan Yanti, berikut beberapa dokumentasi yang kita kumpulkan:
 
 <figure>
   <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/Arisan-Jilid-08-1.jpg" alt="Arisan Jilid 08 - 1" />

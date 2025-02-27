@@ -5,6 +5,7 @@ template: article.jade
 tags:
  - arisan
  - arisan-jilid-1
+ - bukber
 thumb: Arisan-Jilid-05-1.jpg
 ---
 
