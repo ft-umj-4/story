@@ -10,39 +10,21 @@ permalink: '{% if paged.number > 1 %}page/{{ paged.number }}/{% endif %}index.ht
 {% if paged.first %}
 <!-- Hero section --start  -->
 <section id="hero" class="relative">
-  <svg
-    aria-hidden="true"
-    class="pointer-events-none absolute inset-0 h-full w-full fill-gray-400/30 stroke-gray-400/30 [mask-image:linear-gradient(to_bottom_right,white,transparent,transparent)]"
-  >
-    <defs>
-      <pattern
-        id=":r3g:"
-        width="20"
-        height="20"
-        patternUnits="userSpaceOnUse"
-        x="-1"
-        y="-1"
-      >
-        <path d="M.5 20V.5H20" fill="none" stroke-dasharray="0"></path>
-      </pattern>
-    </defs>
-    <rect width="100%" height="100%" stroke-width="0" fill="url(#:r3g:)"></rect>
-  </svg>
   <div
     class="relative mx-auto grid max-w-6xl px-4 py-8 lg:grid-cols-12 lg:gap-8 lg:py-28"
   >
     <div class="mr-auto place-self-center lg:col-span-7">
       <h1
-        class="mb-4 max-w-2xl  leading-none font-extrabold tracking-tight  dark:text-white"
+        class="mb-4 max-w-2xl leading-none font-extrabold tracking-tight  dark:text-white"
       >
-        <span class="text-4xl md:text-5xl xl:text-6xl">Alumni FTUMJ</span>
+        <span class="text-4xl md:text-5xl xl:text-6xl">Alumni <span class="text-teal-700 dark:text-teal-600">FT UMJ</span></span>
         <br/>
-        <span class="text-2xl md:text-3xl xl:text-4xl">Angkatan IV Tahun 2009</span>
+        <span class="text-2xl md:text-3xl xl:text-4xl text-slate-700 dark:text-slate-200">Angkatan IV - Tahun 2009</span>
       </h1>
       <p
         class="mb-6 max-w-2xl font-light text-gray-500 md:text-lg lg:mb-8 lg:text-xl dark:text-gray-200"
       >
-        Kumpulan cerita, dokumentasi kegiatan dan berbagai informasi terkait Alumni FTUMJ Angkatan IV Tahun 2009.
+        Kumpulan berbagai cerita, dokumentasi dan laporan kegiatan serta informasi terkait Alumni FT UMJ Angkatan IV Tahun 2009.
       </p>
       <!--
       <a
@@ -71,14 +53,15 @@ permalink: '{% if paged.number > 1 %}page/{{ paged.number }}/{% endif %}index.ht
       </a> -->
     </div>
     <div
-      class="relative hidden justify-end rounded-3xl lg:col-span-5 lg:mt-0 lg:flex"
+      class="relative flex justify-end rounded-3xl lg:col-span-5 lg:mt-0"
     >
       <div
         class="absolute top-[0] -right-[200px] -z-10 h-[267px] w-[267px] rotate-[-20deg] rounded-full bg-gradient-to-r from-green-200 via-green-300 to-blue-500 opacity-40 blur-[60px] delay-1000 duration-700 ease-in-out motion-safe:animate-pulse"
       ></div>
       <div
-        class="absolute top-[200px] right-[100px] -z-10 h-[267px] w-[267px] rotate-[-20deg] rounded-full bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 opacity-40 blur-[60px] delay-1000 duration-700 ease-in-out motion-safe:animate-pulse"
+        class="absolute top-[200px] -right-[150px] -z-10 h-[350px] w-[350px] rotate-[-20deg] rounded-full bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 opacity-40 blur-[100px] delay-1000 duration-700 ease-in-out motion-safe:animate-pulse"
       ></div>
+      <img src="/story/assets/img/hero-image-01.png" alt="Para Pasukan FT-UMJ IV" />
     </div>
   </div>
 </section>

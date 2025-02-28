@@ -169,15 +169,38 @@ for keyword in site.keywords -%} {{ keyword }}{%- if not loop.last %},{% endif
   <body
     class="relative snap-y snap-mandatory overflow-x-hidden bg-white text-gray-900 dark:bg-gray-900 dark:text-white flex flex-col h-screen break-words"
   >
+    <svg
+      aria-hidden="true"
+      class="pointer-events-none absolute inset-0 h-full w-full fill-gray-400/30 stroke-gray-400/30 [mask-image:linear-gradient(to_bottom_right,white,transparent,transparent)]"
+    >
+      <defs>
+        <pattern
+          id=":r3g:"
+          width="20"
+          height="20"
+          patternUnits="userSpaceOnUse"
+          x="-1"
+          y="-1"
+        >
+          <path d="M.5 20V.5H20" fill="none" stroke-dasharray="0"></path>
+        </pattern>
+      </defs>
+      <rect
+        width="100%"
+        height="100%"
+        stroke-width="0"
+        fill="url(#:r3g:)"
+      ></rect>
+    </svg>
     {% include "partials/header.njk" %}
     <div
-      class="absolute -top-[50px] -z-10 h-screen w-screen max-w-full overflow-hidden"
+      class="absolute -top-[50px] left-0 -z-10 h-screen w-[150%] overflow-hidden"
     >
       <div
-        class="absolute -top-[50px] left-[0px] -z-10 h-[275px] w-[275px] rotate-[-20deg] rounded-full bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500 opacity-40 blur-[60px] delay-1000 duration-700 ease-in-out motion-safe:animate-pulse"
+        class="absolute -top-[50px] left-[0px] -z-10 h-[275px] w-[275px] rotate-[-20deg] rounded-full bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500 opacity-40 blur-[60px] delay-1000 duration-700 ease-in-out motion-safe:delay-500 motion-safe:animate-pulse"
       ></div>
       <div
-        class="absolute top-[130px] left-[140px] -z-10 h-[350px] w-[350px] rotate-[-20deg] rounded-full bg-gradient-to-r from-green-300 via-yellow-300 to-pink-300 opacity-40 blur-[60px] delay-1000 duration-700 ease-in-out motion-safe:animate-pulse"
+        class="absolute top-[130px] left-[140px] -z-10 h-[350px] w-[350px] rotate-[-20deg] rounded-full bg-gradient-to-r from-green-300 via-yellow-300 to-pink-300 opacity-40 blur-[60px] delay-1000 duration-700 ease-in-out motion-safe:delay-1000 motion-safe:animate-pulse"
       ></div>
     </div>
 
@@ -189,20 +212,24 @@ for keyword in site.keywords -%} {{ keyword }}{%- if not loop.last %},{% endif
         {{ content | safe }}
       </div>
       {% endif %}
+
+      <div
+        class="absolute -bottom-[100px] -left-[30px] lg:-left-[0px] lg:-right-[100px] -z-10 h-screen w-screen max-w-full overflow-hidden"
+      >
+        <div
+          class="absolute bottom-[100px] right-[100px] -z-10 h-[275px] w-[275px] rotate-[-20deg] rounded-full bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500 blur-[60px] opacity-40 delay-1000 duration-700 ease-in-out motion-safe:delay-700 motion-safe:animate-pulse"
+        ></div>
+        <div
+          class="absolute bottom-[350px] right-[140px] -z-10 h-[350px] w-[350px] rotate-[-20deg] rounded-full bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 blur-[100px] opacity-40 delay-1000 duration-700 ease-in-out motion-safe:delay-1000 motion-safe:animate-pulse"
+        ></div>
+        <div
+        class="absolute bottom-[150px] right-[400px] -z-10 h-[267px] w-[267px] rotate-[-20deg] rounded-full bg-gradient-to-r from-green-200 via-green-300 to-blue-500 opacity-40 blur-[60px] delay-1000 duration-700 ease-in-out motion-safe:delay-500 motion-safe:animate-pulse"
+      ></div>
+      </div>
     </main>
 
-    <!-- <div
-      class="absolute bottom-[50px] -z-10 h-screen w-screen max-w-full overflow-hidden"
-    >
-      <div
-        class="absolute bottom-[50px] right-[0px] -z-10 h-[275px] w-[275px] rotate-[-20deg] rounded-full bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500 opacity-40 blur-[60px] delay-1000 duration-700 ease-in-out motion-safe:animate-pulse"
-      ></div>
-      <div
-        class="absolute bottom-[130px] right-[140px] -z-10 h-[350px] w-[350px] rotate-[-20deg] rounded-full bg-gradient-to-r from-green-300 via-yellow-300 to-pink-300 opacity-40 blur-[60px] delay-1000 duration-700 ease-in-out motion-safe:animate-pulse"
-      ></div>
-    </div> -->
-
     {% include "partials/footer.njk" %}
+
     <script src="{{ '/assets/js/bundle.js' | url }}"></script>
 
     <script
