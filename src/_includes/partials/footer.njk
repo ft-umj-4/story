@@ -39,19 +39,23 @@
     </p>
 
     <p>
-      Made by
+      Made with <a class="font-medium hover:underline" href="https://www.11ty.dev" target="_blank" rel="noopener">11ty</a> by
       <a class="font-medium hover:underline" href="{{ author.homepage | url }}" target="_blank" rel="noopener">{{
         author.name
       }}</a>
+    </p>
+    <p>
+      <small>Latest update: {% currentBuildDate %}</small>
+		  <!-- This page `{{ page.url }}` was built on {% currentBuildDate %} -->
     </p>
   </div>
 </footer>
 
 <!-- Floating Button --start -->
-<div class="fixed right-3 bottom-10">
+<div class="fixed right-6 bottom-10">
   <button
     role="button"
-    class="flex h-12 w-12 cursor-pointer items-center justify-center rounded-full bg-teal-700 dark:bg-teal-600 dark:text-white"
+    class="flex h-12 w-12 cursor-pointer items-center justify-center rounded-full bg-teal-700 dark:bg-teal-600 text-white"
     id="toggle-theme"
   >
     <!-- Moon Icon --start -->
@@ -61,7 +65,7 @@
       viewBox="0 0 24 24"
       stroke-width="1.5"
       stroke="currentColor"
-      class="h-[1.2rem] w-[1.2rem] scale-100 rotate-0 transition-all dark:scale-0 dark:-rotate-90"
+      class="h-[1.2rem] w-[1.2rem] scale-100 rotate-0 transition-all duration-500 dark:scale-0 dark:-rotate-180"
     >
       <path
         stroke-linecap="round"
@@ -78,7 +82,7 @@
       viewBox="0 0 24 24"
       stroke-width="1.5"
       stroke="currentColor"
-      class="absolute h-[1.3rem] w-[1.3rem] scale-0 rotate-90 transition-all dark:scale-100 dark:rotate-0"
+      class="absolute h-[1.3rem] w-[1.3rem] scale-0 rotate-180 transition-all duration-500 dark:scale-100 dark:rotate-0"
     >
       <path
         stroke-linecap="round"

@@ -1,5 +1,5 @@
 ---
-title: Pambuatan Jaket Alumni FT-UMJ IV
+title: Pembuatan Jaket Alumni FT-UMJ IV
 date: 2025-02-26
 template: article.jade
 tags:

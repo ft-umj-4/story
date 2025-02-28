@@ -5,6 +5,7 @@ pagination:
   size: 1
   alias: paged
 permalink: '{% if paged.number > 1 %}page/{{ paged.number }}/{% endif %}index.html'
+withStep: true
 ---
 
 {% if paged.first %}
@@ -56,19 +57,25 @@ permalink: '{% if paged.number > 1 %}page/{{ paged.number }}/{% endif %}index.ht
       class="relative flex justify-end rounded-3xl lg:col-span-5 lg:mt-0"
     >
       <div
-        class="absolute top-[0] -right-[200px] -z-10 h-[267px] w-[267px] rotate-[-20deg] rounded-full bg-gradient-to-r from-green-200 via-green-300 to-blue-500 opacity-40 blur-[60px] delay-1000 duration-700 ease-in-out motion-safe:animate-pulse"
+        class="absolute top-[0] lg:-right-[200px] -z-10 h-[100px] w-[100px] lg:h-[267px] lg:w-[267px] rotate-[-20deg] rounded-full bg-gradient-to-r from-green-200 via-green-300 to-blue-500 opacity-40 blur-[60px] delay-1000 duration-700 ease-in-out motion-safe:animate-pulse"
       ></div>
       <div
-        class="absolute top-[200px] -right-[150px] -z-10 h-[350px] w-[350px] rotate-[-20deg] rounded-full bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 opacity-40 blur-[100px] delay-1000 duration-700 ease-in-out motion-safe:animate-pulse"
+        class="absolute top-[200px] lg:-right-[150px] -z-10 h-[100px] w-[100px] lg:h-[350px] lg:w-[350px] rotate-[-20deg] rounded-full bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 opacity-40 blur-[100px] delay-1000 duration-700 ease-in-out motion-safe:animate-pulse"
       ></div>
       <img src="/story/assets/img/hero-image-01.png" alt="Para Pasukan FT-UMJ IV" />
     </div>
   </div>
 </section>
 <!-- Hero section --end  -->
+{% else %}
+<div class="relative mx-auto max-w-6xl px-4 py-8 lg:py-12 text-center space-y-4">
+  <h1 class="text-4xl md:text-5xl xl:text-6xl leading-none font-extrabold tracking-tight dark:text-white text-center font-serif">Blog Posts</h1>
+  <h3 class="text-xl font-medium text-slate-700 my-0 dark:text-slate-300">Page #{{pagination.pageNumber + 1}}</h3>
+</div>
 {% endif %}
 
 <div class="flex flex-wrap -mx-2">{% include "partials/post-grid.njk" %}</div>
 
-{% if collections.posts.length > site.paginate %} {% include
-"partials/paginator.njk" %} {% endif %}
+{% if collections.posts.length > site.paginate %}
+  {% include "partials/paginator.njk" %}
+{% endif %}
