@@ -34,7 +34,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 | SUYATNO - SNOY 			| - 			  		            | -        		|
 | SYAFRUL 					  | - 			  		            | -        		|
 | TANDRI 					    | - 			  		            | -        		|
-| UMAR 						    | 11, 12		 						    | ~~300.000~~  **LUNAS**		|
+| UMAR 						    | ~~11, 12~~		 						    | ~~300.000~~  **LUNAS**		|
 | YUNUS 					    | - 			  		            | -        		|
 
 ## Transfer Uang Arisan
