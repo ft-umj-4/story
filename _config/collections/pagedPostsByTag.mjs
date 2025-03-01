@@ -1,4 +1,4 @@
-import siteData from '../../src/_data/site';
+import siteData from '../../src/_data/site.mjs';
 import tagList from './tagList.mjs';
 
 export default function (coll) {
