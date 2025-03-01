@@ -6,7 +6,7 @@ import utc from 'dayjs/plugin/utc';
 dayjs.extend(utc);
 
 
-export default function (eleventyConfig, pluginOptions) {
+export default async function (eleventyConfig, pluginOptions) {
   eleventyConfig.addFilter('readableDate', function (date) {
     return dayjs(date).utc().format('D MMMM YYYY');
   });

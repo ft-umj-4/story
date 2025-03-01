@@ -1,5 +1,7 @@
 # Blog for Alumni FT UMJ - P2K - Angkatan ke-4 Tahun 2009
 
+[![publish](https://github.com/ft-umj-4/story/actions/workflows/publish.yml/badge.svg)](https://github.com/ft-umj-4/story/actions/workflows/publish.yml)
+
 [🌎 Live](https://ft-umj-4.github.io/story/)
 
 ## Content Update

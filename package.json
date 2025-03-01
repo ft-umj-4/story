@@ -10,8 +10,8 @@
     "serve": "concurrently -c auto \"bun:css:watch\" \"bun:11ty:serve\"",
     "build": "bun run css:build && bun run 11ty:build",
     "debug": "DEBUG=Eleventy* bun run build",
-    "11ty:watch": "NODE_ENV=development eleventy --watch --incremental",
-    "11ty:serve": "NODE_ENV=development eleventy --serve --incremental",
+    "11ty:watch": "NODE_ENV=development eleventy --watch --incremental --quiet",
+    "11ty:serve": "NODE_ENV=development eleventy --serve --incremental --quiet",
     "11ty:build": "NODE_ENV=production eleventy",
     "css:watch": "bunx @tailwindcss/cli -i src/assets/css/main.css -o dist/assets/css/main.css -w",
     "css:build": "bunx @tailwindcss/cli -i src/assets/css/main.css -o dist/assets/css/main.css -m"
