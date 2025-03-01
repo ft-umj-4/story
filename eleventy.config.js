@@ -2,13 +2,13 @@ import markdownItTableWrap from 'markdown-it-table-wrap';
 import MarkdownIt from 'markdown-it';
 import util from 'node:util';
 
-import { minifyHtml } from './lib/transforms/minifyHtml';
-import { readableDate } from './lib/filters/readableDate';
-import { minifyJs } from './lib/filters/minifyJs';
-import { posts } from './lib/collections/posts';
-import { tagList } from './lib/collections/tagList';
-import { pagedPostByTag } from './lib/collections/pagedPostsByTag';
-import { pagedPost } from './lib/collections/pagedPosts';
+import { minifyHtml } from './_config/transforms/minifyHtml';
+import { readableDate } from './_config/filters/readableDate';
+import { minifyJs } from './_config/filters/minifyJs';
+import { posts } from './_config/collections/posts';
+import { tagList } from './_config/collections/tagList';
+import { pagedPostByTag } from './_config/collections/pagedPostsByTag';
+import { pagedPost } from './_config/collections/pagedPosts';
 
 export default function (eleventyConfig) {
   let options = {
@@ -31,6 +31,11 @@ export default function (eleventyConfig) {
 
   eleventyConfig.addLayoutAlias('default', 'layouts/default.njk');
   eleventyConfig.addLayoutAlias('post', 'layouts/post.njk');
+
+  eleventyConfig.addCollection('posts', posts);
+  eleventyConfig.addCollection('tagList', tagList);
+  eleventyConfig.addCollection('pagedPosts', pagedPost);
+  eleventyConfig.addCollection('pagedPostsByTag', pagedPostByTag);
 
   eleventyConfig.addFilter('console', function (value) {
     const str = util.inspect(value);
@@ -71,11 +76,6 @@ export default function (eleventyConfig) {
   eleventyConfig.addAsyncFilter('minifyJs', minifyJs);
 
   eleventyConfig.addTransform('minifyHtml', minifyHtml);
-
-  eleventyConfig.addCollection('posts', posts);
-  eleventyConfig.addCollection('tagList', tagList);
-  eleventyConfig.addCollection('pagedPosts', pagedPost);
-  eleventyConfig.addCollection('pagedPostsByTag', pagedPostByTag);
 
   eleventyConfig.addShortcode('currentBuildDate', () => {
     return new Date().toISOString();
