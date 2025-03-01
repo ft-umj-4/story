@@ -2,7 +2,7 @@ import markdownItTableWrap from 'markdown-it-table-wrap';
 import MarkdownIt from 'markdown-it';
 import { minify } from 'html-minifier';
 
-import filterPlugin from './_config/filters/filterPlugin';
+import filterPlugin from './_config/filters/filterPlugin.mjs';
 
 import posts from './_config/collections/posts';
 import tagList from './_config/collections/tagList';
