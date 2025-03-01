@@ -1,7 +1,7 @@
 import markdownItTableWrap from 'markdown-it-table-wrap';
 import MarkdownIt from 'markdown-it';
+import { minify } from 'html-minifier';
 
-import { minifyHtml } from './_config/transforms/minifyHtml';
 import filterPlugin from './_config/filters/filterPlugin';
 
 import posts from './_config/collections/posts';
@@ -43,7 +43,17 @@ export default function (eleventyConfig) {
     return new Date().toISOString();
   });
 
-  eleventyConfig.addTransform('minifyHtml', minifyHtml);
+  eleventyConfig.addTransform('minifyHtml', (content, outputPath) => {
+    if (process.env.NODE_ENV === 'production' && outputPath.endsWith('.html')) {
+      return minify(content, {
+        useShortDoctype: true,
+        removeComments: true,
+        collapseWhitespace: true,
+      });
+    }
+
+    return content;
+  });
 
   return {
     dir: {
