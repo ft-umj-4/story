@@ -1,4 +1,4 @@
-import posts from './posts';
+import posts from './posts.mjs';
 
 function fromEntries(iterable) {
   return [...iterable].reduce((obj, [key, val]) => {

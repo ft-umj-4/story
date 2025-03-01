@@ -4,10 +4,10 @@ import { minify } from 'html-minifier';
 
 import filterPlugin from './_config/filters/filterPlugin.mjs';
 
-import posts from './_config/collections/posts';
-import tagList from './_config/collections/tagList';
-import pagedPostByTag from './_config/collections/pagedPostsByTag';
-import pagedPost from './_config/collections/pagedPosts';
+import posts from './_config/collections/posts.mjs';
+import tagList from './_config/collections/tagList.mjs';
+import pagedPostByTag from './_config/collections/pagedPostsByTag.mjs';
+import pagedPost from './_config/collections/pagedPosts.mjs';
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function(eleventyConfig) {

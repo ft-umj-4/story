@@ -1,5 +1,5 @@
 import siteData from '../../src/_data/site';
-import tagList from './tagList';
+import tagList from './tagList.mjs';
 
 export default function (coll) {
   const allTagList = tagList(coll);

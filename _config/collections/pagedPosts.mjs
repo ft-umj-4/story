@@ -1,5 +1,5 @@
 import siteData from '../../src/_data/site';
-import posts from './posts';
+import posts from './posts.mjs';
 
 export default function (coll) {
   const allPosts = posts(coll);
