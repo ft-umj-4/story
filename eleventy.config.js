@@ -1,7 +1,7 @@
 import markdownItTableWrap from 'markdown-it-table-wrap';
 import MarkdownIt from 'markdown-it';
 
-import minifyHtml from './_config/transforms/minifyHtml';
+import { minifyHtml } from './_config/transforms/minifyHtml';
 import filterPlugin from './_config/filters/filterPlugin';
 
 import posts from './_config/collections/posts';
@@ -9,8 +9,9 @@ import tagList from './_config/collections/tagList';
 import pagedPostByTag from './_config/collections/pagedPostsByTag';
 import pagedPost from './_config/collections/pagedPosts';
 
+/** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default function (eleventyConfig) {
-  let options = {
+  const options = {
     html: true,
     breaks: true,
     linkify: true,
@@ -38,11 +39,11 @@ export default function (eleventyConfig) {
 
   eleventyConfig.addPlugin(filterPlugin);
 
-  eleventyConfig.addTransform('minifyHtml', minifyHtml);
-
   eleventyConfig.addShortcode('currentBuildDate', () => {
     return new Date().toISOString();
   });
+
+  eleventyConfig.addTransform('minifyHtml', minifyHtml);
 
   return {
     dir: {

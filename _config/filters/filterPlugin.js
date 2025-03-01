@@ -1,11 +1,31 @@
 import util from 'node:util';
+import { minify } from 'terser';
 
-import minifyJs from './minifyJs';
-import readableDate from './readableDate';
+import dayjs from 'dayjs';
+import utc from 'dayjs/plugin/utc';
+dayjs.extend(utc);
+
 
 export default function (eleventyConfig, pluginOptions) {
-  eleventyConfig.addFilter('readableDate', readableDate);
-  eleventyConfig.addAsyncFilter('minifyJs', minifyJs);
+  eleventyConfig.addFilter('readableDate', function (date) {
+    return dayjs(date).utc().format('D MMMM YYYY');
+  });
+
+  eleventyConfig.addAsyncFilter('minifyJs', async function (code) {
+    if (process.env.NODE_ENV === 'production') {
+      const minified = await minify(code);
+
+      if (minified.error) {
+        console.error('Terser error: ', minified.error);
+
+        return code;
+      }
+
+      return minified.code;
+    }
+
+    return code;
+  });
 
   eleventyConfig.addFilter('console', function (value) {
     const str = util.inspect(value);
