@@ -143,3 +143,5 @@ document.addEventListener('DOMContentLoaded', () => {
   setupLazyImage();
   setupShareEvent();
 });
+
+window.setupLazyImage = setupLazyImage;

@@ -2,7 +2,7 @@ function randomChoice(arr) {
   return arr[Math.floor(Math.random() * arr.length)];
 }
 
-module.exports = {
+export default {
   layout: 'post',
   title: 'Untitled',
   eleventyComputed: {

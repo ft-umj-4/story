@@ -6,6 +6,11 @@ permalink: "/index.json"
     {
         "url": "{{ post.url | url }}",
         "title": "{{ post.data.title }}",
+        "thumb": "{% if post.data.thumb %}{{
+            post.data.thumb | url
+          }}{% else %}{{ '/assets/img/no-image.svg' | url }}{% endif %}",
+        "tags": [{% for tag in post.data.tags %}"{{ tag }}" {% if not loop.last %},{% endif %} {% endfor %}],
+        "description": "{{ post.templateContent | striptags | truncate(90, true) }}",
         "date": "{{ post.data.page.date | readableDate }}"
     }{% if not loop.last %},{% endif %}
     {% endfor %}

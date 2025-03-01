@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   title: 'FT UMJ IV',
   description: 'Alumni FT UMJ IV P2K - Angkatan Tahun 2009 - Jurusan Teknik Informatika',
   keywords: ['eleventy', 'template', 'simple', 'clean'],
