@@ -1,7 +1,7 @@
-import siteData from '../../src/_data/site'
-import { posts } from './posts'
+import siteData from '../../src/_data/site';
+import posts from './posts';
 
-export function pagedPost(coll) {
+export default function (coll) {
   const allPosts = posts(coll);
 
   const maxPostsPerPage = siteData.paginate;
@@ -16,9 +16,9 @@ export function pagedPost(coll) {
       number: pageNum,
       posts: allPosts.slice(sliceFrom, sliceTo),
       first: pageNum === 1,
-      last: pageNum === numberOfPages
+      last: pageNum === numberOfPages,
     });
   }
 
   return pagedPosts;
-};
+}

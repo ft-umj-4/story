@@ -1,4 +1,4 @@
-import { posts } from './posts';
+import posts from './posts';
 
 function fromEntries(iterable) {
   return [...iterable].reduce((obj, [key, val]) => {
@@ -15,7 +15,7 @@ function fromEntries(iterable) {
 }
 */
 
-export function tagList(coll) {
+export default function (coll) {
   const allPosts = posts(coll);
 
   const tagListArr = allPosts

@@ -1,14 +1,13 @@
 import markdownItTableWrap from 'markdown-it-table-wrap';
 import MarkdownIt from 'markdown-it';
-import util from 'node:util';
 
-import { minifyHtml } from './_config/transforms/minifyHtml';
-import { readableDate } from './_config/filters/readableDate';
-import { minifyJs } from './_config/filters/minifyJs';
-import { posts } from './_config/collections/posts';
-import { tagList } from './_config/collections/tagList';
-import { pagedPostByTag } from './_config/collections/pagedPostsByTag';
-import { pagedPost } from './_config/collections/pagedPosts';
+import minifyHtml from './_config/transforms/minifyHtml';
+import filterPlugin from './_config/filters/filterPlugin';
+
+import posts from './_config/collections/posts';
+import tagList from './_config/collections/tagList';
+import pagedPostByTag from './_config/collections/pagedPostsByTag';
+import pagedPost from './_config/collections/pagedPosts';
 
 export default function (eleventyConfig) {
   let options = {
@@ -37,43 +36,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addCollection('pagedPosts', pagedPost);
   eleventyConfig.addCollection('pagedPostsByTag', pagedPostByTag);
 
-  eleventyConfig.addFilter('console', function (value) {
-    const str = util.inspect(value);
-    return `<div style="white-space: pre-wrap;">${unescape(str)}</div>;`;
-  });
-
-  // Get the first `n` elements of a collection.
-  eleventyConfig.addFilter('head', (array, n) => {
-    if (!Array.isArray(array) || array.length === 0) {
-      return [];
-    }
-    if (n < 0) {
-      return array.slice(n);
-    }
-
-    return array.slice(0, n);
-  });
-
-  // Return the smallest number argument
-  eleventyConfig.addFilter('min', (...numbers) => {
-    return Math.min.apply(null, numbers);
-  });
-
-  // Return the keys used in an object
-  eleventyConfig.addFilter('getKeys', (target) => {
-    return Object.keys(target);
-  });
-
-  eleventyConfig.addFilter('filterTagList', function filterTagList(tags) {
-    return (tags || []).filter((tag) => ['all', 'posts'].indexOf(tag) === -1);
-  });
-
-  eleventyConfig.addFilter('sortAlphabetically', (strings) =>
-    (strings || []).sort((b, a) => b.localeCompare(a))
-  );
-
-  eleventyConfig.addFilter('readableDate', readableDate);
-  eleventyConfig.addAsyncFilter('minifyJs', minifyJs);
+  eleventyConfig.addPlugin(filterPlugin);
 
   eleventyConfig.addTransform('minifyHtml', minifyHtml);
 

@@ -1,6 +1,6 @@
 import { minify } from 'terser';
 
-export async function minifyJs(code) {
+export default async function (code) {
   if (process.env.NODE_ENV === 'production') {
     const minified = await minify(code);
 

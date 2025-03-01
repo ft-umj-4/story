@@ -1,7 +1,7 @@
-import siteData from '../../src/_data/site'
-import { tagList } from './tagList'
+import siteData from '../../src/_data/site';
+import tagList from './tagList';
 
-export function pagedPostByTag(coll) {
+export default function (coll) {
   const allTagList = tagList(coll);
 
   const maxPostsPerPage = siteData.paginateTags;
@@ -20,10 +20,10 @@ export function pagedPostByTag(coll) {
         number: pageNum,
         posts: taggedPosts.slice(sliceFrom, sliceTo),
         first: pageNum === 1,
-        last: pageNum === numberOfPages
+        last: pageNum === numberOfPages,
       });
     }
   });
 
   return pagedPosts;
-};
+}
