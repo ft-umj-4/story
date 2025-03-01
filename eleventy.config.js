@@ -10,7 +10,7 @@ import pagedPostByTag from './_config/collections/pagedPostsByTag';
 import pagedPost from './_config/collections/pagedPosts';
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
-export default function (eleventyConfig) {
+export default async function(eleventyConfig) {
   const options = {
     html: true,
     breaks: true,
