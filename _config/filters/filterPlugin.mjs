@@ -2,13 +2,10 @@ import util from 'node:util';
 import { minify } from 'terser';
 
 import dayjs from 'dayjs';
-import utc from 'dayjs/esm/plugin/utc/index.js';
-dayjs.extend(utc);
-
 
 export default async function (eleventyConfig, pluginOptions) {
   eleventyConfig.addFilter('readableDate', function (date) {
-    return dayjs(date).utc().format('D MMMM YYYY');
+    return dayjs(date).format('D MMMM YYYY');
   });
 
   eleventyConfig.addAsyncFilter('minifyJs', async function (code) {
