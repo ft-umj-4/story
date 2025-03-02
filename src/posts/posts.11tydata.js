@@ -14,14 +14,30 @@ export default {
         }
         return `/assets/img/${data.thumb}`;
       } else if (
-        data.title.includes('Laporan') ||
-        data.title.includes('Rincian Pengeluaran')
+        data.title.toLowerCase().includes('tunggakan')
       ) {
         return randomChoice([
-          `/assets/img/pexels-goumbik-590016.jpg`,
-          `/assets/img/pexels-asphotograpy-95916.jpg`,
+          `/assets/img/pexels-nicola-barts-7927424.jpg`
         ]);
-      } else if (data.title.includes('Daftar Anggota')) {
+      } else if (
+        data.title.toLowerCase().includes('rincian pengeluaran')
+      ) {
+        return randomChoice([
+          `/assets/img/pexels-ron-lach-10365936.jpg`
+        ]);
+      } else if (
+        data.title.toLowerCase().includes('laporan arisan jilid 02')
+      ) {
+        return randomChoice([
+          `/assets/img/pexels-goumbik-590016.jpg`
+        ]);
+      } else if (
+        data.title.toLowerCase().includes('laporan')
+      ) {
+        return randomChoice([
+          `/assets/img/pexels-asphotograpy-95916.jpg`
+        ]);
+      } else if (data.title.toLowerCase().includes('daftar anggota')) {
         return randomChoice([`/assets/img/pexels-jibarofoto-2014773.jpg`]);
       }
 
