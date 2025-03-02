@@ -9,7 +9,7 @@ tags:
 thumb: arisan-jilid-02-kocokan-10-01.jpg
 ---
 
-Arisan diadakan tanggal 19 May 2018 di Bebek Kaleyo dengan tuan rumah Irfan dan Lukimen.
+Arisan diadakan tanggal 19 May 2018 di Bebek Kaleyo dengan tuan rumah Irfan dan Lukimen. Yang dapat Yunus dan Andi Mardianto.
 
 Berikut beberapa dokumentasi acaranya :
 

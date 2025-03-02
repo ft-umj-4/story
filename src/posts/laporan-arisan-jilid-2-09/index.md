@@ -5,7 +5,7 @@ template: article.jade
 tags: laporan-arisan
 ---
 
-Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://www.dropbox.com/s/lqrvit24hfh3fot/Arisan%20UMJ%20TechInfo4%20Jilid%2002.xlsx?dl=0), namun seperti saya juga malas memperbarui dropbox maka laporan akan saya perbarui juga di laman ini. Berikut adalah update pembayarannya sampai :
+Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://www.dropbox.com/scl/fi/tdza3m570irnf1tftubd3/Arisan-UMJ-TechInfo4-Jilid-02.xlsx?rlkey=5gmagocjahxkrcajw16ol52gg&st=w8x4gyy9&dl=0), namun seperti saya juga malas memperbarui dropbox maka laporan akan saya perbarui juga di laman ini. Berikut adalah update pembayarannya sampai :
 
 
 
@@ -41,7 +41,7 @@ Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://
 
 ### Keterangan tambahan arisan kocokan 08
 + Arisan diadakan tanggal **12-MARET-2018**
-+ Detail dan dokumentasi arisan bisa dilihat [disini](https://ft-umj-4.github.io/story/articles/arisan-jilid-2-05-Rumah-Heri/)
++ Detail dan dokumentasi arisan bisa dilihat [disini](https://ft-umj-4.github.io/story/arisan-jilid-2-05-Rumah-Heri/)
 + Yang dapat arisan :
   -
   -

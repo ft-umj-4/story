@@ -10,7 +10,7 @@ Berikut adalah beberapa ketentuan yang kita sepakati untuk arisan jilid 2 kali i
 
 ## Anggota Arisan
 Anggota arisan lebih lengkap bisa dilihat disini :
-[https://ft-umj-4.github.io/story/articles/daftar-anggota-arisan-jilid-02/](https://ft-umj-4.github.io/story/articles/daftar-anggota-arisan-jilid-02/) atau bisa dilihat di bagian laporan dibawah.
+[https://ft-umj-4.github.io/story/daftar-anggota-arisan-jilid-02/](https://ft-umj-4.github.io/story/daftar-anggota-arisan-jilid-02/) atau bisa dilihat di bagian laporan dibawah.
 
 ## Biaya Arisan
 + Jumlah uang arisan yang disetorkan tiap bulannya sebesar <b>Rp. 150.000,-</b>.
@@ -40,7 +40,7 @@ Anggota arisan lebih lengkap bisa dilihat disini :
 
 ## Laporan arisan
 Laporan arisan bisa dilihat updatenya disini :
-[Lihat di dropbox](https://www.dropbox.com/s/lqrvit24hfh3fot/Arisan%20UMJ%20TechInfo4%20Jilid%2002.xlsx?dl=0), laporan tersebut akan kita update setiap bulannya.
+[Lihat di dropbox](https://www.dropbox.com/scl/fi/tdza3m570irnf1tftubd3/Arisan-UMJ-TechInfo4-Jilid-02.xlsx?rlkey=5gmagocjahxkrcajw16ol52gg&st=w8x4gyy9&dl=0), laporan tersebut akan kita update setiap bulannya.
 
 ## Keterangan tambahan
 Bila ada yang kurang paham, bisa ditanyakan ke anggota lain di group whatsapp.

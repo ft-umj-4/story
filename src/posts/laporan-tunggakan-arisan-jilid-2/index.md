@@ -5,7 +5,7 @@ template: article.jade
 tags: laporan-arisan
 ---
 
-Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://www.dropbox.com/s/lqrvit24hfh3fot/Arisan%20UMJ%20TechInfo4%20Jilid%2002.xlsx?dl=0)
+Update laporan sebenarnya telah diupdate di file excel dropbox [disini](https://www.dropbox.com/scl/fi/tdza3m570irnf1tftubd3/Arisan-UMJ-TechInfo4-Jilid-02.xlsx?rlkey=5gmagocjahxkrcajw16ol52gg&st=w8x4gyy9&dl=0)
 
 
 ### Update per Arisan Kocokan ke-12 :
