@@ -1,7 +1,6 @@
 ---
 title: Pembuatan Jaket Alumni FT-UMJ IV
 date: 2025-02-26
-template: article.jade
 tags:
   - updates
 thumb: 2025-02-23-tim-investigasi-mampir-makan.jpeg

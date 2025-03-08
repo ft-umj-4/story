@@ -1,7 +1,6 @@
 ---
 title: Arisan Jilid 1 - 10 - Rumah Tandri
 date: 2015-12-23
-template: article.jade
 tags:
  - arisan
  - arisan-jilid-1

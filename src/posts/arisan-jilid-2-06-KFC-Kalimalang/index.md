@@ -1,7 +1,6 @@
 ---
 title: Dokumentasi Arisan Jilid 2 - Kocokan ke 06 - KFC Kalimalang
 date: 2018-01-07
-template: article.jade
 tags:
  - arisan
  - arisan-jilid-2

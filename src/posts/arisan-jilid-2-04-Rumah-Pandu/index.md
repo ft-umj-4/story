@@ -1,7 +1,6 @@
 ---
 title: Dokumentasi Arisan Jilid 2 - Kocokan ke 04 - Rumah Pandu
 date: 2017-07-22
-template: article.jade
 tags:
  - arisan
  - arisan-jilid-2

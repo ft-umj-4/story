@@ -1,7 +1,6 @@
 ---
 title: Dokumentasi Arisan Jilid 2 - Kocokan ke 12 - KFC Cempaka Putih
 date: 2018-11-11
-template: article.jade
 tags:
  - arisan
  - arisan-jilid-2

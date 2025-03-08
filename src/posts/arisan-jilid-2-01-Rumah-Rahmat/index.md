@@ -1,7 +1,6 @@
 ---
 title: Dokumentasi Arisan Jilid 2 - Kocokan ke 01 - Rumah Rahmat
 date: 2017-04-08
-template: article.jade
 tags:
  - arisan
  - arisan-jilid-2

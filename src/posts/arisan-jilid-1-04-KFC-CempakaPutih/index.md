@@ -1,7 +1,6 @@
 ---
 title: Arisan Jilid 1 - 04 - KFC Cempaka Putih
 date: 2015-06-14
-template: article.jade
 tags:
  - arisan
  - arisan-jilid-1

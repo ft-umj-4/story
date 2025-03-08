@@ -1,7 +1,6 @@
 ---
 title: Arisan Jilid 1 - 09 - Rumah Rahmat
 date: 2015-11-23
-template: article.jade
 tags:
  - arisan
  - arisan-jilid-1

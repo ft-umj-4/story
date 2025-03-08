@@ -1,7 +1,6 @@
 ---
 title: Rincian Pengeluaran Survey Gathering
 date: 2018-11-19
-template: article.jade
 tags: laporan-outing
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Arisan Jilid 1 - 07 - Rumah Emma
 date: 2015-09-23
-template: article.jade
 tags:
  - arisan
  - arisan-jilid-1

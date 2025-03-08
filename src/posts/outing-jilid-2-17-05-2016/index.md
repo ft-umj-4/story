@@ -1,7 +1,6 @@
 ---
 title: Outing Jilid 2
 date: 2016-05-14
-template: article.jade
 tags: outing
 thumb: outing-2-0.jpg
 ---

@@ -1,7 +1,6 @@
 ---
 title: Laporan Tunggakan Arisan Jilid 2
 date: 2018-11-12
-template: article.jade
 tags: laporan-arisan
 ---
 

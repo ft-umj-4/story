@@ -1,7 +1,6 @@
 ---
 title: Arisan Jilid 1 - 03 - Rumah Anto
 date: 2015-05-23
-template: article.jade
 tags:
  - arisan
  - arisan-jilid-1

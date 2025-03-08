@@ -1,7 +1,6 @@
 ---
 title: Arisan Jilid 1 - 08 - Rumah Pandu
 date: 2015-10-23
-template: article.jade
 tags:
  - arisan
  - arisan-jilid-1

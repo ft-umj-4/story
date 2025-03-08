@@ -1,7 +1,6 @@
 ---
 title: Laporan Arisan Jilid 02 FT UMJ IV - Kocokan 05
 date: 2017-09-17
-template: article.jade
 tags: laporan-arisan
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Undangan Inisiasi Arisan Jilid 2
 date: 2017-03-30
-template: article.jade
 tags: laporan-arisan
 thumb: arisan.jpg
 ---

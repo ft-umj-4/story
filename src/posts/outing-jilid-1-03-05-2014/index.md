@@ -1,7 +1,6 @@
 ---
 title: Outing Jilid 1
 date: 2014-05-03
-template: article.jade
 tags: outing
 thumb: villa-erika.jpg
 ---

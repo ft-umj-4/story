@@ -1,7 +1,6 @@
 ---
 title: Meyambut Anak Pertama Sodara Akhmad Syafrul Afandi
 date: 2017-04-08
-template: article.jade
 tags: family-updates
 ---
 

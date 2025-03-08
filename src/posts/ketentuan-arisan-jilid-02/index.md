@@ -1,7 +1,6 @@
 ---
 title: Ketentuan Arisan jilid 02
 date: 2017-04-08
-template: article.jade
 tags: laporan-arisan
 ---
 

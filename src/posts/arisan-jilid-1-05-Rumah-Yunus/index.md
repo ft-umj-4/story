@@ -1,7 +1,6 @@
 ---
 title: Arisan Jilid 1 - 05 - Rumah Yunus
 date: 2015-07-23
-template: article.jade
 tags:
  - arisan
  - arisan-jilid-1

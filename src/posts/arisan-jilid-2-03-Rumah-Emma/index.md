@@ -1,7 +1,6 @@
 ---
 title: Dokumentasi Arisan Jilid 2 - Kocokan ke 03 - Rumah Emma
 date: 2017-06-10
-template: article.jade
 tags:
  - arisan
  - arisan-jilid-2

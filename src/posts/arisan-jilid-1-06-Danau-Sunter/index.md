@@ -1,7 +1,6 @@
 ---
 title: Arisan Jilid 1 - 06 - Danau Sunter
 date: 2015-08-23
-template: article.jade
 tags:
  - arisan
  - arisan-jilid-1

@@ -1,7 +1,6 @@
 ---
 title: Daftar Anggota Arisan Jilid 02 FT UMJ IV
 date: 2017-04-08
-template: article.jade
 tags: daftar-anggota
 ---
 

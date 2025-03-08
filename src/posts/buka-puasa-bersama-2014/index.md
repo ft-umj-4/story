@@ -1,7 +1,6 @@
 ---
 title: Buka Puasa Bersama 2014
 date: 2014-04-04
-template: article.jade
 tags: bukber
 thumb: bukber-2014-1.jpg
 ---

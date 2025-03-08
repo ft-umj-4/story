@@ -1,7 +1,6 @@
 ---
 title: Dokumentasi Arisan Jilid 2 - Kocokan ke 05 - Rumah Heri
 date: 2017-09-17
-template: article.jade
 tags:
  - arisan
  - arisan-jilid-2

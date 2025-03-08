@@ -1,7 +1,6 @@
 ---
 title: Dokumentasi Arisan Jilid 2 - Kocokan ke 08 - Rumah Syafrul
 date: 2018-03-12
-template: article.jade
 tags:
  - arisan
  - arisan-jilid-2

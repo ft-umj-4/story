@@ -1,7 +1,6 @@
 ---
 title: Buka Puasa Bersama 2012
 date: 2022-07-12
-template: article.jade
 tags: bukber
 thumb: 2022-07-12-bukber-01.jpeg
 ---
