@@ -18,4 +18,7 @@ Setelah sekian purnama tidak bersua, akhirnya tahun 2025 ini kami kembali mengad
 
 ## Laporan Keuangan Terkait Buk Ber 2025
 
-<iframe class="w-full min-h-[400px]" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT0ZNIseJ-j9h32bSAXdBmyjDHurnEnUuYyszfu52HCTncYP0mbbQXf5Jxw9m4coOhloUjphfdw6qBj/pubhtml?widget=true&amp;headers=false"></iframe>
+<div class="rounded-2xl bg-black text-slate-400 text-xs md:text-sm">
+  <iframe class="w-full min-h-[400px] rounded-t-2xl" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT0ZNIseJ-j9h32bSAXdBmyjDHurnEnUuYyszfu52HCTncYP0mbbQXf5Jxw9m4coOhloUjphfdw6qBj/pubhtml?widget=true&amp;headers=false"></iframe>
+  <div class="w-full p-4">Dokumen laporan pesanan menu bukber dan pengambilan jaket</div>
+</div>
