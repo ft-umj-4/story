@@ -1,13 +1,13 @@
 ---
-title: Buka Puasa Bersama 2012
+title: Buka Puasa Bersama 2022
 date: 2022-07-12
 tags: bukber
 thumb: 2022-07-12-bukber-01.jpeg
 ---
 
-Setelah sekian lama, tahun 2012 kami bisa menyempatkan buka bersama dalam suasana bulan ramadhan. Tidak banyak yang bisa hadir, tapi semoga cukup mewakili setelah beberapa tahun tidak sempat bersua karena kesibukan masing-masing. Buka bersama kali ini diadakan di Iga Bagus, Tebet.
+Setelah sekian lama, tahun 2022 kami bisa menyempatkan buka bersama dalam suasana bulan ramadhan. Tidak banyak yang bisa hadir, tapi semoga cukup mewakili setelah beberapa tahun tidak sempat bersua karena kesibukan masing-masing. Buka bersama kali ini diadakan di Iga Bagus, Tebet.
 
-### Dokumentasi Bukber 2012
+### Dokumentasi Bukber 2022
 
 <div class="table-responsive-compact !m-0">
   <table class="table !m-0">
