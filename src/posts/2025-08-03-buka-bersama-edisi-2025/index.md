@@ -73,6 +73,10 @@ Setelah sekian purnama tidak bersua, akhirnya tahun 2025 ini kami kembali mengad
       <figcaption>Tim Ceki</figcaption>
    </figure>
    <figure>
+      <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/2025-08-03-tim-mahoo.jpeg" alt="Tim Mahoo" />
+      <figcaption>Tim Mahoo</figcaption>
+   </figure>
+   <figure>
       <img class="lazy content-img" src="/story/assets/img/placeholder.png" data-src="/story/assets/img/2025-08-03-snoy-heri-kholis.jpeg" alt="Snoy, Heri & Kholis" />
       <figcaption>Snoy, Heri & Kholis</figcaption>
    </figure>
